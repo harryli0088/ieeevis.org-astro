@@ -1,0 +1,66 @@
+/* Body */
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* Containers */
+
+.container {
+    max-width: 1280px;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    margin: auto;
+}
+
+@variant sm {
+    .container {
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+}
+
+.flex-parent {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+.title {
+    flex: auto;
+    max-width: 550px;
+}
+
+.carousel-container {
+    width: 600px;
+    /*min-width: 400px;*/
+    max-width: 1000px;
+}
+
+.ieee-pub-notice {
+    padding: 10px;
+    background: white;
+    border-radius: 10px;
+}
+
+
+/* Main */
+
+main {
+    margin-top: 70px; 
+    /* Push down to compensate for fixed nav*/
+
+    /* margin-top: 140px;  */
+    /* Adding 70px for the program navbar */
+}
+
+article, aside {
+    scroll-margin-top: 30px;
+}
+
+@variant md {
+    main {
+        margin-top: 0px;
+    }
+}
+
