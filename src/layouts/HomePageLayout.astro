@@ -1,0 +1,24 @@
+---
+import DefaultLayout from "./DefaultLayout.astro";
+import WelcomeLetter from "../components/WelcomeLetter.astro";
+import MainBanner from "../components/MainBanner.astro";
+const { frontmatter } = Astro.props;
+---
+
+<DefaultLayout page_info={frontmatter}>
+
+    <MainBanner
+        description={frontmatter.description}
+        logo_src={frontmatter.logo_src}
+        event_location={frontmatter.event_location}
+        event_date={frontmatter.event_date}
+    />
+
+    <WelcomeLetter
+        title={frontmatter.title}
+        image_src={frontmatter.image_src}
+        image_alt={frontmatter.image_alt}
+    >
+        <slot />
+    </WelcomeLetter>
+</DefaultLayout>
