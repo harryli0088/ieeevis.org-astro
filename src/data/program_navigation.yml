@@ -1,0 +1,62 @@
+# Example Navigation Config
+
+# registration:
+#   display:
+#
+# menu
+#   - dropdown:
+#     display:
+#     sections:
+#       - subsections:
+#           - heading:
+#             heading_url:
+#             description:
+#             columns:
+#               - heading:
+#                 links:
+#                   - text:
+#                     url:
+#                     is_new:
+#                     is_external
+
+navbar_metadata:
+  display: false
+  label: 'Content'
+  use_auth0: false
+  
+
+
+schedule:
+  display: false
+  text: "Schedule"
+  url: "/year/2025/program/calendar"
+
+all_events:
+  display: false
+  text: "All Events"
+  url: "/year/2025/program/events.html"
+
+papers:
+  display: false
+  text: "Accepted Papers"
+  url: "/year/2025/program/papers.html"
+
+posters:
+  display: false
+  text: "Posters"
+  url: "/year/2025/program/posters.html"
+
+# workshops:
+#   display: false
+#   text: "Workshops"
+#   url: "/year/2025/program/workshops.html"
+
+# speakers:
+#   display: false
+#   text: "Speakers"
+#   url: "/year/2025/program/speakers.html"
+
+awards:
+  display: false
+  text: "Awards"
+  url: "/year/2025/program/awards/awards.html"
