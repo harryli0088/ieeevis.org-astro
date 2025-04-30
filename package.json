@@ -1,0 +1,35 @@
+{
+  "name": "ieeevis.org",
+  "version": "1.0.0",
+  "year": "2025",
+  "description": "This is the updated Astro version of the [IEEE VIS website](http://ieeevis.org).",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/react": "^4.2.5",
+    "@tailwindcss/typography": "^0.5.16",
+    "@tailwindcss/vite": "^4.1.4",
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "astro": "^5.7.5",
+    "front-matter": "^4.0.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "tailwindcss": "^4.1.4",
+    "yaml": "^2.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ieee-vgtc/ieeevis.org"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ieee-vgtc/ieeevis.org/issues"
+  },
+  "homepage": "https://github.com/ieee-vgtc/ieeevis.org#readme"
+}
