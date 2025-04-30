@@ -1,0 +1,78 @@
+import { useState, useEffect } from 'react';
+
+export default function Carousel({ items }) {
+    
+    const [current, setCurrent] = useState(0)
+
+    // the timer starts every time slide changes (automatically or manually)
+    useEffect(() => {
+        const interval = setInterval(() => {
+            setCurrent(prev => (prev + 1) % items.length);
+          }, 4000); // Change slide every 4 seconds
+      
+          return () => clearInterval(interval); // Clean up on unmount
+    }, [current])
+
+
+    return <>
+        <div id="myCarousel" className="carousel slide bg-secondary-800">
+            <ol className="carousel-indicators my-2">
+                {
+                    items.map((item, i) => (
+                        <li
+                            data-target="#myCarousel"
+                            className={i == current ? "active" : ""}
+                            key={`carousel-item-btn-${i}`}
+                            onClick={() => setCurrent(i)}
+                        />
+                    ))
+                }
+            </ol>
+
+            <div className="carousel-inner ">
+                {
+                    items.map((item, i) => (
+                        <div 
+                            className={`carousel-item ${i == current ? "active" : ""}`}
+                            key={`carousel-item-container-${i}`}
+                        >
+                            {item.image && (
+                                <img
+                                    className="d-block w-full"
+                                    src={`assets/carousel/${item.image}`}
+                                />
+                            )}
+
+                            {(item.description || item.buttonText) &&
+                                (item.darken ? (
+                                    <div className="carousel-caption carousel-darken">
+                                        <span className="block carousel-title">
+                                            {item.title}
+                                        </span>
+                                        <p className="carousel-p">{item.description}</p>
+                                        <a href={item.buttonUrl} className="button">
+                                            {item.buttonText}
+                                        </a>
+                                    </div>
+                                ) : (
+                                    <div className="carousel-caption d-none d-md-block bg-dark my-4 p-2 pb-5">
+                                        <span className="block carousel-title">
+                                            {item.title}
+                                        </span>
+                                        <p className="carousel-p">{item.description}</p>
+                                        <a
+                                            href={item.buttonUrl}
+                                            className="button bg-primary"
+                                        >
+                                            {item.buttonText}
+                                        </a>
+                                    </div>
+                                ))}
+                        </div>
+                    ))
+                }
+
+            </div>
+        </div>
+    </>
+  }
