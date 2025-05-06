@@ -1,8 +1,8 @@
 import { useState } from 'react';
 
-export default function Navigation({ nav_data }) {
-    const [isExpanded, setIsExpanded] = useState(true)
-    const [selectedDropDownIndex, setSelectedDropDownIndex] = useState(null)
+export default function Navigation({ nav_data }:{nav_data:NavDataType}) {
+    const [isExpanded, setIsExpanded] = useState<boolean>(true)
+    const [selectedDropDownIndex, setSelectedDropDownIndex] = useState<number | null>(null)
 
     return (
         <div id="navigation">
@@ -30,7 +30,7 @@ export default function Navigation({ nav_data }) {
                         nav_data.blog.display && <a className="nav-text-link" href={nav_data.blog.url}>
                             <button
                                 className="menu_item {{is_active_class}} font-display text-lg md:text-base lg:text-lg px-8 md:px-2 lg:px-4 mx-0 lg:mx-2 py-4 md:py-6 border-b-2 border-primary-200 md:border-none"
-                                tabIndex="0"
+                                tabIndex={0}
                                 role="menuitem"
                             >
                                 {nav_data.blog.text}
@@ -44,7 +44,7 @@ export default function Navigation({ nav_data }) {
                             <div key={`nav-div-${i}`}>
                                 <button
                                     className={`menu_item {{is_active_class}} font-display text-lg md:text-base lg:text-lg px-8 md:px-2 lg:px-4 mx-0 lg:mx-2 py-4 md:py-6 border-b-2 border-primary-200 md:border-none ${selectedDropDownIndex === i ? "menu_item--focused" : ""}`}
-                                    tabIndex="0"
+                                    tabIndex={0}
                                     role="menuitem"
                                     key={`nav-item-${i}`}
                                     onClick={() => {
@@ -169,4 +169,48 @@ export default function Navigation({ nav_data }) {
 
         </div>
     )
+}
+
+type NavDataType = {
+  "blog": SimpleLinkType,
+  "menu": NavMenuType[],
+  "registration": SimpleLinkType,
+}
+
+type SimpleLinkType = {
+  "display": boolean, //false,
+  "text": string, //"Register",
+  "url": string, //"/year/2025/info/registration/conference-registration"
+}
+
+
+type NavMenuType = {
+  "dropdown": string, //"Contribute",
+  "display": boolean, //true,
+  "sections": NavSectionType[]
+}
+
+type NavSectionType = {
+  "heading"?: string, //"Get Involved"
+  "subsections": NavSubsectionType[],
+}
+
+type NavSubsectionType = {
+  "columns"?: NavColumnType[],
+  "description"?: string,
+  "heading": "Call for Participation",
+  "heading_url"?: string, //"/year/2025/info/inclusion/code-of-conduct"
+}
+
+type NavColumnType = {
+  "heading": string, //"Submit Your Work",
+  "links": NavLinkType[],
+}
+
+type NavLinkType = {
+  "description"?: string, //"Meet people for discussion and shared experiences"
+  "is_external"?: boolean,
+  "is_new"?: boolean, //false
+  "text": string, //"Papers",
+  "url": string, //"/year/2025/info/call-participation/call-for-participation",
 }
