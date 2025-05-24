@@ -23,7 +23,7 @@
 registration:
   display: false
   text: "Register"
-  url: "/year/2025/info/registration/conference-registration"
+  url: "/info/registration/conference-registration"
 
 # ---------------------------------------------------------------------------
 blog:
@@ -44,75 +44,75 @@ menu:
               - heading: "Submit Your Work"
                 links:
                   - text: "Papers"
-                    url: "/year/2025/info/call-participation/call-for-participation"
+                    url: "/info/call-participation/call-for-participation"
                     is_new: false
                   - text: "Short Papers"
-                    url: "/year/2025/info/call-participation/shortpapers"
+                    url: "/info/call-participation/shortpapers"
                     is_new: false
                   - text: "Posters"
-                    url: "/year/2025/info/call-participation/posters"
+                    url: "/info/call-participation/posters"
                     is_new: false
                   - text: "Tutorials"
-                    url: "/year/2025/info/call-participation/tutorials"
+                    url: "/info/call-participation/tutorials"
                     is_new: false
                   - text: "Workshops"
-                    url: "/year/2025/info/call-participation/workshops"
+                    url: "/info/call-participation/workshops"
                     is_new: false
                   - text: "Panels"
-                    url: "/year/2025/info/call-participation/panels"
+                    url: "/info/call-participation/panels"
                     is_new: false
                   - text: "Doctoral Colloquium"
-                    url: "/year/2025/info/call-participation/doctoral-colloquium"
+                    url: "/info/call-participation/doctoral-colloquium"
                     is_new: true
               - heading: "Info for Contributors"
                 links:
                   - text: "Area Model for VIS"
-                    url: "/year/2025/info/call-participation/area-model"
+                    url: "/info/call-participation/area-model"
                     is_new: false
                   - text: "Paper Submission Guidelines"
-                    url: "/year/2025/info/call-participation/paper-submission-guidelines"
+                    url: "/info/call-participation/paper-submission-guidelines"
                     is_new: false
                   - text: "Submission Keywords"
-                    url: "/year/2025/info/call-participation/paper-keywords"
+                    url: "/info/call-participation/paper-keywords"
                     is_new: false
                   - text: "Partnerships"
-                    url: "/year/2025/info/call-participation/partnerships"
+                    url: "/info/call-participation/partnerships"
                     is_new: false
                   - text: "Open Practices"
-                    url: "/year/2025/info/open-practices/open-practices"
+                    url: "/info/open-practices/open-practices"
                     is_new: false
                   - text: "Review Instructions"
-                    url: "/year/2025/info/call-participation/review-instructions"
+                    url: "/info/call-participation/review-instructions"
                     is_new: false
                   #  - text: "Accessible PDFs"
-                  #    url: "/year/2025/info/call-participation/accessible-pdf"
+                  #    url: "/info/call-participation/accessible-pdf"
                   #    is_new: false
 
           #- heading: "Presenter Information"
           #  columns:
           #    - links:
                 # - text: "Virtual Technical Information for Presenters and Organizers"
-                #   url: "/year/2025/info/presenter-information/virtual-technical-information"
+                #   url: "/info/presenter-information/virtual-technical-information"
                 #   is_new: true
                 # - text: "Final Information for Paper Authors"
-                #   url: "/year/2025/info/presenter-information/final-information-paper-authors"
+                #   url: "/info/presenter-information/final-information-paper-authors"
                 #   is_new: false
                 # - text: "Video Previews"
-                #   url: "/year/2025/info/presenter-information/fast-forward-and-video-previews"
+                #   url: "/info/presenter-information/fast-forward-and-video-previews"
                 #   is_new: false
                 # - text: "Preparing Your Talk"
-                #   url: "/year/2025/info/presenter-information/talk-guide"
+                #   url: "/info/presenter-information/talk-guide"
                 #   is_new: false
 
           - heading: "Code of Conduct"
-            heading_url: "/year/2025/info/inclusion/code-of-conduct"
+            heading_url: "/info/inclusion/code-of-conduct"
       - subsections:
           - heading: "Get Involved"
             columns:
               - links:
                   - text: "Organize a meetup"
                     description: "Meet people for discussion and shared experiences"
-                    url: "/year/2025/info/call-participation/meetups"
+                    url: "/info/call-participation/meetups"
                     is_new: false
                   - text: "Become a student volunteer"
                     description: "Support the conference and build your research network"
@@ -124,10 +124,10 @@ menu:
                     is_external: true
                   #- text: "Elections"
                   #  description: "Register to vote and nominate/review candidates for the VSC/VEC"
-                  #  url: "/year/2025/info/elections"
+                  #  url: "/info/elections"
                   #  is_new: false
           - heading: "Supporters"
-            heading_url: "/year/2025/supporters"
+            heading_url: "/supporters"
             description: "Your support makes this conference possible!"
 
 # ---------------------------------------------------------------------------
@@ -140,31 +140,31 @@ menu:
               - heading: "Attend"
                 links:
                   - text: "Registration"
-                    url: "/year/2025/info/registration-and-travel/conference-registration"
+                    url: "/info/registration-and-travel/conference-registration"
                     is_new: false
                   - text: "Venue"
-                    url: "/year/2025/info/registration-and-travel/venue"
+                    url: "/info/registration-and-travel/venue"
                     is_new: true
                   - text: "Transportation"
-                    url: "/year/2025/info/registration-and-travel/transportation"
+                    url: "/info/registration-and-travel/transportation"
                     is_new: true
                   - text: "Green Meeting Certificate"
-                    url: "/year/2025/info/registration-and-travel/green-meeting"
+                    url: "/info/registration-and-travel/green-meeting"
                     is_new: true
               - heading: "Travel"
                 links:
                   - text: "Traveling to Vienna"
-                    url: "/year/2025/info/registration-and-travel/travel-information"
+                    url: "/info/registration-and-travel/travel-information"
                     is_new: false
                   - text: "Hotel Information"
-                    url: "/year/2025/info/registration-and-travel/hotel-information"
+                    url: "/info/registration-and-travel/hotel-information"
                     is_new: true
                   - text: "Visas"
-                    url: "/year/2025/info/registration-and-travel/visas"
+                    url: "/info/registration-and-travel/visas"
                     is_new: false
 
           - heading: "Code of Conduct"
-            heading_url: "/year/2025/info/inclusion/code-of-conduct"
+            heading_url: "/info/inclusion/code-of-conduct"
 
       - subsections:
           - heading: "Vienna, Austria"
@@ -173,29 +173,29 @@ menu:
               - links:
                   - text: "Sights and famous places"
                     description: "Well-known sights and things to see"
-                    url: "/year/2025/info/registration-and-travel/vienna-places"
+                    url: "/info/registration-and-travel/vienna-places"
                     is_new: true
                   - text: "Recommendations from Locals"
                     description: "Tips by local people what to not miss in Vienna"
-                    url: "/year/2025/info/registration-and-travel/vienna-tips"
+                    url: "/info/registration-and-travel/vienna-tips"
                     is_new: true
 
       - subsections:
           - heading: "Inclusion"
-            heading_url: "/year/2025/info/inclusion/inclusivity"
+            heading_url: "/info/inclusion/inclusivity"
             columns:
               - links:
                   - text: "Inclusivity Scholarship"
                     description: "Need-based scholarships for conference attendance"
-                    url: "/year/2025/info/inclusion/scholarship"
+                    url: "/info/inclusion/scholarship"
                     is_new: false
                   - text: "Accessibility"
                     description: "Supporting access for all attendees"
-                    url: "/year/2025/info/accessibility/attend"
+                    url: "/info/accessibility/attend"
                     is_new: false
                   - text: "VISKids"
                     description: "Childcare and activities open to everyone"
-                    url: "/year/2025/info/inclusion/viskids"
+                    url: "/info/inclusion/viskids"
                     is_new: false
 
 # ---------------------------------------------------------------------------
@@ -204,61 +204,61 @@ menu:
     sections:
       - subsections:
           - heading: "Vis Program"
-            heading_url: "/year/2025/info/program/week-at-a-glance"
+            heading_url: "/info/program/week-at-a-glance"
             description: "Conference program will be gradually expanded"
             columns:
               - links:
                   - text: "Week at a Glance"
                     description: "Preliminary overview of the conference week"
-                    url: "/year/2025/info/program/week-at-a-glance"
+                    url: "/info/program/week-at-a-glance"
                     is_new: true
                   #- text: "Paper Sessions"
                   #  description: "The latest research in theory, methods, and applications of visualization"
-                  #  url: "/year/2025/info/papers-sessions"
+                  #  url: "/info/papers-sessions"
                   #  is_new: true
                   # - text: "Posters"
                   #   description: "Nascent and recent work"
-                  #   url: "/year/2025/info/posters"
+                  #   url: "/info/posters"
                   #   is_new: true
                   #- text: "Tutorials"
                   #  description: "Learn new tools and application domains"
-                  #  url: "/year/2025/info/tutorials"
+                  #  url: "/info/tutorials"
                   #  is_new: false
                   #- text: "Workshops"
                   #  description: "Informal setting to discuss emerging topics"
-                  #  url: "/year/2025/info/workshops"
+                  #  url: "/info/workshops"
                   #  is_new: false
                   #- text: "Panels"
                   #  description: "Discuss important and controversial issues"
-                  #  url: "/year/2025/info/panels"
+                  #  url: "/info/panels"
                   #  is_new: true
       - subsections:
           - heading: "Invited Speakers"
-            heading_url: "/year/2025/info/keynote-speaker"
+            heading_url: "/info/keynote-speaker"
             description: "Keynote and Capstone Speakers"
             columns:
               - links:
                   - text: "Keynote"
                     description: "Hans-Christian Hege"
-                    url: "/year/2025/info/keynote-speaker"
+                    url: "/info/keynote-speaker"
                     is_new: true
                   #- text: "Capstone"
                   #  description: "Prof. Catherine D'Ignazio, MIT"
-                  #  url: "/year/2025/info/capstone-speaker"
+                  #  url: "/info/capstone-speaker"
                   #  is_new: false
 #           - heading: "Awards and Recognitions"
 #             description: "Recognize outstanding work by the VIS community"
 #             columns:
 #              - links:
 #                - text: "Best Paper/Poster Awards"
-#                  url: "/year/2025/info/awards/best-paper-awards"
+#                  url: "/info/awards/best-paper-awards"
 #                  is_new: true
 #   # - text: "Service Awards"
 #   #   url: "https://www.google.com"
 #   # - text: "VGTC VIS Awards"
 #   #   url: "https://www.google.com"
 #                - text: "Test of Time Awards"
-#                  url: "/year/2025/info/awards/test-of-time-awards"
+#                  url: "/info/awards/test-of-time-awards"
 #                  is_new: true
       #- subsections:
           #- heading: "Plenary Sessions"
@@ -266,12 +266,12 @@ menu:
           #  columns:
           #   - links:
                #- text: "Vis Townhall"
-               #  url: "/year/2025/info/townhall"
+               #  url: "/info/townhall"
                #  is_new: true
                # - text: "Keynote Address"
-               #   url: "/year/2025/info/keynote-speaker"
+               #   url: "/info/keynote-speaker"
                 #- text: "Capstone Address"
-                # url: "/year/2025/info/capstone-speaker"
+                # url: "/info/capstone-speaker"
 #   #              # - links:
 #   #              #   - text: "Download the App"
 #   #              #     url: "https://www.google.com"
@@ -294,7 +294,7 @@ menu:
                     is_external: false
                   - text: "VisInPractice"
                     description: "Invited talks by visualization practitioners"
-                    url: "/year/2025/info/visinpractice"
+                    url: "/info/visinpractice"
                     is_new: false
                   #- text: "LDAV Symposium"
                   #  description: "Big Data Analysis and Visualization"
@@ -325,7 +325,7 @@ menu:
       #- subsections:
       #    - heading: "IEEE VIS Workshops"
       #      display: false
-      #      heading_url: "/year/2025/info/workshops"
+      #      heading_url: "/info/workshops"
       #      description: "Informal settings to discuss emerging topics"
       #      columns:
       #        - links:
@@ -346,7 +346,7 @@ menu:
       #              url: "https://biovis.net/2025/biovisChallenges_vis/"
       #              is_external: true
       #    - heading: "Meetups"
-      #      heading_url: "/year/2025/info/meetups"
+      #      heading_url: "/info/meetups"
       #      description: "Meet for discussion and shared experiences"
       #      columns:
       #        - links:
@@ -356,24 +356,24 @@ menu:
       #            is_external: true
       #          - text: "Velo Club de VIS"
       #            description: "Meet and mingle with other bicycle riders"
-      #            url: "/year/2025/info/meetups#vis-velo"
+      #            url: "/info/meetups#vis-velo"
       #          - text: "Vis4Good"
       #            description: "Visualization for Good"
-      #            url: "/year/2025/info/meetups#vis4good"
+      #            url: "/info/meetups#vis4good"
       #          - text: "Reproducibility Stamp Initiative"
       #            description: "A Reproducibility Stamp Initiative for Visualization"
-      #            url: "/year/2025/info/meetups#reproducibility"
+      #            url: "/info/meetups#reproducibility"
       - subsections:
           #- heading: "Community"
-          #  heading_url: "/year/2025/info/call-participation/community"
+          #  heading_url: "/info/call-participation/community"
           #  description: "Explore social and topic-based community groups"
           #  columns:
       #      - heading: "Connect"
       #        links:
                  #- text: "Vis Buddies"
-                 #  url: "/year/2025/info/meetups#vis-newcomers"
+                 #  url: "/info/meetups#vis-newcomers"
                  #- text: "Job Postings"
-                 #  url: "/year/2025/info/jobs"
+                 #  url: "/info/jobs"
 #              - heading: "Social Groups"
 #                links:
 #                  - text: "Velo Club de VIs"
@@ -476,22 +476,22 @@ menu:
             columns:
               - links:
                   - text: "Historical Best Paper Awards"
-                    url: "/year/2025/info/history/best-paper-award"
+                    url: "/info/history/best-paper-award"
 
       - subsections:
           - heading: "Committees"
             columns:
               - links:
                   - text: "VIS 2025 Organizing Committee"
-                    url: "/year/2025/info/committees/conference-committee"
+                    url: "/info/committees/conference-committee"
                   - text: "Program Committees"
-                    url: "/year/2025/info/committees/program-committees"
+                    url: "/info/committees/program-committees"
                   - text: "VIS Steering Committee"
-                    url: "/year/2025/info/committees/steering-committees"
+                    url: "/info/committees/steering-committees"
                   - text: "VIS Executive Committee"
-                    url: "/year/2025/info/committees/vis-executive-committee"
+                    url: "/info/committees/vis-executive-committee"
                   - text: "Area Curation Committee"
-                    url: "/year/2025/info/committees/area-committee"
+                    url: "/info/committees/area-committee"
                   - text: "reVISe 1.1"
                     url:  "/blog/vis-2025-revise"
           - heading: "Governance Documents"
@@ -502,7 +502,7 @@ menu:
                   - text: "Best Paper Process"
                     url: "/governance/best-paper-process"
           - heading: "Code of Conduct"
-            heading_url: "/year/2025/info/inclusion/code-of-conduct"
+            heading_url: "/info/inclusion/code-of-conduct"
 
       - subsections:
           - heading: "Upcoming Years"
@@ -517,4 +517,4 @@ menu:
             columns:
               - links:
                   - text: "Updating the website content"
-                    url: "/year/2025/info/contributing"
+                    url: "/info/contributing"

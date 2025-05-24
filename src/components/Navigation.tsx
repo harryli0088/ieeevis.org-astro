@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-export default function Navigation({ nav_data }:{nav_data:NavDataType}) {
+export default function Navigation({ nav_data }: { nav_data: NavDataType }) {
     const [isExpanded, setIsExpanded] = useState<boolean>(true)
     const [selectedDropDownIndex, setSelectedDropDownIndex] = useState<number | null>(null)
 
@@ -164,7 +164,9 @@ export default function Navigation({ nav_data }:{nav_data:NavDataType}) {
 
             {/* The overlay when menu is expanded */}
             <div className="navigation__overlay"
-                hidden={selectedDropDownIndex === null}>
+                hidden={selectedDropDownIndex === null}
+                onClick={() => setSelectedDropDownIndex(null)}
+                >
             </div>
 
         </div>
@@ -172,45 +174,45 @@ export default function Navigation({ nav_data }:{nav_data:NavDataType}) {
 }
 
 type NavDataType = {
-  "blog": SimpleLinkType,
-  "menu": NavMenuType[],
-  "registration": SimpleLinkType,
+    "blog": SimpleLinkType,
+    "menu": NavMenuType[],
+    "registration": SimpleLinkType,
 }
 
 type SimpleLinkType = {
-  "display": boolean, //false,
-  "text": string, //"Register",
-  "url": string, //"/year/2025/info/registration/conference-registration"
+    "display": boolean, //false,
+    "text": string, //"Register",
+    "url": string, //"/year/2025/info/registration/conference-registration"
 }
 
 
 type NavMenuType = {
-  "dropdown": string, //"Contribute",
-  "display": boolean, //true,
-  "sections": NavSectionType[]
+    "dropdown": string, //"Contribute",
+    "display": boolean, //true,
+    "sections": NavSectionType[]
 }
 
 type NavSectionType = {
-  "heading"?: string, //"Get Involved"
-  "subsections": NavSubsectionType[],
+    "heading"?: string, //"Get Involved"
+    "subsections": NavSubsectionType[],
 }
 
 type NavSubsectionType = {
-  "columns"?: NavColumnType[],
-  "description"?: string,
-  "heading": "Call for Participation",
-  "heading_url"?: string, //"/year/2025/info/inclusion/code-of-conduct"
+    "columns"?: NavColumnType[],
+    "description"?: string,
+    "heading": "Call for Participation",
+    "heading_url"?: string, //"/year/2025/info/inclusion/code-of-conduct"
 }
 
 type NavColumnType = {
-  "heading": string, //"Submit Your Work",
-  "links": NavLinkType[],
+    "heading": string, //"Submit Your Work",
+    "links": NavLinkType[],
 }
 
 type NavLinkType = {
-  "description"?: string, //"Meet people for discussion and shared experiences"
-  "is_external"?: boolean,
-  "is_new"?: boolean, //false
-  "text": string, //"Papers",
-  "url": string, //"/year/2025/info/call-participation/call-for-participation",
+    "description"?: string, //"Meet people for discussion and shared experiences"
+    "is_external"?: boolean,
+    "is_new"?: boolean, //false
+    "text": string, //"Papers",
+    "url": string, //"/year/2025/info/call-participation/call-for-participation",
 }

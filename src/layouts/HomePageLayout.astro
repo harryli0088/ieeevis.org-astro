@@ -2,11 +2,15 @@
 import DefaultLayout from "./DefaultLayout.astro";
 import WelcomeLetter from "../components/WelcomeLetter.astro";
 import MainBanner from "../components/MainBanner.astro";
+import Supporters from "../components/Supporters";
+
+import { load_yaml } from "../utils/load_yaml";
+const supporters_data = load_yaml("./src/data/supporters.yml")
+
 const { frontmatter } = Astro.props;
 ---
 
 <DefaultLayout page_info={frontmatter}>
-
     <MainBanner
         description={frontmatter.description}
         logo_src={frontmatter.logo_src}
@@ -22,5 +26,12 @@ const { frontmatter } = Astro.props;
         <slot />
     </WelcomeLetter>
 
-    
+
+    <Supporters 
+        title={"IEEE VIS is made possible by our supporters."} 
+        description={"Our generous supporters help to fund our diversity and inclusion scholarship, childcare grants and more. Participate in IEEE VIS by supporting and exhibiting at the conference."}
+        button_text={"Become a Supporter"}
+        button_link={"/supporters"}
+        supporters={supporters_data}
+    />
 </DefaultLayout>
