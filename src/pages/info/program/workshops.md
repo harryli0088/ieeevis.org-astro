@@ -1,7 +1,6 @@
 ---
 title: Workshops
-layout: page
-permalink: /year/2025/info/program/workshops
+layout: /src/layouts/PageLayout.astro
 contact: workshops@ieeevis.org
 ---
 
