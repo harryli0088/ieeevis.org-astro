@@ -29,7 +29,7 @@ registration:
 blog:
   display: true
   text: "Blog"
-  url: "/blog/index"
+  url: "/blog"
 
 # ---------------------------------------------------------------------------
 menu:

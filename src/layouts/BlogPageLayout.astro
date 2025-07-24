@@ -1,5 +1,67 @@
 ---
+import DefaultLayout from "./DefaultLayout.astro";
+const { frontmatter } = Astro.props;
+
+const posts: Record<string, any> = import.meta.glob("/src/pages/blog/*.md", { eager: true });
+const currentPath = Astro.url.pathname;
+
+console.log(currentPath)
 ---
 
+<DefaultLayout page_info={frontmatter}>
+    <header
+        class="section"
+        style={{ backgroundColor: "var(--color-gray-200)" }}
+    >
+        <div class="header">
+            <div class="container">
+                <h1 class="mb-0">{frontmatter.title}</h1>
+            </div>
+        </div>
+    </header>
 
+    <div class="container md:py-16 flex md:flex-row flex-col justify-between">
+        <article
+            class="content md:w-3/5 w-full md:mt-0 mt-8 md:order-none order-2"
+        >
+            <div class="byline-container">
+                {
+                    frontmatter.author_contact ? (
+                        <p class="byline">
+                            <a href={`mailto:${frontmatter.author_contact}`}>
+                                {frontmatter.authors}
+                            </a>
+                        </p>
+                    ) : (
+                        <p class="byline">{frontmatter.authors}</p>
+                    )
+                }
 
+                <p class="post-date">{frontmatter.date}</p>
+            </div>
+            <slot />
+        </article>
+
+        <aside class="sidebar">
+            <div class="my-4">
+                <p class="heading-alt text-gray-500">
+                    <a href="/blog">All posts</a>
+                </p>
+                <div class="overflow-hidden md:ml-0 -ml-3">
+                    <div class="md:ml-0 -ml-px">
+                        {
+                            Object.entries(posts).map(([path, post]) => (
+                                <a
+                                    href={`/blog/${path.split("/").pop()?.replace(".md", "")}`}
+                                    class={`sidebar__link ${currentPath === `/blog/${path.split("/").pop()?.replace(".md", "")}` && 'sidebar__link--active'}`}
+                                >
+                                    {post.frontmatter.title}
+                                </a>
+                            ))
+                        }
+                    </div>
+                </div>
+            </div>
+        </aside>
+    </div>
+</DefaultLayout>

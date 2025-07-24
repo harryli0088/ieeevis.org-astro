@@ -1,0 +1,67 @@
+---
+import PageLayout from "../../layouts/PageLayout.astro";
+
+// src/pages/blog/index.astro
+const posts = import.meta.glob("./*.md", { eager: true });
+---
+
+<PageLayout
+    frontmatter={{
+        title: "Blogs",
+        sidebar: false,
+        sidetoc: false,
+    }}
+>
+    {
+        Object.entries(posts).map(([path, post]) => (
+            <>
+                <h4 class="blog-title">
+                    <a href={ `/blog/${path.replace("./", "").replace(".md", "")}` }>
+                        {post.frontmatter.title}
+                    </a>
+                </h4>
+                <p>{ post.frontmatter.description }</p>
+
+                <div class="byline-container">
+                    {post.frontmatter.author_contact ? (
+                        <p class="byline">
+                            <a
+                                href={`mailto:${post.frontmatter.author_contact}`}
+                            >
+                                {post.frontmatter.authors}
+                            </a>
+                        </p>
+                    ) : (
+                        <p class="byline">{post.frontmatter.authors}</p>
+                    )}
+
+                    <p class="post-date">{ post.frontmatter.date }</p>
+                </div>
+
+                <hr />
+            </>
+        ))
+    }
+</PageLayout>
+
+<!-- 
+                <li key={path}>
+                    <a
+                        href={`/blog/${path.replace("./", "").replace(".md", "")}`}
+                    >
+                        {post.frontmatter.title}
+                    </a>
+                    <p>{post.frontmatter.description}</p>
+                    <time>{post.frontmatter.date}</time>
+                </li> -->
+
+<!-- 
+
+<div>{{ post.excerpt }}</div>
+<div>
+    <p>
+        <a href="{{ post.url | relative_url }}">Read more &raquo;</a>
+    </p>
+</div>
+
+ -->
