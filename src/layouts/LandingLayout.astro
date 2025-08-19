@@ -1,0 +1,64 @@
+---
+import DefaultLayout from "./DefaultLayout.astro";
+import Sidebar from "../components/Sidebar";
+import Card from "../components/Card";
+import MarkdownText from "../components/MarkdownText"
+const { frontmatter } = Astro.props;
+
+---
+
+<DefaultLayout page_info={frontmatter}>
+    <div
+        class="header--medium header--background relative"
+        style="background-image: url('/assets/theme/hex-pattern.png');"
+    >
+        <div class="container">
+            <h1>{frontmatter.title}</h1>
+        </div>
+    </div>
+
+    {
+        frontmatter.intro_section && (
+            <div class="section section--wrapper bg-accent-blue">
+                <div class="section bg-accent-blue">
+                    <div class="container">
+                        <div class="section__content-wrapper {% if page.intro_section.callout %} section__content-wrapper--decorative {% endif %}">
+                            {frontmatter.intro_section.callout && (
+                                <div class="section__callout mb-16">
+                                    {frontmatter.intro_section.callout}
+                                </div>
+                            )}
+
+                            <div class="flex md:flex-row flex-col flex-wrap">
+                                {frontmatter.intro_section.cards.map(
+                                    (card: any, cardidx: number) => (
+                                        <Card
+                                            title={card.title}
+                                            description={card.description}
+                                            button_text={card.button_text}
+                                            url={card.button_url}
+                                        />
+                                    ),
+                                )}
+                            </div>
+
+                            {frontmatter.intro_section.content && (
+                                <div class="section__content text-measure text-secondary ieee-pub-notice">
+                                    <MarkdownText content={frontmatter.intro_section.content} />
+                                </div>
+                            )}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        )
+    }
+
+    <div class="container md:py-16 flex md:flex-row flex-col justify-between">
+        <div class="content md:w-3/5 w-full md:mt-0 mt-8 md:order-none order-2">
+            <slot />
+        </div>
+
+        {frontmatter.sidebar && <Sidebar />}
+    </div>
+</DefaultLayout>

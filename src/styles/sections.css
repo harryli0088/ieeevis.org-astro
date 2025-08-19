@@ -67,7 +67,6 @@
 /* Section Content */
 
 .section__content {
-    @apply text-white;
     @apply w-full;
     @apply mt-8;
 }
