@@ -3,7 +3,7 @@ title: Technical Committee on Visualization and Graphics (SAMPLE)
 permalink: /year/2025/info/exhibition/supporter-template
 contact: supporters@ieeevis.org
 active_nav: "Contribute"
-layout: landing
+layout: /src/layouts/LandingLayout.astro
 sidebar: vgtc
 intro_section:
   callout: "A proud sponsor of VIS2021, the Visualization and Graphics TC (VGTC)

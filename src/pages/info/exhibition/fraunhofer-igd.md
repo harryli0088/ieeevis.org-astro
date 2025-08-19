@@ -2,7 +2,7 @@
 title: Fraunhofer IGD
 contact: supporters@ieeevis.org
 active_nav: "Contribute"
-layout: landing
+layout: /src/layouts/LandingLayout.astro
 sidebar: fraunhofer-igd
 intro_section:
   callout: "The Fraunhofer Institute for Computer Graphics Research IGD is the internationally leading organization for applied research in Visual Computing."
