@@ -22,7 +22,7 @@ const { frontmatter } = Astro.props;
             <div class="section section--wrapper bg-accent-blue">
                 <div class="section bg-accent-blue">
                     <div class="container">
-                        <div class="section__content-wrapper {% if page.intro_section.callout %} section__content-wrapper--decorative {% endif %}">
+                        <div class={`section__content-wrapper ${frontmatter.intro_section.callout && "section__content-wrapper--decorative"}`}>
                             {frontmatter.intro_section.callout && (
                                 <div class="section__callout mb-16">
                                     {frontmatter.intro_section.callout}

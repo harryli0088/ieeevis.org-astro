@@ -1,9 +1,9 @@
 import { Fragment } from "react/jsx-runtime";
 import pkg from "../../package.json";
 
-export default function Footer({ footer_data, contact }:{
+export default function Footer({ footer_data, contact }: {
     contact: string,
-    footer_data: {"columns": FooterSectionType[]},
+    footer_data: { "columns": FooterSectionType[] },
 }) {
     const pathname = typeof window !== 'undefined' ? window.location.pathname : '';
     const source_file = `${pathname}.md`;
@@ -15,15 +15,17 @@ export default function Footer({ footer_data, contact }:{
                 className="py-4 border-t border-gray-500 text-gray-500 text-sm text-center"
             >
                 <div className="container">
-                    Problems with this webpage? Contact
+                    Problems with this webpage? Contact {" "}
+                    <a href={`mailto:${contact}`} className="link">{contact}</a>
+                    {", "}
                     {/* <!-- <a href="mailto:{{ page.contact | default: site.email }}" className="link">{% if page.author_contact %}{{ page.author_contact }}{% else %}{{ page.contact | default: site.email }}{% endif %}</a>, --> */}
                     <a
                         href={`${pkg.repository.url}/issues/new/?title={{ "Fix content problem on year/${pkg.year}/${source_file}"`}
                         target="_blank"
                         className="link">file a bug</a>, or <a
-                        href="{{ site.github_repository }}/edit/vis2025/{{ page.path }}"
-                        target="_blank"
-                        className="link">suggest a fix</a>.
+                            href="{{ site.github_repository }}/edit/vis2025/{{ page.path }}"
+                            target="_blank"
+                            className="link">suggest a fix</a>.
                 </div>
             </div>
 
@@ -135,9 +137,8 @@ export default function Footer({ footer_data, contact }:{
                     >
                         <div>
                             <span
-                                >&copy; {pkg.year} IEEE. Sponsored by the IEEE Computer Society
-                                and the Visualization and Graphics Technical Community.</span
-                            >
+                            >&copy; {pkg.year} IEEE. Sponsored by the IEEE Computer Society
+                                and the Visualization and Graphics Technical Community.</span>
                         </div>
                         <div className="mt-4 lg:mt-0">
                             <a

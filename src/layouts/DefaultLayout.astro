@@ -26,7 +26,7 @@ const { page_info } = Astro.props;
             <slot />
         </main>
 
-        <Footer footer_data={footer_data} contact="test"/>
+        <Footer footer_data={footer_data} contact={page_info.contact}/>
 	</body>
 </html>
 
