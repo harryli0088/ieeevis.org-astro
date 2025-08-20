@@ -23,7 +23,7 @@ const { frontmatter } = Astro.props;
         </article>
 
         {
-            frontmatter.sidebar && <Sidebar />
+            frontmatter.sidebar && <Sidebar sidebar_data_path={frontmatter.sidebar} />
         }
 
         {

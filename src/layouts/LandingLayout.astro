@@ -59,6 +59,8 @@ const { frontmatter } = Astro.props;
             <slot />
         </div>
 
-        {frontmatter.sidebar && <Sidebar />}
+        {
+            frontmatter.sidebar && <Sidebar sidebar_data_path={frontmatter.sidebar} />
+        }
     </div>
 </DefaultLayout>

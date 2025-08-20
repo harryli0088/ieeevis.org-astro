@@ -20,10 +20,10 @@ export default function Footer({ footer_data, contact }: {
                     {", "}
                     {/* <!-- <a href="mailto:{{ page.contact | default: site.email }}" className="link">{% if page.author_contact %}{{ page.author_contact }}{% else %}{{ page.contact | default: site.email }}{% endif %}</a>, --> */}
                     <a
-                        href={`${pkg.repository.url}/issues/new/?title={{ "Fix content problem on year/${pkg.year}/${source_file}"`}
+                        href={`${pkg.repository.url}/issues/new/?title="Fix content problem on year/${pkg.year}/${source_file}"`}
                         target="_blank"
                         className="link">file a bug</a>, or <a
-                            href="{{ site.github_repository }}/edit/vis2025/{{ page.path }}"
+                            href={`${pkg.repository.url}/edit/vis${pkg.year}/${source_file}`}
                             target="_blank"
                             className="link">suggest a fix</a>.
                 </div>
