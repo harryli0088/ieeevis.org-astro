@@ -3,7 +3,6 @@ title: Intel
 contact: supporters@ieeevis.org
 active_nav: "Contribute"
 layout: /src/layouts/PageLayout.astro
-sidebar: intel
 intro_section:
   global_url: true
 ---

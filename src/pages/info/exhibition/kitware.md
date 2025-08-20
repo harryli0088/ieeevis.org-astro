@@ -3,7 +3,6 @@ title: Kitware
 contact: supporters@ieeevis.org
 active_nav: "Contribute"
 layout: /src/layouts/PageLayout.astro
-sidebar: kitware
 intro_section:
   global_url: true
 ---

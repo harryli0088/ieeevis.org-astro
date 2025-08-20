@@ -3,7 +3,6 @@ title: Autodesk
 contact: supporters@ieeevis.org
 active_nav: "Contribute"
 layout: /src/layouts/PageLayout.astro
-sidebar: autodesk
 intro_section:
   global_url: true
     

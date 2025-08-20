@@ -3,7 +3,6 @@ title: Microsoft
 contact: supporters@ieeevis.org
 active_nav: "Contribute"
 layout: /src/layouts/PageLayout.astro
-sidebar: microsoft
 intro_section:
   global_url: true
 ---
