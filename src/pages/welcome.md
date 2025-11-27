@@ -1,10 +1,10 @@
 ---
 layout: /src/layouts/HomePageLayout.astro
-title: "Welcome to IEEE VIS 2025"
+title: "Welcome to IEEE VIS 2026"
 description: "The premier forum for advances in visualization and visual analytics"
-event_location: 'Vienna, Austria'
+event_location: 'Boston'
 event_date: 'November 2 to 7'
-logo_src: /assets/vis2025_logo_RIESENRAD.svg
+logo_src: /assets/vis2026_logo.svg
 contact: general_chair@ieeevis.org
 image_src: /assets/vienna_ferris_wheel.jpg
 image_alt: "A photo of the ferris wheel in Vienna."
