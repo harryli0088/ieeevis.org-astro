@@ -20,12 +20,12 @@
   --border-width-4: 3px;
   --border-width-8: 8px;
 
-  --color-accent: #575756;
-  --color-accent-minor: #878787;
-  --color-accent-blue: #DA171C;
+  --color-accent: #e11783;
+  --color-accent-minor: #f58220;
+  --color-accent-blue: #693a19;
 
 
-  --color-primary: #DA171C;
+  --color-primary: #e11783;
   --color-primary-800: #DA171C;
   --color-primary-700: #DE3135;
   --color-primary-600: #E24B4E;
@@ -33,7 +33,7 @@
   --color-primary-200: #F3B2B3;
   --color-primary-100: white;
 
-  --color-secondary: #575756;
+  --color-secondary: #f58220;
   --color-secondary-800: #575756;
   --color-secondary-700: #7e7e7d;
   --color-secondary-600: #a7a7a7;
