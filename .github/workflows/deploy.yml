@@ -37,9 +37,7 @@ jobs:
 
       - name: Sync S3 bucket
         run: |
-          aws s3 sync ./dist s3://${{ secrets.AWS_S3_BUCKET }}/year/${{ env.YEAR }}/ \
-            --delete \
-            --acl public-read
+          aws s3 sync ./dist s3://${{ secrets.AWS_S3_BUCKET }}/year/${{ env.YEAR }}/ --delete
 
       - name: Invalidate CloudFront
         if: env.CLOUDFRONT_DISTRIBUTION_ID != ''
