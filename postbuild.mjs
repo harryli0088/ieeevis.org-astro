@@ -13,8 +13,12 @@ const __dirname = path.dirname(__filename);
 // Configuration
 const BASE_PATH = process.env.BASE_PATH || "/";
 const DIST_DIR = path.join(__dirname, 'dist');
-const SEARCH_PATTERN = /\/assets\//g;
-const REPLACEMENT = `${BASE_PATH}/assets/`;
+const REPLACEMENTS = [
+  { pattern: /\/assets\//g, replacement: `${BASE_PATH}/assets/` },
+  // Add more specific patterns as needed
+  { pattern: /href="\/(?!year\/)/g, replacement: `href="${BASE_PATH}/` },
+  { pattern: /src="\/(?!year\/)/g, replacement: `src="${BASE_PATH}/` },
+];
 
 // File extensions to process
 const TEXT_EXTENSIONS = ['.html', '.css', '.js']; //, '.json', '.xml', '.svg', '.txt'];
@@ -26,11 +30,19 @@ function shouldProcessFile(filePath) {
 
 function replaceInFile(filePath) {
   try {
-    const content = fs.readFileSync(filePath, 'utf8');
-    const updatedContent = content.replace(SEARCH_PATTERN, REPLACEMENT);
+    let content = fs.readFileSync(filePath, 'utf8');
+    let hasChanges = false;
+
+    for (const { pattern, replacement } of REPLACEMENTS) {
+      const newContent = content.replace(pattern, replacement);
+      if (newContent !== content) {
+        hasChanges = true;
+        content = newContent;
+      }
+    }
     
-    if (content !== updatedContent) {
-      fs.writeFileSync(filePath, updatedContent, 'utf8');
+    if (hasChanges) {
+      fs.writeFileSync(filePath, content, 'utf8');
       console.log(`✓ Updated: ${path.relative(DIST_DIR, filePath)}`);
       return true;
     }
