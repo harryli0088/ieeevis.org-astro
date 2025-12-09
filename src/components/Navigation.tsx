@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { withBasePath } from '../utils/withBasePath';
 
 export default function Navigation({ nav_data }: { nav_data: NavDataType }) {
     const [isExpanded, setIsExpanded] = useState<boolean>(true)
@@ -11,7 +12,7 @@ export default function Navigation({ nav_data }: { nav_data: NavDataType }) {
                 {/* vis logo and link to homepage */}
                 <div className="logo--nav flex-none text-lg text-red-700 p-4 md:p-2 lg:p-4">
                     <a href="/">
-                        <img src='/assets/vis2026_logo_white.svg' alt="VIS 2026" />
+                        <img src={withBasePath('/assets/vis2026_logo_white.svg')} alt="VIS 2026" />
                     </a>
                 </div>
 
