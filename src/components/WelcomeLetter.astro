@@ -1,6 +1,4 @@
 ---
-import { withBasePath } from "../utils/withBasePath";
-
 const { title, image_src, image_alt } = Astro.props;
 ---
 
@@ -13,5 +11,5 @@ const { title, image_src, image_alt } = Astro.props;
             </div>
         </div>
     </div>
-    <img class="hidden lg:block lg:w-3/5 absolute left-0 top-0 h-full object-cover" src={withBasePath(image_src)} alt={image_alt}>
+    <img class="hidden lg:block lg:w-3/5 absolute left-0 top-0 h-full object-cover" src={image_src} alt={image_alt}>
 </div>

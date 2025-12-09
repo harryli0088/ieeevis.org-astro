@@ -7,7 +7,8 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "postbuild": "NODE_ENV=production node postbuild.mjs"
   },
   "dependencies": {
     "@astrojs/react": "^4.3.0",
