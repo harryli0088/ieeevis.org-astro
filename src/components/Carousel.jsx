@@ -39,7 +39,7 @@ export default function Carousel({ items }) {
                             {item.image && (
                                 <img
                                     className="d-block w-full"
-                                    src={`assets/carousel/${item.image}`}
+                                    src={`/assets/carousel/${item.image}`}
                                 />
                             )}
 
