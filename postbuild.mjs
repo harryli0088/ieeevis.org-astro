@@ -1,14 +1,17 @@
+// This postbuild script is necessary to rewrite `/asset/**/*` paths for files stored in `public/assets`.
+// By default, Astro copies everything from the public folder as is (https://docs.astro.build/en/basics/project-structure/#public),
+// and doesn't know that we need to rewrite the paths using the base path argument in `astro.config.mjs`.
+// As such, this script looks through all the static web files, and rewrites the imports to prepend the BASE_PATH
+
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { getBasePath } from './getBasePath.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // Configuration
-const BASE_PATH = getBasePath();
-console.log("BASE_PATH",BASE_PATH)
+const BASE_PATH = process.env.BASE_PATH || "/";
 const DIST_DIR = path.join(__dirname, 'dist');
 const SEARCH_PATTERN = /\/assets\//g;
 const REPLACEMENT = `${BASE_PATH}/assets/`;

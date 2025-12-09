@@ -7,7 +7,7 @@ on:
 
 env:
   CLOUDFRONT_DISTRIBUTION_ID: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }}
-  DEPLOY_YEAR: "2026"   # we are ONLY deploying for this year
+  BASE_PATH: "/year/2026"   # we are ONLY deploying to this base path
 
 jobs:
   build-and-deploy:
@@ -37,11 +37,11 @@ jobs:
 
       - name: Sync S3 bucket
         run: |
-          aws s3 sync ./dist s3://${{ secrets.AWS_S3_BUCKET }}/year/${{ env.DEPLOY_YEAR }}/ --delete
+          aws s3 sync ./dist s3://${{ secrets.AWS_S3_BUCKET }}${{ env.BASE_PATH }}/ --delete
 
       - name: Invalidate CloudFront
         if: env.CLOUDFRONT_DISTRIBUTION_ID != ''
         run: |
           aws cloudfront create-invalidation \
             --distribution-id ${{ env.CLOUDFRONT_DISTRIBUTION_ID }} \
-            --paths "/year/${{ env.DEPLOY_YEAR }}/*"
+            --paths "${{ env.BASE_PATH }}/*"
