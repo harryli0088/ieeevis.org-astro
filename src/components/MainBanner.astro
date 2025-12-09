@@ -1,5 +1,6 @@
 ---
 import { load_yaml } from "../utils/load_yaml";
+import { withBasePath } from "../utils/withBasePath";
 import Carousel from "./Carousel";
 const { description, logo_src, event_location, event_date } = Astro.props;
 
@@ -10,7 +11,7 @@ const carousel_items = load_yaml("./src/data/carousel.yml");
 
     <div class="container flex-parent items-center">
         <div class="title">
-            <img src={logo_src} alt="IEEE VIS Logo" class="logo--main" style="width:600px">
+            <img src={withBasePath(logo_src)} alt="IEEE VIS Logo" class="logo--main" style="width:600px">
             <p class="font-display text-primary text-2xl md:text-4xl font-medium mt-10 mr-20 md:mt-12">{ description }</p>
         </div>
         <div class="carousel-container">
