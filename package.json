@@ -10,12 +10,14 @@
     "astro": "astro",
     "postbuild": "NODE_ENV=production node postbuild.mjs"
   },
+  "devDependencies": {
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2"
+  },
   "dependencies": {
     "@astrojs/react": "^4.3.0",
     "@tailwindcss/typography": "^0.5.16",
     "@tailwindcss/vite": "^4.1.4",
-    "@types/react": "^19.1.2",
-    "@types/react-dom": "^19.1.2",
     "astro": "^5.13.2",
     "front-matter": "^4.0.2",
     "html-react-parser": "^5.2.6",
