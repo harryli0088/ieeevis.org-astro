@@ -26,12 +26,11 @@ and mixed and augmented reality."
     
 ---
 
- 
 ![VGTC Logo](/year/2021/assets/supporters/vgtc.png)
 
 ## About the IEEE Computer Society’s VGTC
 
-The VGTC promotes research in computer graphics, visualization, visual analytics, virtual reality, and mixed and augmented reality, as well as the application of these topics to science, engineering, medicine, business, and the arts. 
+The VGTC promotes research in computer graphics, visualization, visual analytics, virtual reality, and mixed and augmented reality, as well as the application of these topics to science, engineering, medicine, business, and the arts.
 
 The VGTC goals are to contribute to our members’ professional development and advancement, help advance the state-of-the-art in visualization and computer graphics, promote national agendas in visualization and computer graphics, and foster inter-disciplinary interaction in all of our activities.
 
@@ -42,10 +41,9 @@ We invite you to [join our online community](https://www.ieee.org/membership-cat
 
 ## About the IEEE Computer Society - Celebrating 75 Years
 
-The IEEE Computer Society is the world’s home for computer science, engineering, and technology. A global leader in providing access to computer science research, analysis, and information, the IEEE Computer Society offers a comprehensive array of unmatched products, services, and opportunities for individuals at all stages of their professional career. Known as the premier organization that empowers the people who drive technology, its unparalleled resources include international conferences, peer-reviewed publications, a unique digital library, standards, and training programs. 
+The IEEE Computer Society is the world’s home for computer science, engineering, and technology. A global leader in providing access to computer science research, analysis, and information, the IEEE Computer Society offers a comprehensive array of unmatched products, services, and opportunities for individuals at all stages of their professional career. Known as the premier organization that empowers the people who drive technology, its unparalleled resources include international conferences, peer-reviewed publications, a unique digital library, standards, and training programs.
 
 The IEEE Computer Society traces its origins back to 1946. For 75 years, our members have played a central role in the rapid evolution of computer technologies, and we've grown from a small group of specialists to an international organization with more than 225,000 individuals who are dedicated to advancing all aspects of computer science and engineering.
-
 
 ## Why Join the Computer Society?
 
@@ -53,4 +51,3 @@ The IEEE Computer Society traces its origins back to 1946. For 75 years, our mem
 <br/>
 
 Discover the [benefits of membership](https://www.computer.org/membership) and join today!
-

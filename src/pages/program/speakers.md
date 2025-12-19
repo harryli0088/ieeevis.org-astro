@@ -6,6 +6,3 @@ contact: web@ieeevis.org
 ---
 
 Speakers page will go here.
-
-
-

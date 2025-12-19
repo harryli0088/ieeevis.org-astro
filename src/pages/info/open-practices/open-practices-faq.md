@@ -10,14 +10,14 @@ Visualization research is better communicated and acted on if it is freely acces
 
 This page provides answers to the following common questions authors have about open access preprints:
 
-* [What are the criteria for an open access repository?](#what-are-the-criteria-for-an-open-access-repository)
-* [Sharing the preprint with VIS in the Author Submission Portal](#sharing-the-preprint-with-vis-in-the-author-submission-portal)
-* [Is sharing the preprint compatible with IEEE's publication policy?](#is-sharing-the-preprint-compatible-with-ieees-publication-policy)
-* [Where can I share the paper?](#where-can-i-share-the-paper)
-* [Which version of the paper can I share?](#which-version-of-the-paper-can-i-share)
-* [Can I put my paper on my personal/institutional webpage?](#can-i-put-my-paper-on-my-personalinstitutional-webpage)
-* [What about Plan S?](#what-about-plan-s)
-* [What if I have questions, comments, concerns?](#what-if-i-have-questions-comments-concerns)
+- [What are the criteria for an open access repository?](#what-are-the-criteria-for-an-open-access-repository)
+- [Sharing the preprint with VIS in the Author Submission Portal](#sharing-the-preprint-with-vis-in-the-author-submission-portal)
+- [Is sharing the preprint compatible with IEEE's publication policy?](#is-sharing-the-preprint-compatible-with-ieees-publication-policy)
+- [Where can I share the paper?](#where-can-i-share-the-paper)
+- [Which version of the paper can I share?](#which-version-of-the-paper-can-i-share)
+- [Can I put my paper on my personal/institutional webpage?](#can-i-put-my-paper-on-my-personalinstitutional-webpage)
+- [What about Plan S?](#what-about-plan-s)
+- [What if I have questions, comments, concerns?](#what-if-i-have-questions-comments-concerns)
 
 ## What are the criteria for an open access repository?
 
@@ -74,14 +74,14 @@ Share the final preprint version of your accepted article that you create after 
 
 **After you receive the DOI from IEEE**, you must either add the DOI to the repository to add a link to the IEEEXplore page or include that information directly on the pdf. Depending on how you produced your document and requirements of the repository (for instance, arXiV requires TeX files to be submitted), you have two options:
 
-* If you have produced your pdf using LaTeX, you can follow the following steps:
-	- Use the `\documentclass[preprint,journal]{vgtc}` in your main TeX file
-	- Insert a `\ieeedoi` command with your DOI within the preamble of your main `TeX` file (i.e., anywhere between the `\documentclass` and `\begin{document}` commands), e.g.,`\ieeedoi{10.1109/TVCG.2019.2934609} `
-	- Compile and produce a new pdf file
+- If you have produced your pdf using LaTeX, you can follow the following steps:
+  - Use the `\documentclass[preprint,journal]{vgtc}` in your main TeX file
+  - Insert a `\ieeedoi` command with your DOI within the preamble of your main `TeX` file (i.e., anywhere between the `\documentclass` and `\begin{document}` commands), e.g.,`\ieeedoi{10.1109/TVCG.2019.2934609} `
+  - Compile and produce a new pdf file
 
-* If you have produced your pdf using other means, you can get an IEEE-produced copy of your paper for reposting at [https://authorgateway.ieee.org](https://authorgateway.ieee.org). Once logged in, download the "Author-submitted manuscript" PDF which will have the required information included.
+- If you have produced your pdf using other means, you can get an IEEE-produced copy of your paper for reposting at [https://authorgateway.ieee.org](https://authorgateway.ieee.org). Once logged in, download the "Author-submitted manuscript" PDF which will have the required information included.
 
-Make sure that the revised version has: i) the copyright statement on the bottom-left on the first page and ii) a statement with a link to the paper on IEEEXplore on the first page (or on top of odd-numbered pages). Once everything is in place, resubmit the revised preprint to the OA repository to replace the version you submitted earlier. 
+Make sure that the revised version has: i) the copyright statement on the bottom-left on the first page and ii) a statement with a link to the paper on IEEEXplore on the first page (or on top of odd-numbered pages). Once everything is in place, resubmit the revised preprint to the OA repository to replace the version you submitted earlier.
 
 If you have uploaded your preprint to arXiv, you can follow the [guidance on this page](open-practices-arxiv) under the "**5.Update arXiv record post publication**" step for revising your record on arXiv.
 

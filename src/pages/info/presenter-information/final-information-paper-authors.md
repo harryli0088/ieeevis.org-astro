@@ -20,11 +20,12 @@ Camera-ready papers may not exceed 11 pages (full papers, 9 pages of main text a
 
 **IMPORTANT**: Please make sure the final submission data in PCS is identical to the final PDF (e.g., title, author names and last names, affiliations, author order, email addresses.) You might need to correct the information in your PCS login in order to update the author information. You can do this by logging into your PCS account > my account > Change my contact information. The final author list has to be identical to the list that you provided for the abstract submission deadline (March 21). Note that if you have been anonymizing your submission, you may find you have to trim your text to fit into the page limits once authors and affiliations are added.
 
-Please check the second round reviewer comments (if any) and incorporate their suggestions. Note: there will not be further detailed proofreading of your submission, so PLEASE read through your manuscript very carefully to fix any remaining grammar and spelling problems. We recommend finding an outside reader, such as a friend who is strong in English or someone from your institution’s writing center (if it exists), to do a careful editing pass on your paper.  
+Please check the second round reviewer comments (if any) and incorporate their suggestions. Note: there will not be further detailed proofreading of your submission, so PLEASE read through your manuscript very carefully to fix any remaining grammar and spelling problems. We recommend finding an outside reader, such as a friend who is strong in English or someone from your institution’s writing center (if it exists), to do a careful editing pass on your paper.
 
-You can submit supplemental material (e.g. a video, appendix) for your work for inclusion in the digital archive. TVCG requires that supplemental material is also peer-reviewed, hence, this is only allowed if you have already submitted your supplemental material and if the reviewers have found it acceptable. Videos are usually up to 5 minutes in length, and you may also include other supplemental material such as additional images, appendices, or source code. 
+You can submit supplemental material (e.g. a video, appendix) for your work for inclusion in the digital archive. TVCG requires that supplemental material is also peer-reviewed, hence, this is only allowed if you have already submitted your supplemental material and if the reviewers have found it acceptable. Videos are usually up to 5 minutes in length, and you may also include other supplemental material such as additional images, appendices, or source code.
 
 The [VGTC website](https://tc.computer.org/vgtc/publications/journal) has complete information regarding formatting requirements of your final revised PDF. Common editing issues include:
+
 - For full papers, use the [correct JOURNAL style template](https://tc.computer.org/vgtc/publications/journal). **Note: there is a new template for 2025**
 - For short papers, use the [correct CONFERENCE style template](https://tc.computer.org/vgtc/publications/conference/).
 - Index terms are mandatory.
@@ -33,8 +34,8 @@ The [VGTC website](https://tc.computer.org/vgtc/publications/journal) has comple
 - Titles: Capitalize the first letter of nouns, pronouns, verbs, adjectives, and adverbs; do not capitalize articles, coordinate conjunctions, or prepositions (unless the title begins with such a word).
 - Inclusion of the “manuscript received” block on the bottom of page 1 exactly as is. The ‘xx’ placeholders should remain. They will be populated at a later date by TVCG.
 - Do NOT include page numbers.
-- Figure captions begin with “Fig. #” and go below the figure.  Captions should use 8pt Helvetica (sans serif) font.
-- Table captions begin with “Table #.” and go above the table.  Captions should use 8pt Helvetica (sans serif) font.
+- Figure captions begin with “Fig. #” and go below the figure. Captions should use 8pt Helvetica (sans serif) font.
+- Table captions begin with “Table #.” and go above the table. Captions should use 8pt Helvetica (sans serif) font.
 - Figures should not be formatted vertically along a page and authors should not be stacking double column figures on top of single column figures, and vice versa.
 - Text should not be wrapping around any figures, either.
 
@@ -46,7 +47,6 @@ Please ensure that you have made your paper open access if your funding agency r
 
 Please see our [VIS Accessibility Guide](/year/2025/info/call-participation/make-pdf-accessible) for recommendations for VIS 2025 authors on how to make your contribution accessible for broader audiences.
 
-
 ## Other Required Submission Items
 
 Shortly after receiving final notifications from the second review cycle, the conference will send you an email from the Publications chairs with complete instructions. This email will be sent to the corresponding author for the paper and it will include a unique submission ID. The email will also include links to directly upload presentation materials via our Presentation Material Upload system. Here is what you will be expected to submit and the deadlines for each item.
@@ -55,34 +55,28 @@ Shortly after receiving final notifications from the second review cycle, the co
 
 All full papers are required to have one author [register](/year/2025/info/registration/conference-registration) as a speaker, irrespective of whether they plan to presented in person or virtually, and must be presented by that person. If exceptional circumstances prevent that person from presenting, please contact [the conference committee](mailto:info@ieeevis.org) as soon as possible.
 
-
 ### 2. Copyright Release
 
 For papers that will be published in IEEE TVCG or on IEEE Xplore, authors are asked to complete a copyright release form. This will be handled via IEEE’s Conference Publishing Services (IEEE CPS) via a link provided to you via email.
 
-
 ### 3. Presentation Materials
 
-Please see the [talk guide](/year/2025/info/presenter-information/talk-guide) for information on how to submit your video preview (**due August 22**) and representative image (**due August 22**).  
-
+Please see the [talk guide](/year/2025/info/presenter-information/talk-guide) for information on how to submit your video preview (**due August 22**) and representative image (**due August 22**).
 
 ## Contact
 
 ### Program Chairs
 
-* Michelle Dowling, *Pacific Northwest National Laboratory*
-* Lane Harrison, *Worcester Polytechnic Institute*
-* Kate Isaacs, *University of Utah*
+- Michelle Dowling, _Pacific Northwest National Laboratory_
+- Lane Harrison, _Worcester Polytechnic Institute_
+- Kate Isaacs, _University of Utah_
 
-*Email: [program@ieeevis.org](mailto:program@ieeevis.org)*
+_Email: [program@ieeevis.org](mailto:program@ieeevis.org)_
 
 ### Publication Chairs
 
-* Cindy Xiong Bearfield, *Georgia Institute of Technology*
-* Minsuk Kahng, *Google*
-* Zhicheng Liu, *University of Maryland College Park*
+- Cindy Xiong Bearfield, _Georgia Institute of Technology_
+- Minsuk Kahng, _Google_
+- Zhicheng Liu, _University of Maryland College Park_
 
-
-*Email: [publications@ieeevis.org](mailto:publications@ieeevis.org)*
-
-
+_Email: [publications@ieeevis.org](mailto:publications@ieeevis.org)_

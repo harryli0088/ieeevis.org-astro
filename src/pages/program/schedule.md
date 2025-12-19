@@ -6,6 +6,3 @@ contact: web@ieeevis.org
 ---
 
 Schedule page will go here.
-
-
-

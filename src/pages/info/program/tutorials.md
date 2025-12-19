@@ -6,7 +6,6 @@ contact: panels_tutorials@ieeevis.org
 
 Program for VIS 2025 not finalized yet
 
-
 <!--
 
 ## Accepted Tutorials

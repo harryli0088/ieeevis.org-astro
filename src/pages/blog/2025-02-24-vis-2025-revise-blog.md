@@ -1,6 +1,6 @@
 ---
 title: The reVISe 1.1 experiment
-description: 
+description:
 layout: /src/layouts/BlogPageLayout.astro
 active_nav: Blog
 authors: VSC, VEC, and reVISe chair

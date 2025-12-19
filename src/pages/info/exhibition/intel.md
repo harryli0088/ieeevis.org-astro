@@ -7,11 +7,9 @@ intro_section:
   global_url: true
 ---
 
- 
 ![Intel Logo](/year/2021/assets/supporters/intel.png)
 
 At Intel, we create world-changing technology that enriches the lives of every person on earth. For ray tracing and high-fidelity visualization, Intel drives innovation; leadership in hardware, software, and other technologies; and collaborates with industry leaders to unleash open, high-performance, cross-architecture solutions that push the boundaries of what’s possible.
-
 
 ## Case Studies
 

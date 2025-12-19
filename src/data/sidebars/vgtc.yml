@@ -7,14 +7,12 @@
     - text: "LinkedIn"
       url: "https://www.linkedin.com/groups/8122810/"
 
-
 - heading: "Website"
   links:
-     - text: "https://tc.computer.org/vgtc/"
-       url: "https://tc.computer.org/vgtc/"
+    - text: "https://tc.computer.org/vgtc/"
+      url: "https://tc.computer.org/vgtc/"
 
 - heading: "Contact Us"
   links:
     - text: "info@vgtc.org"
       url: "mailto:info@vgtc.org"
-

@@ -13,7 +13,7 @@ Vienna's central location in Europe makes it a hub with excellent transport link
 
 ## Traveling By Plane
 
-The [Vienna International Airport](https://www.viennaairport.com/en/passengers){:target="_blank"} is Austria's largest international airport and very well connected to many international destinations. Vienna Airport serves about 170 destinations in 66 countries through around 60 airlines. The majority of European capitals are two to three hours away by plane.
+The [Vienna International Airport](https://www.viennaairport.com/en/passengers){:target="\_blank"} is Austria's largest international airport and very well connected to many international destinations. Vienna Airport serves about 170 destinations in 66 countries through around 60 airlines. The majority of European capitals are two to three hours away by plane.
 
 <p>
   <img src="/year/2025/assets/venue-and-travel/travel-information-plane.png" />
@@ -21,7 +21,7 @@ The [Vienna International Airport](https://www.viennaairport.com/en/passengers){
 
 ## Traveling By Train
 
-Vienna is fully integrated into the European [rail network](https://www.oebb.at/en/){:target="_blank"}. Visitors can travel to Vienna from 14 European countries by rail without having to change. There are a total of 20 direct services from all major cities in neighboring Germany alone. The Vienna main train station is connected to the city center by subway.
+Vienna is fully integrated into the European [rail network](https://www.oebb.at/en/){:target="\_blank"}. Visitors can travel to Vienna from 14 European countries by rail without having to change. There are a total of 20 direct services from all major cities in neighboring Germany alone. The Vienna main train station is connected to the city center by subway.
 
 <p>
   <img src="/year/2025/assets/venue-and-travel/travel-information-train.png" />
