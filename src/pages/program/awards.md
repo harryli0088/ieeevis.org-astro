@@ -6,6 +6,3 @@ contact: web@ieeevis.org
 ---
 
 Awards page will go here.
-
-
-

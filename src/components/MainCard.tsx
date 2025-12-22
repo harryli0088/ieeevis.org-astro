@@ -1,12 +1,8 @@
 /**
- * 
- * @param param0 
+ *
+ * @param param0
  */
 
 export default function MainCard() {
-
-    return(
-        <p>Main card will go here.</p>
-    )
-
+  return <p>Main card will go here.</p>;
 }

@@ -33,8 +33,7 @@ blog:
 
 # ---------------------------------------------------------------------------
 menu:
-
-# ---------------------------------------------------------------------------
+  # ---------------------------------------------------------------------------
   - dropdown: "Contribute"
     display: true
     sections:
@@ -91,18 +90,18 @@ menu:
           #- heading: "Presenter Information"
           #  columns:
           #    - links:
-                # - text: "Virtual Technical Information for Presenters and Organizers"
-                #   url: "/info/presenter-information/virtual-technical-information"
-                #   is_new: true
-                # - text: "Final Information for Paper Authors"
-                #   url: "/info/presenter-information/final-information-paper-authors"
-                #   is_new: false
-                # - text: "Video Previews"
-                #   url: "/info/presenter-information/fast-forward-and-video-previews"
-                #   is_new: false
-                # - text: "Preparing Your Talk"
-                #   url: "/info/presenter-information/talk-guide"
-                #   is_new: false
+          # - text: "Virtual Technical Information for Presenters and Organizers"
+          #   url: "/info/presenter-information/virtual-technical-information"
+          #   is_new: true
+          # - text: "Final Information for Paper Authors"
+          #   url: "/info/presenter-information/final-information-paper-authors"
+          #   is_new: false
+          # - text: "Video Previews"
+          #   url: "/info/presenter-information/fast-forward-and-video-previews"
+          #   is_new: false
+          # - text: "Preparing Your Talk"
+          #   url: "/info/presenter-information/talk-guide"
+          #   is_new: false
 
           - heading: "Code of Conduct"
             heading_url: "/info/inclusion/code-of-conduct"
@@ -130,7 +129,7 @@ menu:
             heading_url: "/supporters"
             description: "Your support makes this conference possible!"
 
-# ---------------------------------------------------------------------------
+  # ---------------------------------------------------------------------------
   - dropdown: "Attend"
     display: true
     sections:
@@ -198,7 +197,7 @@ menu:
                     url: "/info/inclusion/viskids"
                     is_new: false
 
-# ---------------------------------------------------------------------------
+  # ---------------------------------------------------------------------------
   - dropdown: "Program"
     display: true
     sections:
@@ -246,41 +245,41 @@ menu:
                   #  description: "Prof. Catherine D'Ignazio, MIT"
                   #  url: "/info/capstone-speaker"
                   #  is_new: false
-#           - heading: "Awards and Recognitions"
-#             description: "Recognize outstanding work by the VIS community"
-#             columns:
-#              - links:
-#                - text: "Best Paper/Poster Awards"
-#                  url: "/info/awards/best-paper-awards"
-#                  is_new: true
-#   # - text: "Service Awards"
-#   #   url: "https://www.google.com"
-#   # - text: "VGTC VIS Awards"
-#   #   url: "https://www.google.com"
-#                - text: "Test of Time Awards"
-#                  url: "/info/awards/test-of-time-awards"
-#                  is_new: true
-      #- subsections:
-          #- heading: "Plenary Sessions"
-          #  description: "Engage with the VIS community, internal and external"
-          #  columns:
-          #   - links:
-               #- text: "Vis Townhall"
-               #  url: "/info/townhall"
-               #  is_new: true
-               # - text: "Keynote Address"
-               #   url: "/info/keynote-speaker"
-                #- text: "Capstone Address"
-                # url: "/info/capstone-speaker"
-#   #              # - links:
-#   #              #   - text: "Download the App"
-#   #              #     url: "https://www.google.com"
-#   #              #   - text: "Pocket Program (PDF)"
-#   #              #     url: "https://www.google.com"
-#   #              #   - text: "Practioner Guide"
-#   #              #     url: "https://www.google.com"
+  #           - heading: "Awards and Recognitions"
+  #             description: "Recognize outstanding work by the VIS community"
+  #             columns:
+  #              - links:
+  #                - text: "Best Paper/Poster Awards"
+  #                  url: "/info/awards/best-paper-awards"
+  #                  is_new: true
+  #   # - text: "Service Awards"
+  #   #   url: "https://www.google.com"
+  #   # - text: "VGTC VIS Awards"
+  #   #   url: "https://www.google.com"
+  #                - text: "Test of Time Awards"
+  #                  url: "/info/awards/test-of-time-awards"
+  #                  is_new: true
+  #- subsections:
+  #- heading: "Plenary Sessions"
+  #  description: "Engage with the VIS community, internal and external"
+  #  columns:
+  #   - links:
+  #- text: "Vis Townhall"
+  #  url: "/info/townhall"
+  #  is_new: true
+  # - text: "Keynote Address"
+  #   url: "/info/keynote-speaker"
+  #- text: "Capstone Address"
+  # url: "/info/capstone-speaker"
+  #   #              # - links:
+  #   #              #   - text: "Download the App"
+  #   #              #     url: "https://www.google.com"
+  #   #              #   - text: "Pocket Program (PDF)"
+  #   #              #     url: "https://www.google.com"
+  #   #              #   - text: "Practioner Guide"
+  #   #              #     url: "https://www.google.com"
 
-# ---------------------------------------------------------------------------
+  # ---------------------------------------------------------------------------
   - dropdown: "Events & Community"
     display: true
     sections:
@@ -368,37 +367,37 @@ menu:
           #  heading_url: "/info/call-participation/community"
           #  description: "Explore social and topic-based community groups"
           #  columns:
-      #      - heading: "Connect"
-      #        links:
-                 #- text: "Vis Buddies"
-                 #  url: "/info/meetups#vis-newcomers"
-                 #- text: "Job Postings"
-                 #  url: "/info/jobs"
-#              - heading: "Social Groups"
-#                links:
-#                  - text: "Velo Club de VIs"
-#                    url: "https://www.gicentre.net/velo-club-de-vis/"
-#                    is_external: true
-#                  # - text: "Vis Pioneers Group"
-#                  #   url: "http://vacommunity.org/ieeevpg/"
-#                  #   is_external: true
+          #      - heading: "Connect"
+          #        links:
+          #- text: "Vis Buddies"
+          #  url: "/info/meetups#vis-newcomers"
+          #- text: "Job Postings"
+          #  url: "/info/jobs"
+          #              - heading: "Social Groups"
+          #                links:
+          #                  - text: "Velo Club de VIs"
+          #                    url: "https://www.gicentre.net/velo-club-de-vis/"
+          #                    is_external: true
+          #                  # - text: "Vis Pioneers Group"
+          #                  #   url: "http://vacommunity.org/ieeevpg/"
+          #                  #   is_external: true
           - heading: "Social Media"
-            columns: 
+            columns:
               - links:
-                 - text: "Facebook"
-                   url: "https://www.facebook.com/ieeevis"
-                   is_external: true
-                 - text: "X (Twitter)"
-                   url: "https://twitter.com/ieeevis"
-                   is_external: true
-                 - text: "Mastodon"
-                   url: "https://vis.social/@ieeevis"
-                   is_external: true
-                 - text: "Email List"
-                   url: "https://ieeevis.us20.list-manage.com/subscribe?u=874d4e627b4758f4438963e98&id=6c036e3c40"
-                   is_external: true
+                  - text: "Facebook"
+                    url: "https://www.facebook.com/ieeevis"
+                    is_external: true
+                  - text: "X (Twitter)"
+                    url: "https://twitter.com/ieeevis"
+                    is_external: true
+                  - text: "Mastodon"
+                    url: "https://vis.social/@ieeevis"
+                    is_external: true
+                  - text: "Email List"
+                    url: "https://ieeevis.us20.list-manage.com/subscribe?u=874d4e627b4758f4438963e98&id=6c036e3c40"
+                    is_external: true
 
-# ---------------------------------------------------------------------------
+  # ---------------------------------------------------------------------------
   - dropdown: "Organization & History"
     display: true
     sections:
@@ -493,7 +492,7 @@ menu:
                   - text: "Area Curation Committee"
                     url: "/info/committees/area-committee"
                   - text: "reVISe 1.1"
-                    url:  "/blog/vis-2025-revise"
+                    url: "/blog/vis-2025-revise"
           - heading: "Governance Documents"
             columns:
               - links:

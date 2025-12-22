@@ -8,5 +8,4 @@ active_nav: "Program"
 <meta http-equiv="refresh" content="0; url=/year/2025/program/awards/awards.html">
 <link rel="canonical" href="/year/2025/program/awards/awards.html" />
 
-
-Test of Time Awards are now only visible on the Awards page.  If you are not automatically redirected, please [click this link to see the Awards page.](/year/2025/program/awards/awards.html)
+Test of Time Awards are now only visible on the Awards page. If you are not automatically redirected, please [click this link to see the Awards page.](/year/2025/program/awards/awards.html)

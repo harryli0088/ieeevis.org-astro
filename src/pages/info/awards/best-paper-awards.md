@@ -49,7 +49,6 @@ Authors: Peter Rautek, Xingdi Zhang, Bernhard Woschizka, Thomas Theussl, Markus 
 
 Justification: "This work presents a novel and creative contribution to the analysis of vortex structures in 2D unsteady flows. It proposes a new interactive approach that keeps the user in the loop during reference frame optimization, allowing for the rapid exploration of real-world flow data. The paper utilizes a clever iterative optimization scheme that can be executed asynchronously during user interaction, alleviating the need for any pre-computation, representing a clear advancement of the state of the art. By explicitly exploring the connection between the mathematical formulation and physical meaningfulness, the paper further contributes to the foundations of flow visualization."
 
-
 ### Best Paper Honorable Mentions
 
 **A Computational Design Process to Fabricate Sensing Network Physicalizations**
@@ -104,8 +103,6 @@ Authors: Florian Wetzels, Mathieu Pont, Julien Tierny, Christoph Garth
 <br/>
 Authors: Carolina Veiga Ferreira de Souza, Suzanna Maria Bonnet, Daniel de Oliveira, Marcio Cataldi, Fabio Miranda, Marcos Lage
 
-
-
 ## Short Papers
 
 The Best Papers Committee for VIS 2023 short papers consists of three distinguished members: Daniel Archambault, Jian Chen, and Nathalie Riche. The Short Papers Chairs would like to thank the Best Papers Committee for their work and to congratulate the awardees!
@@ -126,8 +123,6 @@ Authors: Junran Yang, Péter Ferenc Gyarmati, Zehua Zeng, Dominik Moritz
 <br/>
 Authors: Yiren Ding, Lane Harrison
 
-
-
 ## Posters
 
 The Best Posters Committee for VIS 2022 posters consists of three distinguished members: Jessica Hullman, Vijay Natarajan, and Adam Perer. The Poster Chairs would like to thank the Best Posters Committee for their work and to congratulate the awardees!
@@ -141,7 +136,7 @@ Authors: Alec Fisher Helbling, Duen Horng Chau
 ### Best Poster Honorable Mentions
 
 **Enhancing Natural Language-Based Data Exploration with Analysis Pipeline Illustration**
-<br/> 
+<br/>
 Author: Yi Guo, Nan Cao, Xiaoyu Qi, Haoyang Li, Danqing Shi, Jing Zhang, Qing Chen, Daniel Weiskopf
 
 **Refreshable Tactile Displays for Accessible Data Visualisation**

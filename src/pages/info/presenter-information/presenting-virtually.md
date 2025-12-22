@@ -67,21 +67,23 @@ and ask the presenter question from sli.do, similar to the typical
 chair role in an in-person conference. Each title slide for a session will
 contain a QR code that will allow attendees to ask sli.do questions on their
 mobile device. **Please point out this code and remind attendees to use sli.do
-for their questions**  Sli.do questions will be sorted by most popular and will be
+for their questions** Sli.do questions will be sorted by most popular and will be
 moderated by the technican. It is important you repeat each question
 back over Zoom so that the presenter and other attendees can hear them.
 Please also see our example video from 2020 below on chairing the session. The only differences this year are
 the use of sli.do and the removal of youtube chat.
 
 ## The End of Your Session
+
 There is a **hard cut-off** 10 minutes after
 the session is scheduled to end to allow time to set up the next session,
 so please keep to the session schedule.
 Additional discussion after the session can be continued on Discord.
 
 # Example Session Tutorials
+
 Please watch the example session tutorials for 2020 below to see what to expect as
-a presenter in the virtual conference.  The only differences between 2020 and this year are the inclusion
+a presenter in the virtual conference. The only differences between 2020 and this year are the inclusion
 of sli.do questions and the removal of youtube chat.
 
 ## Recorded Talk with Live Q&A
@@ -96,7 +98,7 @@ Also available on [BiliBili](https://www.bilibili.com/video/BV1jZ4y157fj)
 
 Also available on [BiliBili](https://www.bilibili.com/video/BV1dk4y1k7Nj)
 
-## Live Panel over Zoom 
+## Live Panel over Zoom
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Qg01LslV2xI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -1,6 +1,6 @@
 ---
 title: VIS 2022 Financial Blog Post
-description: 
+description:
 layout: /src/layouts/BlogPageLayout.astro
 active_nav: Blog
 authors: VGTC/VEC
@@ -20,31 +20,31 @@ One thing that people who have never witnessed the inner workings of a conferenc
 
 ## Income
 
-| **Income Category**       | **Income** |
-|--------------------------|------------|
-| Registration             | $513,000   |
-| Supporters               | $122,000   |
-| Surplus Reinvestment     | $39,000    |
-| VGTC                     | $25,000    |
-| Other                    | $10,000    |
-| **Total**                | **$709,000** |
+| **Income Category**  | **Income**   |
+| -------------------- | ------------ |
+| Registration         | $513,000     |
+| Supporters           | $122,000     |
+| Surplus Reinvestment | $39,000      |
+| VGTC                 | $25,000      |
+| Other                | $10,000      |
+| **Total**            | **$709,000** |
 
 ---
 
 ## Costs
 
-| **Cost Category**         | **Cost**   |
-|--------------------------|------------|
-| Food and Beverage         | $190,000   |
-| A/V                       | $168,000   |
-| Administrative Services   | $74,000    |
-| Conference Management     | $34,000    |
-| Travel Expenses           | $32,000    |
-| Onsite Expenses           | $31,000    |
-| Publication Fees          | $14,000    |
-| Facilities/Venue          | $7,000     |
-| Miscellaneous             | $15,000    |
-| **Total**                 | **$565,000** |
+| **Cost Category**       | **Cost**     |
+| ----------------------- | ------------ |
+| Food and Beverage       | $190,000     |
+| A/V                     | $168,000     |
+| Administrative Services | $74,000      |
+| Conference Management   | $34,000      |
+| Travel Expenses         | $32,000      |
+| Onsite Expenses         | $31,000      |
+| Publication Fees        | $14,000      |
+| Facilities/Venue        | $7,000       |
+| Miscellaneous           | $15,000      |
+| **Total**               | **$565,000** |
 
 ---
 
@@ -57,12 +57,15 @@ VIS 2022 was a hybrid conference, offering synchronous online and in-person part
 ## Sources of Funds
 
 ### VGTC
+
 VGTC allocates a proportion of their budget annually to support VGTC conferences. Their ~$25,000 contribution helped support PCS, the Doctoral Colloquium, Student Volunteers, Diversity fellowships, and VISKids.
 
 ### Registration
+
 The biggest source of uncertainty and income (~$513,000) came from registration. We ended up with 952 paid registrants: 514 in-person and 438 online. Registration fees were kept in line with past conferences, and complimentary registration was offered to some participants to support diversity and inclusivity.
 
 ### Supporters
+
 Supporters provided ~$122,000 in funds in exchange for visibility and participation opportunities at the conference. New sponsors, including local OKC contributors, helped boost support to one of the highest levels in recent years.
 
 ---
@@ -70,24 +73,31 @@ Supporters provided ~$122,000 in funds in exchange for visibility and participat
 ## Expenditures
 
 ### Facilities
+
 Hosted at the Omni Hotel and the First American’s Museum, facilities cost was relatively low at ~$7,000.
 
 ### A/V
+
 A hybrid conference meant significant A/V demands, totaling ~$168,000. Prioritization of events and volunteer support helped keep costs down.
 
 ### Food & Beverage
+
 Catering included breakfast, coffee breaks, and a mid-week reception, totalling ~$190,000.
 
 ### Publication Support
+
 Costs for publication systems and services came to ~$13,000.
 
 ### Attendee Support
+
 This included testing kits, diversity registrations, volunteer support, and hotel subsidies, totaling ~$47,000.
 
 ### Administrative Services
+
 IEEE administrative consulting and coordination cost ~$59,000.
 
 ### Miscellaneous
+
 Included advertising, planning, and supporter program management: ~$15,000.
 
 ---
@@ -100,4 +110,4 @@ VIS 2022 was a financial success, thanks to better-than-expected attendance, aff
 
 <img width="129" alt="Vis22-Report-ChairSignature" src="https://github.com/user-attachments/assets/047a5b1c-6358-4f9f-a280-8a19eec9c427" />
 
-*Danielle Albers Szafir, UNC-Chapel Hill*
+_Danielle Albers Szafir, UNC-Chapel Hill_

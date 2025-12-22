@@ -21,10 +21,8 @@
 
 navbar_metadata:
   display: false
-  label: 'Content'
+  label: "Content"
   use_auth0: false
-  
-
 
 schedule:
   display: false

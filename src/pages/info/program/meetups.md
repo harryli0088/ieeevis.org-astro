@@ -5,22 +5,21 @@ active_nav: "Events & Community"
 contact: community@ieeevis.org
 ---
 
-Program for VIS 2025 not finalized yet 
-
+Program for VIS 2025 not finalized yet
 
 <!--
-* [VisLies! Meetup](#vis-lies) 
+* [VisLies! Meetup](#vis-lies)
 * [Velo Club de VIS Meetup](#vis-velo)
 * [Vis4Good Meetup](#vis4good)
-* [A Reproducibility Stamp Initiative for Visualization?](#reproducibility)  
+* [A Reproducibility Stamp Initiative for Visualization?](#reproducibility)
 
 ## <a name="vis-lies"></a>VisLies! Meetup
 
 
-Contact the organisers for more info! <br> 
+Contact the organisers for more info! <br>
 Thursday 17 October 2024<br>
 3:00pm<br>
-Check Discord or contact the orgnanisers for the Zoom meeting link!<br> 
+Check Discord or contact the orgnanisers for the Zoom meeting link!<br>
 Organizers: Kenneth Moreland and Bernice Rogowitz <br>
 Contact: <br>
 morelandkd@ornl.gov <br>
@@ -30,7 +29,7 @@ VisLies! is a yearly event at IEEE VIS. This fun and engaging evening session sh
 
 ## <a name="vis4good"></a>Vis4Good Meetup
 
-Contact the organisers for more info! <br> 
+Contact the organisers for more info! <br>
 Thursday 17 October 2024<br>
 3:30pm <br>
 Check Discord or email organisers for Zoom link! <br>
@@ -38,7 +37,7 @@ Organizers: Evan Peck <br>
 Contact:<br>
 evan.peck@colorado.edu <br>
 
-For the last 5 years, Vis4Good [(https://vis4good.github.io/](https://vis4good.github.io/) has provided a central venue within the IEEE VIS community for surfacing work that critiques, defines, or explores the impact of data visualization on society in order to build just and equitable futures. Data is an inescapable part of our lives: it guides commerce, government, and technology, and increasingly determines what lives we can (or cannot) live. Data visualization has a special place within this emerging, data-driven, order: as a tool to inform or persuade mass audiences, guide or enlighten the specialist, or give a voice to the unheard. We therefore pose the question: how can visualization, and visualization research, help us build the worlds we want? 
+For the last 5 years, Vis4Good [(https://vis4good.github.io/](https://vis4good.github.io/) has provided a central venue within the IEEE VIS community for surfacing work that critiques, defines, or explores the impact of data visualization on society in order to build just and equitable futures. Data is an inescapable part of our lives: it guides commerce, government, and technology, and increasingly determines what lives we can (or cannot) live. Data visualization has a special place within this emerging, data-driven, order: as a tool to inform or persuade mass audiences, guide or enlighten the specialist, or give a voice to the unheard. We therefore pose the question: how can visualization, and visualization research, help us build the worlds we want?
 
 ## <a name="reproducibility"></a>A Reproducibility Stamp Initiative for Visualization?
 

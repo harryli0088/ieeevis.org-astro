@@ -8,11 +8,15 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "postbuild": "NODE_ENV=production node postbuild.mjs"
+    "postbuild": "NODE_ENV=production node postbuild.mjs",
+    "prepare": "husky"
   },
   "devDependencies": {
     "@types/react": "^19.1.2",
-    "@types/react-dom": "^19.1.2"
+    "@types/react-dom": "^19.1.2",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.2.7",
+    "prettier": "^3.7.4"
   },
   "dependencies": {
     "@astrojs/react": "^4.3.0",
@@ -36,5 +40,8 @@
   "bugs": {
     "url": "https://github.com/ieee-vgtc/ieeevis.org/issues"
   },
-  "homepage": "https://github.com/ieee-vgtc/ieeevis.org#readme"
+  "homepage": "https://github.com/ieee-vgtc/ieeevis.org#readme",
+  "lint-staged": {
+    "**/*": "prettier --write --ignore-unknown"
+  }
 }

@@ -1,12 +1,8 @@
 /**
- * 
- * @param param0 
+ *
+ * @param param0
  */
 
 export default function Alert() {
-
-    return(
-        <p>Alert will go here.</p>
-    )
-
+  return <p>Alert will go here.</p>;
 }

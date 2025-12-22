@@ -5,12 +5,13 @@ active_nav: "Contribute"
 contact: inclusivity@ieeevis.org
 ---
 
-IEEE VIS is committed to providing an inclusive and harassment-free environment in all interactions regardless of gender, sexual orientation, disability, physical appearance, race, or religion. This commitment extends to  all IEEE VIS sponsored events and services (virtual conference proceedings, webinars, committee meetings, networking functions, online forums, chat rooms, and social media) and any interaction regardless of affiliation or position. As a community that aims to share ideas and freedom of thought and expression, it is essential that the interaction between attendees take place in an environment that recognizes the inherent worth of every person by being respectful of all. IEEE VIS does not tolerate harassment in any form. Harassment is any form of behavior intended to exclude, intimidate, or cause discomfort. Harassment includes, but is not limited to, the use of abusive or degrading language or media, intimidation, stalking, harassing photography or recording, inappropriate physical contact, and unwelcome sexual attention, and posting unwanted targeted content (e.g., cyberbullying, or content that is sexual or violent in nature). 
+IEEE VIS is committed to providing an inclusive and harassment-free environment in all interactions regardless of gender, sexual orientation, disability, physical appearance, race, or religion. This commitment extends to all IEEE VIS sponsored events and services (virtual conference proceedings, webinars, committee meetings, networking functions, online forums, chat rooms, and social media) and any interaction regardless of affiliation or position. As a community that aims to share ideas and freedom of thought and expression, it is essential that the interaction between attendees take place in an environment that recognizes the inherent worth of every person by being respectful of all. IEEE VIS does not tolerate harassment in any form. Harassment is any form of behavior intended to exclude, intimidate, or cause discomfort. Harassment includes, but is not limited to, the use of abusive or degrading language or media, intimidation, stalking, harassing photography or recording, inappropriate physical contact, and unwelcome sexual attention, and posting unwanted targeted content (e.g., cyberbullying, or content that is sexual or violent in nature).
 
 This Code of Conduct applies to all aspects of the conference, including:
-* Official conference sessions and presentations.
-* Conference-related social events, networking opportunities, and workshops.
-* Communication platforms provided by the conference, including online discussions and social media.
+
+- Official conference sessions and presentations.
+- Conference-related social events, networking opportunities, and workshops.
+- Communication platforms provided by the conference, including online discussions and social media.
 
 This Code of Conduct also extends to affiliated events, such as after-hours gatherings. This includes any event held during the conference where participants are drawn largely from conference attendees, even if the event is not officially endorsed by the conference.
 
@@ -20,9 +21,9 @@ IEEE VIS reserves the right to take appropriate action to foster an inclusive an
 
 ### Contact
 
-Please contact [ombuds@ieeevis.org](mailto:ombuds@ieeevis.org) if you experience, observe, or have knowledge of behavior in violation of the Code of Conduct.  Our [reporting process document](coc-reporting-process) describes how the Ombuds team will respond.
+Please contact [ombuds@ieeevis.org](mailto:ombuds@ieeevis.org) if you experience, observe, or have knowledge of behavior in violation of the Code of Conduct. Our [reporting process document](coc-reporting-process) describes how the Ombuds team will respond.
 
-The ombuds team for VIS 2025 is: 
+The ombuds team for VIS 2025 is:
 
 <center>
 <table style="text-align: center;">
@@ -54,4 +55,3 @@ The ombuds team for VIS 2025 is:
 You can also approach individual members of the Ombuds team individually (contact information will be available at Registration) or in person.
 
 Please contact [inclusivity@ieeevis.org](mailto:inclusivity@ieeevis.org) with any additional questions about the Code of Conduct and Inclusivity & Diversity at IEEE VIS.
- 

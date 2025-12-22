@@ -8,7 +8,7 @@ contact: general_chair@ieeevis.org
 Vienna is also known for its love and culture of enjoyment, one that has been developed and sustained in traditional coffee houses and wine taverns over centuries.
 Here you can find some tips from locals for people visiting Vienna.
 
-#### Before going home from an evening event, visit a *Würstelstand*
+#### Before going home from an evening event, visit a _Würstelstand_
 
 <table>
     <tr>
@@ -23,8 +23,7 @@ Here you can find some tips from locals for people visiting Vienna.
     </tr>
 </table>
 
-
-#### Spend an afternoon at a *Heuriger*
+#### Spend an afternoon at a _Heuriger_
 
 <table>
     <tr>
@@ -39,8 +38,7 @@ Here you can find some tips from locals for people visiting Vienna.
     </tr>
 </table>
 
-
-#### Read or write your next paper in a *Kaffeehaus*
+#### Read or write your next paper in a _Kaffeehaus_
 
 <table>
     <tr>
@@ -54,7 +52,6 @@ Here you can find some tips from locals for people visiting Vienna.
         </td>
     </tr>
 </table>
-
 
 #### Shop at one of the old tea houses
 
@@ -72,7 +69,6 @@ Here you can find some tips from locals for people visiting Vienna.
     </tr>
 </table>
 
-
 #### Watch a concert at Szene
 
 <table>
@@ -87,7 +83,6 @@ Here you can find some tips from locals for people visiting Vienna.
         </td>
     </tr>
 </table>
-
 
 #### Listen to a jazz concert at Porgy & Bess
 

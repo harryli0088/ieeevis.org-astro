@@ -9,10 +9,10 @@ Whether you are recruiting new talent or showcasing key products and services, V
 
 Reasons why you should take part in VIS 2023:
 
- - **Grow Your Audience** - Meet over 1000 attendees with specialization in interactive data visualization and visual analytics, data science, machine learning, and more.
- - **Meet potential job candidates** – Engage with potential future employees including PHD students, research associates, and faculty.
- - **Benefit from joint in-person and virtual support** – experience both physical exhibition and expanded virtual branding opportunities as you position your company as a leader in the expanding field of computer vision.
- - **Networking** – Make new and important connections through virtual meetings, discussions, and demonstrations on a wide range of computing and applications topics.
+- **Grow Your Audience** - Meet over 1000 attendees with specialization in interactive data visualization and visual analytics, data science, machine learning, and more.
+- **Meet potential job candidates** – Engage with potential future employees including PHD students, research associates, and faculty.
+- **Benefit from joint in-person and virtual support** – experience both physical exhibition and expanded virtual branding opportunities as you position your company as a leader in the expanding field of computer vision.
+- **Networking** – Make new and important connections through virtual meetings, discussions, and demonstrations on a wide range of computing and applications topics.
 
 <p style="text-align: center;">**Diamond, Gold, Silver, Bronze, and Pearl level packages are available now.**</p>
 
@@ -23,7 +23,7 @@ VIS 2023 attracts decision-makers looking for the next generation of products, s
 Secure your sponsorship today!
 
 Contact:
-*Regan Pickett*
-*IEEE Computer Society*
+_Regan Pickett_
+_IEEE Computer Society_
 *supporters@ieeevis.org*
-*+1 714-822-8022*
+_+1 714-822-8022_

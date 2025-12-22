@@ -6,19 +6,20 @@ contact: finance@ieeevis.org
 ---
 
 ## VIS 2025 EVENT REGISTRATION
+
 The 2025 IEEE Visualization and Visual Analytics Conference, running from November 2 - 7, is organized as an on-site event.
 The conference will be held at the Austria Center Vienna (ACV) in Vienna, Austria.
 There will be completely virtual session (organized in Zoom) for presenters who are not able to travel.
 
-
 ### Important Dates
+
 <ul>
 <li>Registration opening: <strong>Late May / Early June 2025</strong></li>
 <li>Early Registration deadline: <strong>Early September 2025</strong></li>
 </ul>
 
-
 ## IN-PERSON AND VIRTUAL PRESENTERS OF MAIN CONFERENCE PAPERS, MAIN CONFERENCE SHORT PAPERS AND INVITED JOURNAL PAPERS
+
 <ul>
 <li>One speaker for each main conference paper, main conference short paper, or invited journal paper <b>MUST</b> register under the On-site Speaker Conference Registration or the Virtual Speaker Conference Registration option (Student Speaker options will be available).</li>
 <li>Presenters can add multiple papers to their Speaker Conference Registration.</li>
@@ -31,6 +32,7 @@ There will be completely virtual session (organized in Zoom) for presenters who 
 ### Speaker Conference Registration Fees
 
 Speaker Conference Registration fees will be published as soon as registration is open.
+
 <!--
     <table>
       <tr>
@@ -60,11 +62,13 @@ Speaker Conference Registration fees will be published as soon as registration i
     </tr>
     </table>
 -->
+
 **All Speaker Conference Registration fees are not refundable.**
 
-
 ## ATTENDEES
+
 Attendees should register online in advance and pay via credit card or wire transfer.
+
 <ul>
   <li><b>Full Week Conference Registration Includes:</b> Admission to all conference sessions, symposia, tutorials and workshops, welcome reception (Tuesday), conference dinner (Wednesday), and access to VIS 2025 online content.</li>
 <li><b>One Day Conference Registration Includes:</b> One day admission to any conference sessions, symposia, tutorials, and workshops for that day, and access to VIS 2025 online content.</li>
@@ -169,7 +173,6 @@ Virtual attendees should register online in advance and pay via credit card.
 <a class="button" href="#"> VIRTUAL CONFERENCE PARTICIPANT REGISTRATION </a>
 -->
 
-
 ### Registration FAQS
 
 **Q: I am a poster presenter. Do I need to register using the Speaker Registration category?**
@@ -178,7 +181,7 @@ Virtual attendees should register online in advance and pay via credit card.
 No. Posters presenters should use the regular On-Site Participant Registration category. 
 </ul>
 
-**Q: I will present a paper at a  workshop/symposium/associated event. Do I need to register using the Speaker Registration category?**
+**Q: I will present a paper at a workshop/symposium/associated event. Do I need to register using the Speaker Registration category?**
 
 <ul>
 No. Workshop or symposium paper presenters and authors should use the regular On-Site Participant or Virtual Participant Registration categories. 

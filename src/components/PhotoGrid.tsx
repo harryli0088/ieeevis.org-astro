@@ -1,12 +1,8 @@
 /**
- * 
- * @param param0 
+ *
+ * @param param0
  */
 
 export default function PhotoGrid() {
-
-    return(
-        <p>Photo grid will go here.</p>
-    )
-
+  return <p>Photo grid will go here.</p>;
 }

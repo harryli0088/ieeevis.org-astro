@@ -6,219 +6,218 @@ contact: papers@ieeevis.org
 sidetoc: true
 ---
 
-## Full Papers Program Committee 
+## Full Papers Program Committee
 
 | **Name** | **Affiliation** |<br>
-| Alfie Abdul-Rahman| *King's College London* |<br>
-| Jan Aerts| *KU Leuven* |<br>
-| Shehzad Afzal| *KAUST* |<br>
-| Marco Agus| *Hamad Bin Khalifa University* |<br>
-| Bilal Alsallakh| *Voxel AI* |<br>
-| Gennady Andrienko| *Fraunhofer IAIS / City, University of London* |<br>
-| Marco Angelini| *University of Rome* |<br>
-| Daniel Archambault| *Newcastle University* |<br>
-| Tushar Athawale| *Oak Ridge National Laboratory* |<br>
-| Lyn Bartram| *Simon Fraser University* |<br>
-| Michael Behrisch| *Utrecht University* |<br>
-| Matthew Berger| *Vanderbilt University* |<br>
-| Enrico	Bertini| *Northeastern University* |<br>
-| Lonni Besançon| *Linköping University* |<br>
-| Anastasia Bezerianos| *Université Paris-Sud* |<br>
-| Ayan Biswas| *Los Alamos National Laboratory* |<br>
-| Tanja Blascheck| *University of Stuttgart* |<br>
-| Ciril Bohak| *University of Ljubljana* |<br>
-| Saeed Boorboor| *Stony Brook University* |<br>
-| David Borland| *RENCI, UNC-Chapel Hill* |<br>
-| Nadia Boukhelifa| *INRAE* |<br>
-| Matthew Brehmer| *University of Waterloo* |<br>
-| Peer-Timo Bremer| *Lawrence Livermore National Laboratory* |<br>
-| Stefan Bruckner| *University of Rostock* |<br>
-| Paolo Buono| *University of Bari* |<br>
-| Michael Burch| *Fachhochschule Graubunden* |<br>
-| Peter W.S. Butcher| *Bangor University* |<br>
-| Dylan Cashman| *Brandeis University* |<br>
-| Remco Chang| *Tufts University* |<br>
-| Angelos Chatzimparmpas| *Utrecht University* |<br>
-| Changjian Chen| *Hunan University, Changsha* |<br>
-| Guoning Chen| *University of Houston* |<br>
-| Jian Chen| *The Ohio State University* |<br>
-| Min Chen| *University of Oxford* |<br>
-| Siming Chen| *Fudan University* |<br>
-| Furui Cheng| *ETH Zürich* |<br>
-| Yi-Jen Chiang| *New York University* |<br>
-| Haeyong Chung| *University of Alabama, Huntsville* |<br>
-| Joseph Cottam| *Pacific Northwest National Laboratory* |<br>
-| Carsten Dachsbacher| *Carsten Dachsbacher / Karlsruhe Institute of Technology (KIT)* |<br>
-| Raimund Dachselt| *TU Dresden* |<br>
-| Aritra Dasgupta| *New Jersey Institute of Technology (NJIT)* |<br>
-| Oliver Deussen| *University of Konstanz* |<br>
-| Vaishali Dhanoa| *Aarhus University* |<br>
-| Alexandra Diehl| *Southern University of Denmark, Odense* |<br>
-| Joao Dihl Comba| *Universidade Federal do Rio Grande do Sul* |<br>
-| Steven Drucker| *Microsoft Research* |<br>
-| Barrett Ens| *University of British Columbia (Okanagan)* |<br>
-| Rebecca Faust| *Tulane University* |<br>
-| Nivan Ferreira| *Universidade Federal de Pernambuco* |<br>
-| Angus Forbes| *NVIDIA, Santa Clara* |<br>
-| Siwei Fu| *Zhejiang Lab* |<br>
-| Johannes Fuchs| *University of Konstanz* |<br>
-| Issei Fujishiro| *Keio University* |<br>
-| Takanori Fujiwara| *Linköping University* |<br>
-| Tim Gerrits| *RWTH Aachen University* |<br>
-| Sohaib Ghani| *King Abdullah University of Science and Technology* |<br>
-| Michael Gleicher| *University of Wisconsin* |<br>
-| David Gotz| *University of North Carolina, Chapel Hill* |<br>
-| Claudio Douglas  Gouveia Linhares| *Linnaeus University* |<br>
-| John Alexis Guerra-Gomez| *Northeastern University Bay Area* |<br>
-| Stefan Gumhold| *TU Dresden* |<br>
-| Tobias Günther| *Friedrich-Alexander University of Erlangen-Nuremberg* |<br>
-| Hanqi Guo| *Argonne National Laboratory* |<br>
-| Jun Han| *The Chinese University of Hong Kong, Shenzhen* |<br>
-| Lane Harrison| *Worcester Polytechnic Institute* |<br>
-| Marti Hearst| *UC Berkeley* |<br>
-| Florian Heimerl| *University of Wisconsin - Madison* |<br>
-| Uta Hinrichs| *University of St. Andrews* |<br>
-| Andreas Hinterreiter| *Johannes Kepler University* |<br>
-| Fred Hohman| *Apple* |<br>
-| Seok-Hee Hong| *University of Sydney* |<br>
-| Carmen Hull| *Northeastern University* |<br>
-| Ji Hwan Park| *Rochester Institute of Technology* |<br>
-| Tobias Isenberg| *Inria* |<br>
-| Federico Iuricich| *Clemson University* |<br>
-| Yvonne Jansen| *CNRS* |<br>
-| Alberto Jaspe-Villanueva| *KAUST* |<br>
-| Won-Ki Jeong| *Korea University* |<br>
-| Chris R. Johnson| *University of Utah* |<br>
-| Minsuk Kahng| *Google DeepMind* |<br>
-| Alex Kale| *University of Chicago* |<br>
-| Eser Kandogan| *Megagon Labs* |<br>
-| Alireza Karduni| *Simon Fraser University* |<br>
-| Daniel Keim| *University of Konstanz* |<br>
-| Hyeok Kim| *University of Washington* |<br>
-| Gordon Kindlmann| *University of Chicago* |<br>
-| Johannes Knittel| *Harvard University* |<br>
-| Stephen Kobourov| *University of Arizona* |<br>
-| David Koop| *Northern Illinois University* |<br>
-| David Kouřil| *Harvard Medical School* |<br>
-| Michael Krone| *Stuttgart University of Applied Sciences* |<br>
-| Robert Krueger| *Harvard University* |<br>
-| Kostiantyn Kucher| *Linköping University* |<br>
-| Kuno Kurzhals| *University of Stuttgart* |<br>
-| Sehi L'Yi| *Harvard Medical School* |<br>
-| Marcos Lage| *Universidade Federal Fluminense* |<br>
-| David Laidlaw| *Brown University* |<br>
-| Robert S. Laramee| *University of Nottingham* |<br>
-| Benjamin Lee| *JPMorganChase* |<br>
-| Bongshin Lee| *Yonsei University* |<br>
-| Joshua Levine| *University of Arizona* |<br>
-| Chenhui Li| *East China Normal University* |<br>
-| Guozheng Li| *Beijing Institute of Technology* |<br>
-| Quan Li| *ShanghaiTech University* |<br>
-| Jie Liang| *University of Technology, Sydney* |<br>
-| Peter Lindstrom| *Lawrence Livermore National Laboratory* |<br>
-| Dongyu Liu| *MIT* |<br>
-| Mengchen Liu| *META, Redmond, Washington* |<br>
-| Aidong Lu| *UNC Charlotte* |<br>
-| Kim Marriott| *Monash University* |<br>
-| Nicole Marsaglia| *Lawrence Livermore National Laboratory* |<br>
-| Talha Bin Masood| *Linköping University* |<br>
-| Justin Matejka| *Autodesk Research* |<br>
-| Michael McGuffin| *École de technologie supérieure (ÉTS)* |<br>
-| Andrew McNutt| *University of Utah* |<br>
-| Monique Meuschke| *University of Magdeburg* |<br>
-| Miriah Meyer| *Linköping University* |<br>
-| Haichao Miao| *Lawrence Livermore National Laboratory* |<br>
-| Silvia Miksch| *Vienna University of Technology* |<br>
-| Gabriel Mistelbauer| *Stanford Medicine* |<br>
-| Gabriela Molina Leon| *Aarhus University* |<br>
-| Torsten Möller| *University of Vienna* |<br>
-| Klaus Mueller| *Stony Brook University* |<br>
-| Miguel Nacenta| *University of Victoria* |<br>
-| Arpit Narechania| *The Hong Kong University of Science and Technology, Georgia Institute of Technology* |<br>
-| Vijay Natarajan| *Indian Institute of Science, Bangalore* |<br>
-| Carolina Nobre| *University of Toronto* |<br>
-| Lace Padilla| *UC Merced* |<br>
-| Michael Papka| *Argonne National Laboratory* |<br>
-| Valerio Pascucci| *University of Utah* |<br>
-| Fernando V. Paulovich| *TU Eindhoven* |<br>
-| Evan Peck| *UC Boulder* |<br>
-| Charles Perin| *University of Victoria* |<br>
-| Emmanuel Pietriga| *Inria / Université Paris-Saclay* |<br>
-| Jorge Poco| *Fundação Getulio Vargas* |<br>
-| Jean Roberto Ponciano| *Institute of Mathematics and Computer Sciences, University of Sao Paulo* |<br>
-| Kristi Potter| *National Renewable Energy Laboratory* |<br>
-| Bernhard Preim| *University Magdeburg* |<br>
-| Ghulam Jilani Quadri| *University of North Carolina-Chapel Hill* |<br>
-| Fatema Rajabiyazdi| *Carleton University* |<br>
-| Peter Rautek| *KAUST* |<br>
-| Khairi Reda| *Indiana University - Purdue Univ.* |<br>
-| Guido Reina| *University of Stuttgart* |<br>
-| Liu Ren| *Bosch Research* |<br>
-| Panagiotis Ritsos| *Bangor University* |<br>
-| Jennifer Rogers| *Idaho National Laboratory* |<br>
-| Paul Rosen| *University of Utah* |<br>
-| Alper Sarikaya| *Microsoft* |<br>
-| Ali Sarvghad| *University of Massachusetts Amherst* |<br>
-| Gerik Scheuermann| *Universität Leipzig* |<br>
-| Dieter Schmalstieg| *University of Stuttgart* |<br>
-| Andrea Schnorr| *RPTU University Kaiserslautern-Landau* |<br>
-| Tobias Schreck| *Graz University of Technology* |<br>
-| Thomas Schultz| *University of Bonn* |<br>
-| Jinwook Seo| *Seoul National University* |<br>
-| Danqing Shi| *Aalto University* |<br>
-| Lei Shi| *Beihang University* |<br>
-| Xinhuan Shu| *Newcastle University* |<br>
-| Max Sondag| *Cologne* |<br>
-| Bettina Speckmann| *TU Eindhoven* |<br>
-| Raghavendra Sridharamurthy| *Indian Institute of Science Hyderabad* |<br>
-| John Stasko| *Georgia Institute of Technology* |<br>
-| Nicole Sultanum| *Tableau Research* |<br>
-| Jianxin Sun| *University of Nebraska-Lincoln* |<br>
-| Tan Tang| *Zhejiang University* |<br>
-| Jun Tao| *Sun Yat-sen University* |<br>
-| John Thompson| *Microsoft Research* |<br>
-| Julien Tierny| *CNRS - Sorbonne Université* |<br>
-| Xavier Tricoche| *Purdue University* |<br>
-| Theophanis Tsandilas| *Inria / Université Paris-Saclay* |<br>
-| Pere-Pau Vazquez| *Univ. Barcelona* |<br>
-| Anna Vilanova| *TU Eindhoven* |<br>
-| Katerina Vrotsou| *Linköping University* |<br>
-| Romain Vuillemot| *Ecole Centrale de Lyon* |<br>
-| Emily Wall| *Emory University* |<br>
-| Junpeng Wang| *Visa Research* |<br>
-| Qianwen Wang| *Harvard Medical School* |<br>
-| Xingbo Wang| *Weill Cornell Medical College, Cornell University* |<br>
-| Yun Wang| *Microsoft Research Asia* |<br>
-| Yunhai Wang| *Shandong University* |<br>
-| Chris Weaver| *University of Oklahoma* |<br>
-| Gunther Weber| *Lawrence Berkeley National Laboratory* |<br>
-| Tino Weinkauf| *KTH Royal Institute of Technology* |<br>
-| Di Weng| *Zhejiang University* |<br>
-| Rüdiger Westermann| *Technical University of Munich* |<br>
-| Alexander Wiebel| *Hochschule Worms* |<br>
-| Daniel Wiegreffe| *University of Leipzig* |<br>
-| Kanit Wongsuphasawat| *Databricks* |<br>
-| Aoyu Wu| *Harvard University* |<br>
-| Hsiang-Yun Wu| *TU Wien* |<br>
-| Jiazhi Xia| *Central South University* |<br>
-| Xiao Xie| *Zhejiang University* |<br>
-| Kai Xu| *University of Nottingham* |<br>
-| Panpan Xu| *Amazon AWS AI* |<br>
-| Wei Xu| *Brookhaven National Laboratory* |<br>
-| Fumeng Yang| *University of Maryland, College Park* |<br>
-| Jing Yang| *UNC Charlotte* |<br>
-| Weikai Yang| *Hong Kong University of Science and Technology* |<br>
-| Lijie Yao| *Xi'an Jiaotong-Liverpool University* |<br>
-| Anders Ynnerman| *Linköping University* |<br>
-| Lingyun Yu| *Xi'an Jiaotong-Liverpool University* |<br>
-| Stefan Zellmann| *University of Cologne* |<br>
-| Wei Zeng| *Hong Kong University of Science and Technology* |<br>
-| Ye Zhao| *Kent State University* |<br>
-| Ying Zhao| *Central South University* |<br>
-| Chen Zhu-Tian| *University of Minnesota* |<br>
+| Alfie Abdul-Rahman| _King's College London_ |<br>
+| Jan Aerts| _KU Leuven_ |<br>
+| Shehzad Afzal| _KAUST_ |<br>
+| Marco Agus| _Hamad Bin Khalifa University_ |<br>
+| Bilal Alsallakh| _Voxel AI_ |<br>
+| Gennady Andrienko| _Fraunhofer IAIS / City, University of London_ |<br>
+| Marco Angelini| _University of Rome_ |<br>
+| Daniel Archambault| _Newcastle University_ |<br>
+| Tushar Athawale| _Oak Ridge National Laboratory_ |<br>
+| Lyn Bartram| _Simon Fraser University_ |<br>
+| Michael Behrisch| _Utrecht University_ |<br>
+| Matthew Berger| _Vanderbilt University_ |<br>
+| Enrico Bertini| _Northeastern University_ |<br>
+| Lonni Besançon| _Linköping University_ |<br>
+| Anastasia Bezerianos| _Université Paris-Sud_ |<br>
+| Ayan Biswas| _Los Alamos National Laboratory_ |<br>
+| Tanja Blascheck| _University of Stuttgart_ |<br>
+| Ciril Bohak| _University of Ljubljana_ |<br>
+| Saeed Boorboor| _Stony Brook University_ |<br>
+| David Borland| _RENCI, UNC-Chapel Hill_ |<br>
+| Nadia Boukhelifa| _INRAE_ |<br>
+| Matthew Brehmer| _University of Waterloo_ |<br>
+| Peer-Timo Bremer| _Lawrence Livermore National Laboratory_ |<br>
+| Stefan Bruckner| _University of Rostock_ |<br>
+| Paolo Buono| _University of Bari_ |<br>
+| Michael Burch| _Fachhochschule Graubunden_ |<br>
+| Peter W.S. Butcher| _Bangor University_ |<br>
+| Dylan Cashman| _Brandeis University_ |<br>
+| Remco Chang| _Tufts University_ |<br>
+| Angelos Chatzimparmpas| _Utrecht University_ |<br>
+| Changjian Chen| _Hunan University, Changsha_ |<br>
+| Guoning Chen| _University of Houston_ |<br>
+| Jian Chen| _The Ohio State University_ |<br>
+| Min Chen| _University of Oxford_ |<br>
+| Siming Chen| _Fudan University_ |<br>
+| Furui Cheng| _ETH Zürich_ |<br>
+| Yi-Jen Chiang| _New York University_ |<br>
+| Haeyong Chung| _University of Alabama, Huntsville_ |<br>
+| Joseph Cottam| _Pacific Northwest National Laboratory_ |<br>
+| Carsten Dachsbacher| _Carsten Dachsbacher / Karlsruhe Institute of Technology (KIT)_ |<br>
+| Raimund Dachselt| _TU Dresden_ |<br>
+| Aritra Dasgupta| _New Jersey Institute of Technology (NJIT)_ |<br>
+| Oliver Deussen| _University of Konstanz_ |<br>
+| Vaishali Dhanoa| _Aarhus University_ |<br>
+| Alexandra Diehl| _Southern University of Denmark, Odense_ |<br>
+| Joao Dihl Comba| _Universidade Federal do Rio Grande do Sul_ |<br>
+| Steven Drucker| _Microsoft Research_ |<br>
+| Barrett Ens| _University of British Columbia (Okanagan)_ |<br>
+| Rebecca Faust| _Tulane University_ |<br>
+| Nivan Ferreira| _Universidade Federal de Pernambuco_ |<br>
+| Angus Forbes| _NVIDIA, Santa Clara_ |<br>
+| Siwei Fu| _Zhejiang Lab_ |<br>
+| Johannes Fuchs| _University of Konstanz_ |<br>
+| Issei Fujishiro| _Keio University_ |<br>
+| Takanori Fujiwara| _Linköping University_ |<br>
+| Tim Gerrits| _RWTH Aachen University_ |<br>
+| Sohaib Ghani| _King Abdullah University of Science and Technology_ |<br>
+| Michael Gleicher| _University of Wisconsin_ |<br>
+| David Gotz| _University of North Carolina, Chapel Hill_ |<br>
+| Claudio Douglas Gouveia Linhares| _Linnaeus University_ |<br>
+| John Alexis Guerra-Gomez| _Northeastern University Bay Area_ |<br>
+| Stefan Gumhold| _TU Dresden_ |<br>
+| Tobias Günther| _Friedrich-Alexander University of Erlangen-Nuremberg_ |<br>
+| Hanqi Guo| _Argonne National Laboratory_ |<br>
+| Jun Han| _The Chinese University of Hong Kong, Shenzhen_ |<br>
+| Lane Harrison| _Worcester Polytechnic Institute_ |<br>
+| Marti Hearst| _UC Berkeley_ |<br>
+| Florian Heimerl| _University of Wisconsin - Madison_ |<br>
+| Uta Hinrichs| _University of St. Andrews_ |<br>
+| Andreas Hinterreiter| _Johannes Kepler University_ |<br>
+| Fred Hohman| _Apple_ |<br>
+| Seok-Hee Hong| _University of Sydney_ |<br>
+| Carmen Hull| _Northeastern University_ |<br>
+| Ji Hwan Park| _Rochester Institute of Technology_ |<br>
+| Tobias Isenberg| _Inria_ |<br>
+| Federico Iuricich| _Clemson University_ |<br>
+| Yvonne Jansen| _CNRS_ |<br>
+| Alberto Jaspe-Villanueva| _KAUST_ |<br>
+| Won-Ki Jeong| _Korea University_ |<br>
+| Chris R. Johnson| _University of Utah_ |<br>
+| Minsuk Kahng| _Google DeepMind_ |<br>
+| Alex Kale| _University of Chicago_ |<br>
+| Eser Kandogan| _Megagon Labs_ |<br>
+| Alireza Karduni| _Simon Fraser University_ |<br>
+| Daniel Keim| _University of Konstanz_ |<br>
+| Hyeok Kim| _University of Washington_ |<br>
+| Gordon Kindlmann| _University of Chicago_ |<br>
+| Johannes Knittel| _Harvard University_ |<br>
+| Stephen Kobourov| _University of Arizona_ |<br>
+| David Koop| _Northern Illinois University_ |<br>
+| David Kouřil| _Harvard Medical School_ |<br>
+| Michael Krone| _Stuttgart University of Applied Sciences_ |<br>
+| Robert Krueger| _Harvard University_ |<br>
+| Kostiantyn Kucher| _Linköping University_ |<br>
+| Kuno Kurzhals| _University of Stuttgart_ |<br>
+| Sehi L'Yi| _Harvard Medical School_ |<br>
+| Marcos Lage| _Universidade Federal Fluminense_ |<br>
+| David Laidlaw| _Brown University_ |<br>
+| Robert S. Laramee| _University of Nottingham_ |<br>
+| Benjamin Lee| _JPMorganChase_ |<br>
+| Bongshin Lee| _Yonsei University_ |<br>
+| Joshua Levine| _University of Arizona_ |<br>
+| Chenhui Li| _East China Normal University_ |<br>
+| Guozheng Li| _Beijing Institute of Technology_ |<br>
+| Quan Li| _ShanghaiTech University_ |<br>
+| Jie Liang| _University of Technology, Sydney_ |<br>
+| Peter Lindstrom| _Lawrence Livermore National Laboratory_ |<br>
+| Dongyu Liu| _MIT_ |<br>
+| Mengchen Liu| _META, Redmond, Washington_ |<br>
+| Aidong Lu| _UNC Charlotte_ |<br>
+| Kim Marriott| _Monash University_ |<br>
+| Nicole Marsaglia| _Lawrence Livermore National Laboratory_ |<br>
+| Talha Bin Masood| _Linköping University_ |<br>
+| Justin Matejka| _Autodesk Research_ |<br>
+| Michael McGuffin| _École de technologie supérieure (ÉTS)_ |<br>
+| Andrew McNutt| _University of Utah_ |<br>
+| Monique Meuschke| _University of Magdeburg_ |<br>
+| Miriah Meyer| _Linköping University_ |<br>
+| Haichao Miao| _Lawrence Livermore National Laboratory_ |<br>
+| Silvia Miksch| _Vienna University of Technology_ |<br>
+| Gabriel Mistelbauer| _Stanford Medicine_ |<br>
+| Gabriela Molina Leon| _Aarhus University_ |<br>
+| Torsten Möller| _University of Vienna_ |<br>
+| Klaus Mueller| _Stony Brook University_ |<br>
+| Miguel Nacenta| _University of Victoria_ |<br>
+| Arpit Narechania| _The Hong Kong University of Science and Technology, Georgia Institute of Technology_ |<br>
+| Vijay Natarajan| _Indian Institute of Science, Bangalore_ |<br>
+| Carolina Nobre| _University of Toronto_ |<br>
+| Lace Padilla| _UC Merced_ |<br>
+| Michael Papka| _Argonne National Laboratory_ |<br>
+| Valerio Pascucci| _University of Utah_ |<br>
+| Fernando V. Paulovich| _TU Eindhoven_ |<br>
+| Evan Peck| _UC Boulder_ |<br>
+| Charles Perin| _University of Victoria_ |<br>
+| Emmanuel Pietriga| _Inria / Université Paris-Saclay_ |<br>
+| Jorge Poco| _Fundação Getulio Vargas_ |<br>
+| Jean Roberto Ponciano| _Institute of Mathematics and Computer Sciences, University of Sao Paulo_ |<br>
+| Kristi Potter| _National Renewable Energy Laboratory_ |<br>
+| Bernhard Preim| _University Magdeburg_ |<br>
+| Ghulam Jilani Quadri| _University of North Carolina-Chapel Hill_ |<br>
+| Fatema Rajabiyazdi| _Carleton University_ |<br>
+| Peter Rautek| _KAUST_ |<br>
+| Khairi Reda| _Indiana University - Purdue Univ._ |<br>
+| Guido Reina| _University of Stuttgart_ |<br>
+| Liu Ren| _Bosch Research_ |<br>
+| Panagiotis Ritsos| _Bangor University_ |<br>
+| Jennifer Rogers| _Idaho National Laboratory_ |<br>
+| Paul Rosen| _University of Utah_ |<br>
+| Alper Sarikaya| _Microsoft_ |<br>
+| Ali Sarvghad| _University of Massachusetts Amherst_ |<br>
+| Gerik Scheuermann| _Universität Leipzig_ |<br>
+| Dieter Schmalstieg| _University of Stuttgart_ |<br>
+| Andrea Schnorr| _RPTU University Kaiserslautern-Landau_ |<br>
+| Tobias Schreck| _Graz University of Technology_ |<br>
+| Thomas Schultz| _University of Bonn_ |<br>
+| Jinwook Seo| _Seoul National University_ |<br>
+| Danqing Shi| _Aalto University_ |<br>
+| Lei Shi| _Beihang University_ |<br>
+| Xinhuan Shu| _Newcastle University_ |<br>
+| Max Sondag| _Cologne_ |<br>
+| Bettina Speckmann| _TU Eindhoven_ |<br>
+| Raghavendra Sridharamurthy| _Indian Institute of Science Hyderabad_ |<br>
+| John Stasko| _Georgia Institute of Technology_ |<br>
+| Nicole Sultanum| _Tableau Research_ |<br>
+| Jianxin Sun| _University of Nebraska-Lincoln_ |<br>
+| Tan Tang| _Zhejiang University_ |<br>
+| Jun Tao| _Sun Yat-sen University_ |<br>
+| John Thompson| _Microsoft Research_ |<br>
+| Julien Tierny| _CNRS - Sorbonne Université_ |<br>
+| Xavier Tricoche| _Purdue University_ |<br>
+| Theophanis Tsandilas| _Inria / Université Paris-Saclay_ |<br>
+| Pere-Pau Vazquez| _Univ. Barcelona_ |<br>
+| Anna Vilanova| _TU Eindhoven_ |<br>
+| Katerina Vrotsou| _Linköping University_ |<br>
+| Romain Vuillemot| _Ecole Centrale de Lyon_ |<br>
+| Emily Wall| _Emory University_ |<br>
+| Junpeng Wang| _Visa Research_ |<br>
+| Qianwen Wang| _Harvard Medical School_ |<br>
+| Xingbo Wang| _Weill Cornell Medical College, Cornell University_ |<br>
+| Yun Wang| _Microsoft Research Asia_ |<br>
+| Yunhai Wang| _Shandong University_ |<br>
+| Chris Weaver| _University of Oklahoma_ |<br>
+| Gunther Weber| _Lawrence Berkeley National Laboratory_ |<br>
+| Tino Weinkauf| _KTH Royal Institute of Technology_ |<br>
+| Di Weng| _Zhejiang University_ |<br>
+| Rüdiger Westermann| _Technical University of Munich_ |<br>
+| Alexander Wiebel| _Hochschule Worms_ |<br>
+| Daniel Wiegreffe| _University of Leipzig_ |<br>
+| Kanit Wongsuphasawat| _Databricks_ |<br>
+| Aoyu Wu| _Harvard University_ |<br>
+| Hsiang-Yun Wu| _TU Wien_ |<br>
+| Jiazhi Xia| _Central South University_ |<br>
+| Xiao Xie| _Zhejiang University_ |<br>
+| Kai Xu| _University of Nottingham_ |<br>
+| Panpan Xu| _Amazon AWS AI_ |<br>
+| Wei Xu| _Brookhaven National Laboratory_ |<br>
+| Fumeng Yang| _University of Maryland, College Park_ |<br>
+| Jing Yang| _UNC Charlotte_ |<br>
+| Weikai Yang| _Hong Kong University of Science and Technology_ |<br>
+| Lijie Yao| _Xi'an Jiaotong-Liverpool University_ |<br>
+| Anders Ynnerman| _Linköping University_ |<br>
+| Lingyun Yu| _Xi'an Jiaotong-Liverpool University_ |<br>
+| Stefan Zellmann| _University of Cologne_ |<br>
+| Wei Zeng| _Hong Kong University of Science and Technology_ |<br>
+| Ye Zhao| _Kent State University_ |<br>
+| Ying Zhao| _Central South University_ |<br>
+| Chen Zhu-Tian| _University of Minnesota_ |<br>
 
 Contact: [opc@ieeevis.org](mailto:opc@ieeevis.org)
-
 
 ## Short Papers Program Committee
 
@@ -311,7 +310,7 @@ TBD
 | Jun Tao | *Sun Yat-sen University* |<br>
 | Yubo Tao | *Zhejiang University* |<br>
 | Huy Vo | *CUNY City College* |<br>
-| Ken Wakita | *Tokyo Institute of Technology* |<br> 
+| Ken Wakita | *Tokyo Institute of Technology* |<br>
 | Chaoli Wang | *University of Notre Dame* |<br>
 | Junpeng Wang | *Visa Research* |<br>
 | Yifang Wang | *Northwestern University* |<br>

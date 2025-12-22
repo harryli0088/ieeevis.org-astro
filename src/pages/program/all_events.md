@@ -6,6 +6,3 @@ contact: web@ieeevis.org
 ---
 
 All Events page will go here.
-
-
-

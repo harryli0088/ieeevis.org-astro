@@ -11,12 +11,12 @@ What will happen behind the scenes after you're done with an edit is that GitHub
 
 ### Table of contents
 
-* [Policies](#policies)
-* [How to change an existing page](#how-to-change-an-existing-page)
-* [Staging vs Production](#staging-vs-production)
-* [Where are the current files?](#where-are-the-current-files)
-* [Building the website locally](#building-the-website-locally)
-* [How to compare staging and production files](#how-to-compare-staging-and-production-files)
+- [Policies](#policies)
+- [How to change an existing page](#how-to-change-an-existing-page)
+- [Staging vs Production](#staging-vs-production)
+- [Where are the current files?](#where-are-the-current-files)
+- [Building the website locally](#building-the-website-locally)
+- [How to compare staging and production files](#how-to-compare-staging-and-production-files)
 
 ## Policies
 
@@ -32,9 +32,9 @@ Please do not contact web chairs with requests such as "please add this content 
 
 ### Web chairs will generally update the website once a week
 
-As merge requests come in, web chairs will review them within one week, and then deploy to a staging website.  Then, the core team must approve changes before they are released to the production site.  This means that it will generally be about a week before a merge request submitted to web makes it to the production website.  
+As merge requests come in, web chairs will review them within one week, and then deploy to a staging website. Then, the core team must approve changes before they are released to the production site. This means that it will generally be about a week before a merge request submitted to web makes it to the production website.
 
-Members of the organizing committee should keep this schedule in mind when they need updates to the website relating to their own committees.  Please refrain from making urgent requests or using language such as "ASAP" or "immediately", as the web team typically fields more than a hundred requests for changes throughout the year, on top of managing the virtual site.
+Members of the organizing committee should keep this schedule in mind when they need updates to the website relating to their own committees. Please refrain from making urgent requests or using language such as "ASAP" or "immediately", as the web team typically fields more than a hundred requests for changes throughout the year, on top of managing the virtual site.
 
 ### Who's responsible for what?
 
@@ -66,9 +66,9 @@ Here's a video that illustrates the same process described in the text below:
   type="video/mp4">
 </video>
 
-The *easiest* way to suggest a change is to go on the bottom of the page you want to change and click on “file a bug”. You will be taken to the GitHub website where you can describe the problem, and web@ will get a notification when the bug is filed.
+The _easiest_ way to suggest a change is to go on the bottom of the page you want to change and click on “file a bug”. You will be taken to the GitHub website where you can describe the problem, and web@ will get a notification when the bug is filed.
 
-If you are an organization member, the *best* way to suggest a change is to go on the bottom of the page you want to change and click on "suggest a fix".  You can even go to a webpage that hasn't been created yet (like [http://ieeevis.org/year/2022/hellothere](http://ieeevis.org/year/2022/hellothere)) and click on the link for making a new page. You will be taken to GitHub to make your edits.
+If you are an organization member, the _best_ way to suggest a change is to go on the bottom of the page you want to change and click on "suggest a fix". You can even go to a webpage that hasn't been created yet (like [http://ieeevis.org/year/2022/hellothere](http://ieeevis.org/year/2022/hellothere)) and click on the link for making a new page. You will be taken to GitHub to make your edits.
 
 To continue, you will be asked to log in to a GitHub account. After you do so, you will be shown an interface that looks like this:
 
@@ -86,11 +86,11 @@ After you click on that, web gets both a bug report and a proposed change:
 
 <img src="{{ "/assets/contributing/instructions-4.png" | relative_url }}" style="width: 100%">
 
-If the change is simple, we’ll simply say "OK". If the change requires reviewers, we can ask for people to comment on the thread. After everyone says OK, we merge the change and then we will be able to push it to staging.ieeevis.org.  All PRs are automatically built to the staging website; [you can take a look at the history of deploy actions](https://github.com/ieee-vgtc/ieeevis.org/actions).
+If the change is simple, we’ll simply say "OK". If the change requires reviewers, we can ask for people to comment on the thread. After everyone says OK, we merge the change and then we will be able to push it to staging.ieeevis.org. All PRs are automatically built to the staging website; [you can take a look at the history of deploy actions](https://github.com/ieee-vgtc/ieeevis.org/actions).
 
 ## Staging vs Production
 
-In case you’re wondering how we go from staging.ieeevis.org to ieeevis.org, there is effectively no difference between staging and production.  We hold changes in staging for approval by the core committee.  During non-conference times, web will ask core to approve changes to go to production ([http://ieeevis.org](http://ieeevis.org)) on a weekly cadence, usually Wednesday morning US time (GMT -6).  If you have a need for content to "go-live" faster, please e-mail web@ at the conference website domain.
+In case you’re wondering how we go from staging.ieeevis.org to ieeevis.org, there is effectively no difference between staging and production. We hold changes in staging for approval by the core committee. During non-conference times, web will ask core to approve changes to go to production ([http://ieeevis.org](http://ieeevis.org)) on a weekly cadence, usually Wednesday morning US time (GMT -6). If you have a need for content to "go-live" faster, please e-mail web@ at the conference website domain.
 
 In other words, all of the discussion we've had here applies to production as well.
 (From our side, the difference between pushing to staging and pushing to production is to make a release; [see the release GitHub action](https://github.com/ieee-vgtc/ieeevis.org/actions?query=workflow%3A%22deploy+production+on+release%22)).
@@ -102,11 +102,11 @@ Other URLs are available in similar places: [shortpapers](https://github.com/iee
 
 Note how the URL on GitHub matches the URL on the website. <https://github.com/ieee-vgtc/ieeevis.org/blob/vis2020/content/info/call-participation/shortpapers.md> corresponds to <http://staging.ieeevis.org/year/2020/info/call-participation/shortpapers> (rename "/blob" to "/year" and remove the ".md" extension).
 
-Generally, we copy over all content from the previous year to the current year's branch.  If a corresponding page exists in the previous year, chances are that it exists in the current year, even though it might not be reachable through the navigation bar.  For example, you can change "2021" to "2022" to find and edit a file to in the current year's branch.
+Generally, we copy over all content from the previous year to the current year's branch. If a corresponding page exists in the previous year, chances are that it exists in the current year, even though it might not be reachable through the navigation bar. For example, you can change "2021" to "2022" to find and edit a file to in the current year's branch.
 
 ## Building the website locally
 
-If you'd like, you can build the website locally and make edits there.  Here are the steps to build locally; please be sure to **fork the repository, then commit directly to your fork.**  You can then make a PR from your fork to the official ieeevis.org upstream repo.
+If you'd like, you can build the website locally and make edits there. Here are the steps to build locally; please be sure to **fork the repository, then commit directly to your fork.** You can then make a PR from your fork to the official ieeevis.org upstream repo.
 
 1. Fork the repository using the button in the GitHub interface (from [ieee-vgtc/ieeevis.org](https://github.com/ieee-vgtc/ieeevis.org)).
 2. Clone your fork: e.g., `git clone git@github.com:yelper/ieeevis.org.git`
@@ -115,16 +115,16 @@ If you'd like, you can build the website locally and make edits there.  Here are
 5. Build and serve the website: `jekyll serve -d ./_site/year/2022/`.
 6. To build the styling for the current year (and get live-reload whenever you edit a content file) run this command in a different console: `npm run-script start`.
 
-You will need to install node, npm, Ruby 2.7, and Jekyll to build the website. If you need to install Ruby, we recommend using "rbenv" and installing a modern version of Ruby (i.e., 2.7; [an article for installing on WSL](https://gorails.com/setup/windows/10)).  If you have Ruby installed but not Jekyll, run `gem install bundler jekyll; bundler install` from within your cloned repository.
+You will need to install node, npm, Ruby 2.7, and Jekyll to build the website. If you need to install Ruby, we recommend using "rbenv" and installing a modern version of Ruby (i.e., 2.7; [an article for installing on WSL](https://gorails.com/setup/windows/10)). If you have Ruby installed but not Jekyll, run `gem install bundler jekyll; bundler install` from within your cloned repository.
 
-If you cloned [ieee-vgtc/ieeevis.org](https://github.com/ieee-vgtc/ieeevis.org) directly, you will not have permissions to push commits to the repository, you'll get an authentication failure message from GitHub.  Delete your local repo copy, fork the repository on GitHub, and clone that instead.
+If you cloned [ieee-vgtc/ieeevis.org](https://github.com/ieee-vgtc/ieeevis.org) directly, you will not have permissions to push commits to the repository, you'll get an authentication failure message from GitHub. Delete your local repo copy, fork the repository on GitHub, and clone that instead.
 
 Finally, you can request a PR from your fork to the current branch of the upstream [ieee-vgtc/ieeevis.org](https://github.com/ieee-vgtc/ieeevis.org) repository (e.g., "ieee-vgtc/ieeevis.org:vis2020" from "yelper/ieeevis.org:master").
 
 ## How to compare staging and production files
 
-Unfortunately, there's not really an automatic link that does this for us.  To compare to change for 2022 (for example), take [the latest release tag](https://github.com/ieee-vgtc/ieeevis.org/releases) and compare it to the current branch name.
+Unfortunately, there's not really an automatic link that does this for us. To compare to change for 2022 (for example), take [the latest release tag](https://github.com/ieee-vgtc/ieeevis.org/releases) and compare it to the current branch name.
 
-For example, as of this writing, the active branch is `vis2022` and [the latest release](https://github.com/ieee-vgtc/ieeevis.org/releases) is `v2022.1.7`.  To see what isn't yet on production, navigate to <https://github.com/ieee-vgtc/ieeevis.org/compare/v2022.1.7...vis2022>.
+For example, as of this writing, the active branch is `vis2022` and [the latest release](https://github.com/ieee-vgtc/ieeevis.org/releases) is `v2022.1.7`. To see what isn't yet on production, navigate to <https://github.com/ieee-vgtc/ieeevis.org/compare/v2022.1.7...vis2022>.
 
 Web will attempt to make this link when sending pending approval requests to the core committee to make it easier to see what has changed in the last week.

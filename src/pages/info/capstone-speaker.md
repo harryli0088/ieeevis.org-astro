@@ -1,7 +1,7 @@
 ---
-layout: /src/layouts/PageLayout.astro 
+layout: /src/layouts/PageLayout.astro
 title: "Capstone by Prof. Catherine D'Ignazio"
-contact: info@ieeevis.org 
+contact: info@ieeevis.org
 active_nav: "Program"
 ---
 

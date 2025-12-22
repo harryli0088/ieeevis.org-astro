@@ -1,6 +1,6 @@
 @theme {
-  --font-body: 'Fira Sans', 'sans-serif';
-  --font-display: 'Zilla Slab', 'serif';
+  --font-body: "Fira Sans", "sans-serif";
+  --font-display: "Zilla Slab", "serif";
 
   --font-size-xs: 0.75rem;
   --font-size-sm: 0.875rem;
@@ -24,13 +24,12 @@
   --color-accent-minor: #f58220;
   --color-accent-blue: #693a19;
 
-
   --color-primary: #e11783;
-  --color-primary-800: #DA171C;
-  --color-primary-700: #DE3135;
-  --color-primary-600: #E24B4E;
-  --color-primary-500: #E66468;
-  --color-primary-200: #F3B2B3;
+  --color-primary-800: #da171c;
+  --color-primary-700: #de3135;
+  --color-primary-600: #e24b4e;
+  --color-primary-500: #e66468;
+  --color-primary-200: #f3b2b3;
   --color-primary-100: white;
 
   --color-secondary: #f58220;
@@ -52,5 +51,4 @@
   --color-gray-700: #616161;
   --color-gray-800: #424242;
   --color-gray-900: #212121;
-
 }

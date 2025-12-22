@@ -6,7 +6,6 @@ active_nav: "Program"
 
 Program for VIS 2025 not finalized yet
 
-
 <!--
 
 ## <a name="panel-kirby">Dear Younger Me: A Dialog About Professional Development Beyond The Initial Career Phases</a>

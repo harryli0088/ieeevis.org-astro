@@ -846,7 +846,7 @@ Authors: Zheng Wei, Huamin Qu, Xian Xu
 Authors: Wai Tong, Kento Shigyo, Lin-Ping Yuan, Mingming Fan, Ting-Chuen Pong, Huamin Qu, Meng Xia
 
 **WonderFlow: Narration-Centric Design of Animated Data Videos**<br/>
-Authors: Yun Wang, Leixian Shen, Zhengxin You, Xinhuan Shu, Bongshin Lee, John Thompson, Haidong Zhang, Dongmei Zhang 
+Authors: Yun Wang, Leixian Shen, Zhengxin You, Xinhuan Shu, Bongshin Lee, John Thompson, Haidong Zhang, Dongmei Zhang
 
 **Reviving Static Charts into Live Charts**<br/>
 Authors: Lu Ying, Yun Wang, Haotian Li, Shuguang Dou, Haidong Zhang, Xinyang Jiang, Huamin Qu, Yingcai Wu
@@ -1037,7 +1037,7 @@ Authors: Lijie Yao, Romain Vuillemot, Anastasia Bezerianos, Petra Isenberg
 Authors: Jianing Yin, Hanze Jia, Buwei Zhou, Tan Tang, Lu Ying, Shuainan Ye, Tai-Quan Peng, Yingcai Wu
 
 **Animating the Narrative: A Review of Animation Styles in Narrative Visualization**<br/>
-Authors: Vyri Junhan Yang, Mahmood Jasim 
+Authors: Vyri Junhan Yang, Mahmood Jasim
 <br/>
 
 
@@ -1089,7 +1089,7 @@ Authors: Tushar Athawale, Zhe Wang, David Pugmire, Kenneth Moreland, Qian Gong, 
 Authors: Nicolas F. Chaves-de-Plaza, Prerak Mody, Marius Staring, René van Egmond, Anna Vilanova, Klaus Hildebrandt
 
 **Curve Segment Neighborhood-based Vector Field Exploration**<br/>
-Authors: Nguyen K Phan, Guoning Chen 
+Authors: Nguyen K Phan, Guoning Chen
 <br/>
 
 
@@ -1144,4 +1144,3 @@ Authors: Alexander Bendeck, John Stasko
 Authors: Leo Yu-Ho Lo, Huamin Qu
 <br/>
 -->
-

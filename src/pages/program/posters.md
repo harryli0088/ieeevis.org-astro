@@ -6,6 +6,3 @@ contact: web@ieeevis.org
 ---
 
 Posters page will go here.
-
-
-

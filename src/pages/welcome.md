@@ -2,8 +2,8 @@
 layout: /src/layouts/HomePageLayout.astro
 title: "Welcome to IEEE VIS 2026"
 description: "The premier forum for advances in visualization and visual analytics"
-event_location: 'Boston'
-event_date: 'November 2 to 7'
+event_location: "Boston"
+event_date: "November 2 to 7"
 logo_src: /assets/vis2026_logo.svg
 contact: general_chair@ieeevis.org
 image_src: /assets/vienna_ferris_wheel.jpg
@@ -16,13 +16,13 @@ In 2025, the conference is again moving to the old continent, and we cannot wait
 
 We will do our best to plan an extraordinary experience for you and will cheer together for IEEE VIS' past and future!
 
-***VIS 2025 General Chairs***<br/>
+**_VIS 2025 General Chairs_**<br/>
 [Johanna Schmidt](https://johanna-schmidt.github.io/), TU Wien<br/>
 [Eduard Gröller](https://www.cg.tuwien.ac.at/staff/EduardGr%C3%B6ller), TU Wien<br/>
 [Barbora Kozlíková](https://www.muni.cz/lide/60850-barbora-kozlikova), Masaryk University<br/>
 [Krešimir Matković](https://www.vrvis.at/ueber-uns/team/infos/matkovic-kresimir), VRVis GmbH<br/>
 
-----
+---
 
 Follow [@ieeevis on X (Twitter)](https://twitter.com/ieeevis), the [IEEE VIS page on Facebook](https://www.facebook.com/ieeevis), or [sign up to our mailing list](https://ieeevis.us20.list-manage.com/subscribe?u=874d4e627b4758f4438963e98&id=6c036e3c40) to keep up with conference activities and announcements.
 
