@@ -6,8 +6,8 @@ event_location: "Boston"
 event_date: "November 2 to 7"
 logo_src: /assets/vis2026_logo.svg
 contact: general_chair@ieeevis.org
-image_src: /assets/vienna_ferris_wheel.jpg
-image_alt: "A photo of the ferris wheel in Vienna."
+image_src: /assets/boston_fall.jpg
+image_alt: "A photo of Boston in fall. Photo by Josh McCausland on Unsplash."
 ---
 
 IEEE VIS 2025 will be the year’s premier forum for advances in theory, methods, and applications of visualization and visual analytics. The conference will convene an international community of researchers and practitioners from universities, government, and industry to exchange recent findings on the design and use of visualization tools.

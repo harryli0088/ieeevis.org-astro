@@ -17,7 +17,7 @@ export default function Supporters({
         </div>
 
         <div className="w-full lg:w-2/3 lg:ml-12">
-          {supporters.map((supporter_group) => (
+          {supporters?.map((supporter_group) => (
             <div className="supporters__row ">
               <h3 className="heading-alt text-sm text-gray-500">
                 {supporter_group.category}
@@ -49,7 +49,7 @@ type SupportersMetaDataType = {
   description: string;
   button_text: string;
   button_link: string;
-  supporters: SupporterCategoryDataType[];
+  supporters: SupporterCategoryDataType[] | null;
 };
 
 type SupporterCategoryDataType = {

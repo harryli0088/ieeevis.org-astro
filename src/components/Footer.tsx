@@ -52,8 +52,8 @@ export default function Footer({
             <div>
               <a href="/">
                 <img
-                  src="/assets/vis2025_logo_white_RIESENRAD.svg"
-                  alt="VIS 2025"
+                  src="/assets/vis2026_logo_white.svg"
+                  alt="VIS 2026"
                   width="150"
                 />
               </a>

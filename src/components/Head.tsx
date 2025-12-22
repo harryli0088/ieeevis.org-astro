@@ -4,14 +4,10 @@ export default function Head() {
       <meta charSet="utf-8" />
       <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
-      <title>Welcome to IEEE VIS 2025</title>
+      <title>Welcome to IEEE VIS 2026</title>
 
       {/* <!-- favicon --> */}
-      <link
-        rel="shortcut icon"
-        href="/assets/favicon.png"
-        type="image/x-icon"
-      />
+      <link rel="icon" type="image/svg+xml" href="/assets/vis2026_icon.svg" />
 
       {/* <!-- Include Material Icons --> */}
       <link
