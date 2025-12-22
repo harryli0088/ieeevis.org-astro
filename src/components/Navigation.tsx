@@ -56,7 +56,7 @@ export default function Navigation({ nav_data }: { nav_data: NavDataType }) {
                                     }}
                                 // v-bind:class="{ 'menu_item--focused': menu['{{ nav.dropdown }}'] }"
                                 >
-                                    <span className="whitespace-no-wrap">
+                                    <span className="whitespace-nowrap">
                                         {nav.dropdown}
                                         <i className="material-icons align-middle">
                                             {selectedDropDownIndex === i ? 'arrow_drop_down' : 'arrow_right'}
