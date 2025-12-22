@@ -25,15 +25,15 @@
 #        image: /assets/supporters/Autodesk-logo.png
 #        url: "https://www.autodesk.com/research"
 
-- category: Silver
-  image_size: 320
-  supporters:
-    - name: "VISUAPPS GmbH"
-      image: /assets/supporters/visuapps.png
-      url: "https://www.visuapps.com/"
-    - name: "Apple Inc."
-      image: /assets/supporters/apple.png
-      url: "https://www.apple.com"
+# - category: Silver
+#   image_size: 320
+#   supporters:
+#     - name: "VISUAPPS GmbH"
+#       image: /assets/supporters/visuapps.png
+#       url: "https://www.visuapps.com/"
+#     - name: "Apple Inc."
+#       image: /assets/supporters/apple.png
+#       url: "https://www.apple.com"
 
 #  - category: Bronze
 #    image_size: 200
@@ -76,8 +76,8 @@
 #        image: /assets/supporters/higher-edu-tableau.png
 #        url: "https://usergroups.tableau.com/higher-education-tableau-user-group/"
 
-- category: Local support by
-  supporters:
-    - name: "City of Vienna"
-      image: /assets/supporters/city-of-vienna.png
-      url: "https://www.wien.gv.at/english/"
+# - category: Local support by
+#   supporters:
+#     - name: "City of Vienna"
+#       image: /assets/supporters/city-of-vienna.png
+#       url: "https://www.wien.gv.at/english/"
