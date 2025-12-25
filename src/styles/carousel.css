@@ -3,7 +3,6 @@
 .carousel {
   position: relative;
   min-height: 410px;
-  background-color: var(--color-secondary-800) !important;
 }
 
 .carousel-inner {
@@ -159,7 +158,6 @@
 
 /*! CSS Used from: Embedded */
 .carousel {
-  @apply bg-primary-800;
   margin-top: 20px;
 }
 

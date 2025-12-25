@@ -23,7 +23,7 @@ export default function Carousel({ items }: { items: CarouselItem[] }) {
 
   return (
     <>
-      <div id="myCarousel" className="carousel slide bg-secondary-800">
+      <div id="myCarousel" className="carousel slide bg-secondary">
         <ol className="carousel-indicators my-2">
           {items.map((_, i) => (
             <li

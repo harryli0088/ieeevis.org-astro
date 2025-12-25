@@ -7,14 +7,15 @@ const carousel_items = load_yaml("./src/data/carousel.yml");
 ---
 
 <div class="header--background pt-12 pb-12 md:pb-24 relative" style="background-image: url('/assets/theme/hex-pattern.png');">
-
-    <div class="container flex-parent items-center">
-        <div class="title">
-            <img src={logo_src} alt="IEEE VIS Logo" class="logo--main" style="width:600px">
-            <p class="font-display text-primary text-2xl md:text-4xl font-medium mt-10 mr-20 md:mt-12">{ description }</p>
-        </div>
-        <div class="carousel-container">
-            <Carousel items={carousel_items} client:load />
+    <div class="container mx-auto p-5">
+        <div class="grid md:grid-cols-2 gap-4">
+            <div class="title my-auto">
+                <img src={logo_src} alt="IEEE VIS Logo" class="logo--main" style="width:600px">
+                <p class="font-display text-primary text-2xl md:text-4xl font-medium mt-10 mr-20 md:mt-12">{ description }</p>
+            </div>
+            <div class="carousel-container">
+                <Carousel items={carousel_items} client:load />
+            </div>
         </div>
     </div>
 
