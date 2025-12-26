@@ -45,124 +45,130 @@ export default function Navigation({ nav_data }: { nav_data: NavDataType }) {
           )}
 
           {/* Other menu items */}
-          {nav_data.menu.map((nav, i) => (
-            <div key={`nav-div-${i}`}>
-              <button
-                className={`menu_item {{is_active_class}} font-display text-lg md:text-base lg:text-lg px-8 md:px-2 lg:px-4 mx-0 lg:mx-2 py-4 md:py-6 border-b-2 border-primary-200 md:border-none ${selectedDropDownIndex === i ? "menu_item--focused" : ""}`}
-                tabIndex={0}
-                role="menuitem"
-                key={`nav-item-${i}`}
-                onClick={() => {
-                  if (selectedDropDownIndex === i) {
-                    setSelectedDropDownIndex(null);
-                  } else {
-                    setSelectedDropDownIndex(i);
-                  }
-                }}
-                // v-bind:class="{ 'menu_item--focused': menu['{{ nav.dropdown }}'] }"
-              >
-                <span className="whitespace-nowrap">
-                  {nav.dropdown}
-                  <i className="material-icons align-middle">
-                    {selectedDropDownIndex === i
-                      ? "arrow_drop_down"
-                      : "arrow_right"}
-                  </i>
-                </span>
-              </button>
+          {nav_data.menu.map(
+            (nav, i) =>
+              nav.display && (
+                <div key={`nav-div-${i}`}>
+                  <button
+                    className={`menu_item {{is_active_class}} font-display text-lg md:text-base lg:text-lg px-8 md:px-2 lg:px-4 mx-0 lg:mx-2 py-4 md:py-6 border-b-2 border-primary-200 md:border-none ${selectedDropDownIndex === i ? "menu_item--focused" : ""}`}
+                    tabIndex={0}
+                    role="menuitem"
+                    key={`nav-item-${i}`}
+                    onClick={() => {
+                      if (selectedDropDownIndex === i) {
+                        setSelectedDropDownIndex(null);
+                      } else {
+                        setSelectedDropDownIndex(i);
+                      }
+                    }}
+                    // v-bind:class="{ 'menu_item--focused': menu['{{ nav.dropdown }}'] }"
+                  >
+                    <span className="whitespace-nowrap">
+                      {nav.dropdown}
+                      <i className="material-icons align-middle">
+                        {selectedDropDownIndex === i
+                          ? "arrow_drop_down"
+                          : "arrow_right"}
+                      </i>
+                    </span>
+                  </button>
 
-              <div
-                className="dropdown"
-                role="menu"
-                aria-label="submenu"
-                hidden={selectedDropDownIndex !== i}
-                // :aria-hidden="[isAriaHidden]"
-                // :aria-expanded="[isAriaExpanded]"
-              >
-                {nav.sections.map((section, j) => (
-                  <div className="dropdown__section" key={`section-item-${j}`}>
-                    {section.subsections.map((subsection, k) => (
+                  <div
+                    className="dropdown"
+                    role="menu"
+                    aria-label="submenu"
+                    hidden={selectedDropDownIndex !== i}
+                    // :aria-hidden="[isAriaHidden]"
+                    // :aria-expanded="[isAriaExpanded]"
+                  >
+                    {nav.sections.map((section, j) => (
                       <div
-                        className="dropdown__subsection"
-                        key={`subsection-item-${k}`}
+                        className="dropdown__section"
+                        key={`section-item-${j}`}
                       >
-                        {subsection.heading_url ? (
-                          <a
-                            className="dropdown__heading link--arrow"
-                            href={subsection.heading_url}
+                        {section.subsections.map((subsection, k) => (
+                          <div
+                            className="dropdown__subsection"
+                            key={`subsection-item-${k}`}
                           >
-                            {subsection.heading}
-                          </a>
-                        ) : (
-                          <span className="dropdown__heading">
-                            {subsection.heading}
-                          </span>
-                        )}
-
-                        {subsection.description && (
-                          <p className="dropdown__description">
-                            {subsection.description}
-                          </p>
-                        )}
-
-                        {subsection.columns && (
-                          <div className="sm:flex sm:flex-row flex-col">
-                            {subsection.columns.map((column, l) => (
-                              <ul
-                                className="flex-grow mt-4 md:mt-2"
-                                key={`column-item-${l}`}
+                            {subsection.heading_url ? (
+                              <a
+                                className="dropdown__heading link--arrow"
+                                href={subsection.heading_url}
                               >
-                                {column.heading && (
-                                  <li className="dropdown__heading text-gray-500">
-                                    {column.heading}
-                                  </li>
-                                )}
+                                {subsection.heading}
+                              </a>
+                            ) : (
+                              <span className="dropdown__heading">
+                                {subsection.heading}
+                              </span>
+                            )}
 
-                                {column.links.map((link, m) => (
-                                  <li key={`link-item-${m}`}>
-                                    {link.url ? (
-                                      <a href={link.url}>{link.text}</a>
-                                    ) : (
-                                      <a
-                                        className="dropdown__disabled"
-                                        title="Content forthcoming."
-                                      >
-                                        {link.text}
-                                      </a>
+                            {subsection.description && (
+                              <p className="dropdown__description">
+                                {subsection.description}
+                              </p>
+                            )}
+
+                            {subsection.columns && (
+                              <div className="sm:flex sm:flex-row flex-col">
+                                {subsection.columns.map((column, l) => (
+                                  <ul
+                                    className="flex-grow mt-4 md:mt-2"
+                                    key={`column-item-${l}`}
+                                  >
+                                    {column.heading && (
+                                      <li className="dropdown__heading text-gray-500">
+                                        {column.heading}
+                                      </li>
                                     )}
 
-                                    {link.is_external && (
-                                      <span>
-                                        <i className="material-icons align-middle text-secondary !text-sm">
-                                          open_in_new
-                                        </i>
-                                      </span>
-                                    )}
+                                    {column.links.map((link, m) => (
+                                      <li key={`link-item-${m}`}>
+                                        {link.url ? (
+                                          <a href={link.url}>{link.text}</a>
+                                        ) : (
+                                          <a
+                                            className="dropdown__disabled"
+                                            title="Content forthcoming."
+                                          >
+                                            {link.text}
+                                          </a>
+                                        )}
 
-                                    {link.is_new && (
-                                      <span className="bg-accent text-primary-500 text-sm mx-1 px-2 rounded-full">
-                                        New
-                                      </span>
-                                    )}
+                                        {link.is_external && (
+                                          <span>
+                                            <i className="material-icons align-middle text-secondary !text-sm">
+                                              open_in_new
+                                            </i>
+                                          </span>
+                                        )}
 
-                                    {link.description && (
-                                      <p className="dropdown__description">
-                                        {link.description}
-                                      </p>
-                                    )}
-                                  </li>
+                                        {link.is_new && (
+                                          <span className="bg-accent text-primary-500 text-sm mx-1 px-2 rounded-full">
+                                            New
+                                          </span>
+                                        )}
+
+                                        {link.description && (
+                                          <p className="dropdown__description">
+                                            {link.description}
+                                          </p>
+                                        )}
+                                      </li>
+                                    ))}
+                                  </ul>
                                 ))}
-                              </ul>
-                            ))}
+                              </div>
+                            )}
                           </div>
-                        )}
+                        ))}
                       </div>
                     ))}
                   </div>
-                ))}
-              </div>
-            </div>
-          ))}
+                </div>
+              ),
+          )}
         </div>
       </nav>
 

@@ -12,7 +12,7 @@ Find some more information here about important sights and famous places to visi
 <table>
     <tr>
         <td style="width: 200px">
-            <img src="/year/2025/assets/venue-and-travel/vienna-sights-01.png" />
+            <img src="/year/2026/assets/venue-and-travel/vienna-sights-01.png" />
         </td>
         <td>
             <p>
@@ -26,7 +26,7 @@ Find some more information here about important sights and famous places to visi
     </tr>
     <tr>
         <td style="width: 200px">
-            <img src="/year/2025/assets/venue-and-travel/vienna-sights-02.png" />
+            <img src="/year/2026/assets/venue-and-travel/vienna-sights-02.png" />
         </td>
         <td>
             <p>
@@ -40,7 +40,7 @@ Find some more information here about important sights and famous places to visi
     </tr>
     <tr>
         <td style="width: 200px">
-            <img src="/year/2025/assets/venue-and-travel/vienna-sights-03.png" />
+            <img src="/year/2026/assets/venue-and-travel/vienna-sights-03.png" />
         </td>
         <td>
             <p>
@@ -54,7 +54,7 @@ Find some more information here about important sights and famous places to visi
     </tr>
     <tr>
         <td style="width: 200px">
-            <img src="/year/2025/assets/venue-and-travel/vienna-sights-04.png" />
+            <img src="/year/2026/assets/venue-and-travel/vienna-sights-04.png" />
         </td>
         <td>
             <p>
@@ -68,7 +68,7 @@ Find some more information here about important sights and famous places to visi
     </tr>
     <tr>
         <td style="width: 200px">
-            <img src="/year/2025/assets/venue-and-travel/vienna-sights-05.png" />
+            <img src="/year/2026/assets/venue-and-travel/vienna-sights-05.png" />
         </td>
         <td>
             <p>
@@ -82,7 +82,7 @@ Find some more information here about important sights and famous places to visi
     </tr>
     <tr>
         <td style="width: 200px">
-            <img src="/year/2025/assets/venue-and-travel/vienna-sights-06.png" />
+            <img src="/year/2026/assets/venue-and-travel/vienna-sights-06.png" />
         </td>
         <td>
             <p>
@@ -95,7 +95,7 @@ Find some more information here about important sights and famous places to visi
     </tr>
     <tr>
         <td style="width: 200px">
-            <img src="/year/2025/assets/venue-and-travel/vienna-sights-07.png" />
+            <img src="/year/2026/assets/venue-and-travel/vienna-sights-07.png" />
         </td>
         <td>
             <p>
@@ -110,7 +110,7 @@ Find some more information here about important sights and famous places to visi
     </tr>
     <tr>
         <td style="width: 200px">
-            <img src="/year/2025/assets/venue-and-travel/vienna-sights-08.png" />
+            <img src="/year/2026/assets/venue-and-travel/vienna-sights-08.png" />
         </td>
         <td>
             <p>
@@ -124,7 +124,7 @@ Find some more information here about important sights and famous places to visi
     </tr>
     <tr>
         <td style="width: 200px">
-            <img src="/year/2025/assets/venue-and-travel/vienna-sights-09.png" />
+            <img src="/year/2026/assets/venue-and-travel/vienna-sights-09.png" />
         </td>
         <td>
             <p>
@@ -138,7 +138,7 @@ Find some more information here about important sights and famous places to visi
     </tr>
     <tr>
         <td style="width: 200px">
-            <img src="/year/2025/assets/venue-and-travel/vienna-sights-10.png" />
+            <img src="/year/2026/assets/venue-and-travel/vienna-sights-10.png" />
         </td>
         <td>
             <p>
@@ -152,7 +152,7 @@ Find some more information here about important sights and famous places to visi
     </tr>
     <tr>
         <td style="width: 200px">
-            <img src="/year/2025/assets/venue-and-travel/vienna-sights-11.png" />
+            <img src="/year/2026/assets/venue-and-travel/vienna-sights-11.png" />
         </td>
         <td>
             <p>

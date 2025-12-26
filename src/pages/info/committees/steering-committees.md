@@ -22,7 +22,7 @@ Current members of the VSC are:
 ## VIS Executive and Steering Committee Elections
 
 Each year the VIS community elects one new member each to the VEC and VSC.
-See the [VIS Elections](/year/2025/info/elections) page for more details.
+See the [VIS Elections](/year/2026/info/elections) page for more details.
 
 ## Public Meeting Notes
 

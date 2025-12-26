@@ -6,7 +6,7 @@ active_nav: "Contribute"
 sidebar: submit-your-work
 ---
 
-The IEEE VIS 2025 Poster Program offers a timely venue to present and discuss original work or highlights of recent work published or presented in another venue (please see the plagiarism statement in the end) through a forum that encourages graphical presentation, demonstration, and active engagement with IEEE VIS participants.
+The IEEE VIS 2026 Poster Program offers a timely venue to present and discuss original work or highlights of recent work published or presented in another venue (please see the plagiarism statement in the end) through a forum that encourages graphical presentation, demonstration, and active engagement with IEEE VIS participants.
 
 The presentation of posters will happen as a physical event at the conference. There will be 1-2 dedicated poster sessions where poster authors can meet and discuss their work with conference participants. An additional web presence of posters will supplement the traditional physical installation of poster boards.
 
@@ -22,6 +22,8 @@ Examples of appropriate visualization work include but are not limited to
   specific application areas, and
 - highlights of recent work published or presented in another venue.
 
+**UPDATE**: Check out our [Poster design guidelines](https://docs.google.com/document/d/12PbI4gt3JkoMpv0a8nr_S8YSYgQUPmjfBsezIYITxow/edit?tab=t.0).
+
 ### INFORMATION FOR AUTHORS
 
 Poster authors must submit a two-page (including references) summary of their work in the [VGTC conference two-column format](https://tc.computer.org/vgtc/publications/conference), using the poster format in line with the IEEE VIS Posters’ formatting guidelines.
@@ -36,7 +38,7 @@ Posters are non-archival, and the 2-page summaries will not be included in the c
 
 All posters will be submitted via [Precision Conference (PCS)](https://new.precisionconference.com/).
 
-After logging into PCS, navigate to the "Submissions" view and start your submission by selecting "VGTC > VIS 2025 > VIS 2025 Posters".
+After logging into PCS, navigate to the "Submissions" view and start your submission by selecting "VGTC > VIS 2026 > VIS 2026 Posters".
 
 ### PLAGIARISM
 
@@ -46,24 +48,26 @@ At the time of submission, the authors are required to state explicitly in the s
 
 ### IMPORTANT DATES
 
-- Submission Deadline: **Tuesday, June 24, 2025**
-- Notification of Acceptance: **Thursday, July 24, 2025**
-- Final Submission of camera-ready (1) 2-page Poster Summary PDF and (2) full Poster PDF: **Thursday, August 21, 2025**
-- (Optional) [Video Preview](/year/2025/info/presenter-information/fast-forward-and-video-previews) Submission: **Tuesday, September 23, 2025**
+- Submission Deadline: **Tuesday, June 24, 2026**
+- Notification of Acceptance: **Thursday, July 24, 2026**
+- Final Submission of camera-ready (1) 2-page Poster Summary PDF and (2) full Poster PDF: **Thursday, August 21, 2026**
 
 All deadlines are at 11:59 pm (23:59) AoE **Anywhere on Earth [(AoE)](https://time.is/Anywhere_on_Earth)**.
 
 ### POSTER DESIGN AND PRINTING
 
-VIS has no specific formatting requirements or template for display posters. However, all posters should include the same title and authors as the 2-page poster summary and should be legible from a distance of 2 meters. Posters can be no larger than 36"x48" in a portrait orientation. If planning to laminate your poster, make sure you leave the requisite margin on all sides. The conference will supply poster boards and supplies for mounting.
+VIS has no specific formatting requirements or template for display posters. However, all posters should include the same title and authors as the 2-page poster summary and should be legible from a distance of 2 meters. Posters can be no larger than A0 format (33''x48'') in a portrait orientation. If planning to laminate your poster, make sure you leave the requisite margin on all sides. The conference will supply poster boards and supplies for mounting.
 
-A PDF copy of the display poster must be submitted on PCS by the camera-ready deadline for inclusion in the online program.
+**UPDATE**: Check out our [Poster design guidelines](https://docs.google.com/document/d/12PbI4gt3JkoMpv0a8nr_S8YSYgQUPmjfBsezIYITxow/edit?tab=t.0) to help you create a clear and compelling poster. <!--A PDF copy of the display poster must be submitted on PCS by the camera-ready deadline for inclusion in the online program. -->
+A PDF copy of your display poster **can be submitted through PCS with alongside the paper poster** at the regular deadline (June 24) to obtain formative feedback from reviewers. This feedback, however, has no implications on the whether the poster is accepted of rejected. It is purely informative to help you improve your poster.
+
+The final display poster **must be** submitted alongside the final camera ready version for any accepted poster.
 
 For authors who do not wish to travel with their posters, several printing shops are available in Vienna. Prints can be ordered and picked up from the store. More information is coming soon about this.
 
 ### ACCESSIBILITY
 
-All poster PDFs should adhere to the [IEEE VIS Accessibility Guidelines](https://ieeevis.org/year/2025/info/call-participation/make-pdf-accessible) and should be designed and formatted to ensure they can be easily accessed by a wide audience, particularly members of the community who rely on screen readers.
+All poster PDFs should adhere to the [IEEE VIS Accessibility Guidelines](https://ieeevis.org/year/2026/info/call-participation/make-pdf-accessible) and should be designed and formatted to ensure they can be easily accessed by a wide audience, particularly members of the community who rely on screen readers.
 
 Given the highly visual nature of VIS Posters, all authors should take care to:
 

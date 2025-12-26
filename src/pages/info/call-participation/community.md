@@ -18,10 +18,6 @@ This year, Community will host the following events and activities:
 
 ### <a name="visbuddies"></a>VisBuddies Meetup
 
-<!-- **Tuesday, 27 October 2020, 13:40:00 Mountain Time** -->
-<!-- **Tuesday, 18 October 2022, 12:00:00 CST in OK Station 4** -->
-<!-- **Tuesday 24 October 2023, 12:00:00 AEDT room 101/102** -->
-
 VisBuddies brings together new and returning VIS attendees with similar interests. For _newcomers_, this is a chance to meet experienced researchers in the field. For _returning attendees_, it is a chance to meet new members joining VIS and welcome them into our community.
 
 Example VisBuddies activities include:
@@ -36,27 +32,15 @@ Example VisBuddies activities include:
 
 Do you have a job you are seeking to fill?
 
-If so, please complete this online form and we will include your posting on the IEEEVIS.org. You can also use this form to sign up to host a “table” at the Job Fair.
+If so, please complete this online form, and we will include your posting on IEEEVIS.org. This year, we will use Discord to facilitate a meeting. Participants can connect there to arrange either virtual or on-site discussions.
 
 [VIS Community Job Posting Form](https://forms.gle/g6sCRcsMkHNavktG9)
 
 Links to the Job Postings will be included on the IEEEVIS.org.
 
-<!-- [**Job Postings**]() -->
-
-### <a name="ajf"></a>VIS Job Fair Meetup
-
-<!-- **Wednesday, 19 October 2022, 15:45:00 CST in OK Station 2+3** -->
-<!-- **Thursday, 26 October 2023, 17:00:00 AEDT room 101/102** -->
-
-At the VIS conference, we will host a meetup session that connects job seekers and researchers with employers, staff, and faculty.
-This includes all types of job opportunities: staff, industry positions, software engineers, faculty, post-docs, etc., and all types of job seekers from students to practitioners.
-
-To participate, please join us at the event during VIS 2025.
-
 ### Contact
 
-For more information contact IEEE VIS 2025 Community Chairs:
+For more information, contact IEEE VIS 2026 Community Chairs:
 
 - Georgia Panagiotidou, _King’s College London_
 - Isaac Cho, _Utah State University_

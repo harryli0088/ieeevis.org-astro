@@ -1,174 +1,341 @@
 ---
-title: VIS Preliminary Program
+title: Week at a Glance
 layout: /src/layouts/PageLayout.astro
-active_nav: "Program"
 contact: program@ieeevis.org
+sidebar: program
+active_nav: "Program"
 ---
 
-# Preliminary Program
-
-Below is a draft schedule the conference.
-More detailed information will be available as the conference nears.
-Daily sessions are (generally) four blocks per day, each 90 minutes with two in the morning and two in the afternoon.
-There will be coffee breaks between the first/second and third/fourth block. A lunch break runs each day between the second/third block.
-
-##### Details and specific times may change as we adjust for late-breaking conflicts and constraints!
+Below is a concise overview of the conference program.
+**Please note that changes may still be made at short notice.**
 
 <hr/>
 
-<!-- ---------------------------------------------------------------------------------- -->
+## Doctoral Colloquium
 
-<a>**Saturday, November 1, 2025**</a><br/>
+<a>**Saturday, November 1, 2026**</a><br />
 
-_9:00 AM - 5:00 PM (GMT+1)_<br/>
+_9:00 AM - 5:00 PM (CET)_<br />
 **Doctoral Colloquium** (Invite-only event)<br />
-The Doctoral Colloquium will take place at **TU Wien**, [Favoritenstraße 9-11, 1040 Wien](https://maps.app.goo.gl/2Rb58dYGnmcsLvsc7){:target= "\_blank"}.
+The Doctoral Colloquium will take place at **TU Wien**, [Favoritenstraße 9-11, 1040 Wien](https://maps.app.goo.gl/2Rb58dYGnmcsLvsc7){:target= "\_blank"}.<br />
+
+<hr/>
+
+## Workshop Schedule (Sunday/Monday)
+
+Sunday/Monday sessions will be **90 minutes**.
+We will have two parallel tracks morning and two in the afternoon.
+Coffee breaks are planned between the first/second and third/fourth block.
+
+- Morning coffee break: **10:30 AM - 11:00 AM (CET)**
+- Lunch break: **12:30 PM - 2:00 PM (CET)**
+- Afternoon coffee break: **3:30 PM - 4:00 PM (CET)**
 
 <hr/>
 
 <!-- ---------------------------------------------------------------------------------- -->
 
-<a>**Sunday, November 2, 2025**</a><br/>
+<a>**Sunday, November 2, 2026**</a><br />
 
-_9:30 AM - 1:00 PM (GMT+1)_<br/>
-**Morning**<br/>
+_9:00 AM - 12:30 PM (CET)_<br />
 
-- Workshops
-- Tutorials
+**[Workshop]** 8th Workshop on Visualization for AI Explainability (VISxAI)<br />
+**[Workshop]** 16th Annual Workshop on Visual Analytics in Healthcare<br />
+**[Workshop]** Workshop on Topological Data Analysis and Visualization (TopoInVis)<br />
+**[Workshop]** 9th Workshop on Visualization for the Digital Humanities: VIS4DH ↔ DH4VIS<br />
+**[Workshop]** alt.VIS 2026<br />
+**[Tutorial]** Developing Immersive Visualizations and Interactions for the Web with Anu.js<br />
+**[Tutorial]** User-centered Evaluation in Visualization<br />
+**[Competition]** Bio+MedVis Challenge<br />
 
-<!--
-* Room 101-102: **Visualization Analysis and Design** ([Tutorial](/year/2023/info/tutorials))
-* Room 103: **EnergyVis 2023: 3rd Workshop on Energy Data Visualization** ([Workshop](/year/2023/info/workshops))
-* Room 104: **Visualization for Pandemic and Emergency Responses Workshop (Vis4PandEmRes)** ([Workshop](/year/2023/info/workshops))
-* Room 105: **MERCADO: Multimodal Experiences for Remote Communication Around Data Online** ([Workshop](/year/2023/info/workshops))
-* Room 106: **A Hands-on TTK Tutorial for Absolute Beginners** ([Tutorial](/year/2023/info/tutorials))
-* Room 110: **NLP4Vis: Natural Language Processing for Information Visualization** ([Tutorial](/year/2023/info/tutorials))
--->
+_2:00 PM - 5:30 PM (CET)_<br/>
 
-_2:00 PM - 5:30 PM (GMT+1)_<br/>
-**Afternoon**<br/>
-
-- Workshops
-- Tutorials
-
-<hr/>
-
-<!-- ---------------------------------------------------------------------------------- -->
-
-<a>**Monday, November 3, 2025**</a><br/>
-
-_9:30 AM - 1:00 PM (GMT+1)_<br/>
-**Morning**<br/>
-
-- Workshops
-- Tutorials
-
-_2:00 PM - 5:30 PM (GMT+1)_<br/>
-**Afternoon**<br/>
-
-- Workshops
-- Tutorials
+**[Workshop]** 8th Workshop on Visualization for AI Explainability (VISxAI)<br />
+**[Workshop]** 16th Annual Workshop on Visual Analytics in Healthcare<br />
+**[Workshop]** Seventh Workshop on Visualization for Communication (VisComm)<br />
+**[Workshop]** Uncertainty Visualization: Unraveling Relationships of Uncertainty, AI, and Decision-Making<br />
+**[Workshop]** The 2nd MERCADO Workshop at IEEE VIS 2026: Multimodal Experiences for Remote Communication Around Data Online<br />
+**[Tutorial]** Live Collaborative Immersive Analytics Development with DashSpace<br />
+**[Tutorial]** Running Online User Studies with the reVISit Framework<br />
+**[Competition]** SciVis Contest<br />
 
 <hr/>
 
 <!-- ---------------------------------------------------------------------------------- -->
 
-<a>**Tuesday, November 4, 2025**</a><br/>
+<a>**Monday, November 3, 2026**</a><br/>
 
-_9:30 AM - 1:00 PM (GMT+1)_<br/>
-**Morning**<br/>
+_9:00 AM - 12:30 PM (CET)_<br/>
 
-- VIS Opening, VIS Welcome, and VGTC Awards
-- VIS Keynote
+**[Workshop]** VISxGenAI: 1st Workshop on GenAI, Agents, and the Future of VIS<br />
+**[Workshop]** Envisioning a Research Agenda for Input Visualization<br />
+**[Workshop]** Human Factors in Immersive Analytics<br />
+**[Workshop]** EduVis: 3rd IEEE VIS Workshop on Visualization Education, Literacy, and Activities<br />
+**[Workshop]** LDAV 2026 - The 15th IEEE Workshop on Large Data Analysis & Visualization<br />
+**[Tutorial]** MLLM4Vis: Multimodal Large Language Models for Information Visualization<br />
+**[Tutorial]** Using Color Harmony and Gen AI Suggestion to Transform your Data Visualizations<br />
+**[Tutorial]** Hands-On TTK Tutorial: Solving Practical Problems in Small Groups<br />
 
-_2:00 PM - 5:30 PM (GMT+1)_<br/>
-**Afternoon**<br/>
+_2:00 PM - 5:30 PM (CET)_<br/>
 
-- Best Paper Presentations (full & short papers) 1/2
-- Best Paper Presentations (full & short papers) 2/2
-
-_6:30 PM - 9:00 PM (GMT+1)_<br/>
-**Evening**<br />
-
-- Welcome Reception ([Museum of Natural History](https://maps.app.goo.gl/eXjAvrE88oPx1THYA){:target= "\_blank"})
+**[Workshop]** VISxGenAI: 1st Workshop on GenAI, Agents, and the Future of VIS<br />
+**[Workshop]** Envisioning a Research Agenda for Input Visualization<br />
+**[Workshop]** AccessViz: 2nd Workshop on Accessible Data Visualization<br />
+**[Workshop]** ECWIDNA: Engaging Critical Workforce In co-Design aNd Assessment<br />
+**[Tutorial]** Visualization for Explainable AI (XAI)<br />
+**[Tutorial]** Building Progressive Visual Analytics Systems with ProgressiVis<br />
+**[Tutorial]** Visualization Analysis and Design<br />
+**[Competition]** VAST Challenge<br />
 
 <hr/>
+
+## Conference Schedule (Tuesday - Friday)
+
+Tuesday to Friday sessions will be **75 minutes**.
+We will have two parallel tracks morning and two in the afternoon.
+Coffee breaks are planned between the first/second and third/fourth block.
+
+- Morning coffee break: **10:45 AM - 11:15 AM (CET)**
+- Lunch break: **12:30 PM - 2:00 PM (CET)**
+- Afternoon coffee break: **3:15 PM - 3:45 PM (CET)**
+
+<hr />
 
 <!-- ---------------------------------------------------------------------------------- -->
 
-<a>**Wednesday, November 5, 2025**</a><br/>
+### Tuesday, November 4, 2026
 
-_9:30 AM - 1:00 PM (GMT+1)_<br/>
-**Morning**<br/>
+#### Morning
 
-- Paper, Short Paper, TVCG Paper, and CG&A Paper Presentations
-- Panels and Tutorials
+_9:30 AM - 10:45 AM (CET)_<br/>
 
-_2:00 PM - 5:30 PM (GMT+1)_<br/>
-**Afternoon**<br/>
+- **Welcome**
+  - Welcome by the General Chairs
+  - VIS Opening
+- **Keynote**
+  - Hans-Christian Hege
 
-- Paper, Short Paper, TVCG Paper, and CG&A Paper Presentations
-- Panels and Tutorials
+_11:15 AM - 12:30 PM (CET)_<br/>
 
-_5:30 PM - 7:00 PM (GMT+1)_<br/>
-**Late Afternoon**<br />
+- **VGTC Awards**
+- **VIS Introduction**
+  - Paper and Short Paper Selection
+  - Poster Selection
+- **Best Short Papers**
+  - Best Short Paper 1 & 2
 
-- Poster Session
-- Use Case Session
+#### Afternoon
 
-_7:00 PM - 9:00 PM (GMT+1)_<br/>
-**Evening**<br />
+_2:00 PM - 3:15 PM (CET)_<br/>
 
-- Conference Dinner ([Austria Center Vienna](https://maps.app.goo.gl/NaguVkxom2uRZjq48){:target= "\_blank"})
-- After-Party (tba)
+- **Best Poster Award**
+- **Best Papers**
+  - Best Papers 1 - 3
 
-<hr/>
+_3:45 PM - 5:00 PM (CET)_<br/>
 
-<!-- ---------------------------------------------------------------------------------- -->
+- **Best Papers**
+  - Best Papers 4 & 5 (virtual presentation)
+- **Test-of-Time Awards**
+  - SciVis Test-of-Time Awards
+  - InfoVis Test-of-Time Awards
+  - VAST Test-of-Time Awards
 
-<a>**Thursday, November 6, 2025**</a><br/>
+#### Evening
 
-_9:30 AM - 1:00 PM (GMT+1)_<br/>
-**Morning (Blocks 1 and 2)**<br/>
+_6:30 PM - 9:00 PM (CET)_<br/>
 
-- Paper, Short Paper, TVCG Paper, and CG&A Paper Presentations
-- VISAP Presentations
-- Panels and Tutorials
+- **Welcome Reception** ([Natural History Museum](/year/2026/info/social-events/welcome-reception))
 
-_2:00 PM - 5:30 PM (GMT+1)_<br/>
-**Afternoon**<br/>
-
-- Paper, Short Paper, TVCG Paper, and CG&A Paper Presentations
-- VISAP Presentations
-- Panels and Tutorials
-
-_6:00 PM - 9:00 PM (GMT+1)_<br/>
-**Evening**<br />
-
-- VISAP Exhibition ([University of Applied Arts](https://maps.app.goo.gl/L5RFQrZArMmL4GPK9){:target= "\_blank"})
-- OC Dinner ([Melker Stiftskeller](https://maps.app.goo.gl/dkRNP3zZmA8eTrsm8){:target= "\_blank"})
-
-<hr/>
+<hr />
 
 <!-- ---------------------------------------------------------------------------------- -->
 
-<a>**Friday, November 7, 2025**</a><br/>
+### Wednesday, November 5, 2026
 
-_9:30 AM - 1:00 PM (GMT+1)_<br/>
-**Morning**<br/>
+#### Morning
 
-- Paper, Short Paper, TVCG Paper, and CG&A Paper Presentations
-- Panels
-- Test-of-Time Awards
-- Capstone
-- Closing
+_9:30 AM - 10:45 AM (CET)_<br/>
 
-<hr/>
+- **Full Paper Sessions**
+  - VA for AI
+  - Multivariate and Time
+  - Dastardly Dashboards (+ 1 Short Paper)
+  - Maps & Spatial Vis
+  - Encoding and Comprehension _(Virtual Session)_
+- **Panel**
+  - VisAble: Who do we exclude by current visualization practices and how do we change that?
+
+_11:15 AM - 12:30 PM (CET)_<br/>
+
+- **Full Paper Sessions**
+  - Fields, Fields, Fields
+  - Of Trees and Treemaps (+ 1 Short Paper)
+- **Short Paper Sessions**
+  - Visualization with/for/in AI
+  - Visualization for Science
+  - Charts, Diagrams & Plots
+  - Viz for AI & AI for Viz _(Virtual Session)_
+- **Panel**
+  - TALK, TRY, TELL: Challenges and Opportunities for Theory-Grounded Data Visualization in Extended Reality
+
+#### Lunch
+
+_1:00 PM - 2:00 PM (CET)_<br/>
+
+- **Townhall Meeting**
+
+#### Afternoon
+
+_2:00 PM - 3:15 PM (CET)_<br/>
+
+- **Full Paper Sessions**
+  - The VIS in GenAI
+  - Embeddings & Metrics
+  - Volume
+  - Ordering and Layout
+- **Short Paper Sessions**
+  - Explorations in Abstract and Physical Spaces
+- **Vis In Practice**
+  - Research <> Practice Engagement Session
+- **Panel**
+  - From Cognition to Context: A Conversation about Technical Approaches, Social Values, and Tradeoffs in Visualization
+
+_3:45 PM - 5:00 PM (CET)_<br/>
+
+- **Full Paper Sessions**
+  - Agentic Visualization and Intelligent Systems
+  - Dimensionality Reduction and Parameter Space Analysis
+  - Flow and Topology
+  - Authoring and Design
+  - Graphs and Networks
+- **Panel**
+  - What Does Psychology Really Mean to Visualization Research? Towards PsychXVis and VisXPsych
+
+#### Evening
+
+_5:00 PM - 6:00 PM (CET)_<br/>
+
+- **Poster Session** ([Austria Center Vienna](/year/2026/info/social-events/poster-session))
+
+_6:00 PM - 9:00 PM (CET)_<br/>
+
+- **Conference Dinner** ([Austria Center Vienna](/year/2026/info/social-events/conference-dinner))
+
+<hr />
+
+<!-- ---------------------------------------------------------------------------------- -->
+
+### Thursday, November 6, 2026
+
+#### Morning
+
+_9:30 AM - 10:45 AM (CET)_<br/>
+
+- **Full Paper Sessions**
+  - Explanation, Exploration, and Model Configuration
+  - The Color and the Shape
+- **Short Paper Sessions**
+  - Workflows & Infrastructure
+  - Visualization in-the-wild
+  - Multi-modal and Spatial _(Virtual Session)_
+- **Vis Arts Program**
+  - VISAP Papers
+- **Panel**
+  - IEEE VIS Reviewing - On a Path to Self-Destruction?
+
+_11:15 AM - 12:30 PM (CET)_<br/>
+
+- **Full Paper Sessions**
+  - From Data to Meaning
+  - Games, Sports, and Music (+ 1 Short Paper)
+  - Vis & Language
+  - Volumes & 3D _(Virtual Session)_
+- **TVCG/CG&A Paper Sessions**
+  - Visual Analytics Methods, Tools, and Infrastructure
+- **Vis Arts Program**
+  - VISAP Pictoral
+- **Panel**
+  - Industry Meets Research: Future Needs and Opportunities for Visual Analytics in Industrial Manufacturing
+
+#### Lunch
+
+_1:00 PM - 2:00 PM (CET)_<br/>
+
+- **VIS 2026 OC Kickoff Meeting (OC Only)**
+
+#### Afternoon
+
+_2:00 PM - 3:15 PM (CET)_<br/>
+
+- **Full Paper Sessions**
+  - Analysts, Assemble!
+  - Algorithms and Workflows
+  - Transportation, Buildings, and Urban Vis
+  - Immersive & Ubiquitous Analytics
+  - Perception
+  - Rescheduled Papers (+ 1 Short Paper)
+- **Panel**
+  - "Words Divide, Pictures Unite" - Revisiting Otto Neurath's ISOTYPE at 100
+
+_3:45 PM - 5:00 PM (CET)_<br/>
+
+- **Full Paper Sessions**
+  - Interaction, Provenance, and Collaboration
+  - Analytics & Reasoning
+  - Biomedical Visualization
+- **Short Paper Sessions**
+  - Immersive Visualization and Extended Reality
+  - Perception & Semantics
+- **Vis In Practice**
+  - Industry Meetup: How to make money with visualization?
+
+#### Evening
+
+_6:00 PM - 9:00 PM (CET)_<br/>
+
+- **VISAP Exhibition** ([University of Applied Arts (Atrium)](https://maps.app.goo.gl/cc37KProFbbk79bj7){:target= "\_blank"})
+
+_7:00 PM (CET)_<br/>
+
+- **OC Dinner** - invitation only ([Melker Stiftskeller](/year/2026/info/social-events/oc-dinner))
+
+<hr />
+
+<!-- ---------------------------------------------------------------------------------- -->
+
+### Friday, November 7, 2026
+
+#### Morning
+
+_9:30 AM - 10:45 AM (CET)_<br/>
+
+- **Full Paper Sessions**
+  - Trust No One
+  - Stories and the Journalists Who Tell Them
+  - Models, Methods, and Typologies
+  - Visualization Literacy
+- **TVCG/CG&A Paper Session**
+  - Reflections and Looking Forward
+
+_11:15 AM - 12:30 PM (CET)_<br/>
+
+- **Capstone**
+  - Theo Deutinger
+- **Closing**
+  - Conference closing
+  - Outlook
+
+<hr />
+
+<!-- ---------------------------------------------------------------------------------- -->
 
 ### Program Co-Chairs
 
 - Tushar Athawale, _Oak Ridge National Laboratory_
-- Michelle Dowling, _Pacific Northwest National Lab_
-- Michael Oppermann, _AIT Austrian Institute of Technology GmbH_
+- Michelle Dowling, _Pacific Northwest National Laboratory_
+- Michael Oppermann, _AIT Austrian Institute of Technology_
+- Alfie Abdul Rahman, _King's College London_
+- Gautam Chaudhary, _Alcon_
 
 _Email: [program@ieeevis.org](mailto:program@ieeevis.org)_
