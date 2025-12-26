@@ -45,7 +45,7 @@ export default function Carousel({ items }: { items: CarouselItem[] }) {
                 <img
                   className="d-block w-full"
                   alt={item.title}
-                  src={`/assets/carousel/${item.image}`}
+                  src={`${import.meta.env.BASE_URL}/assets/carousel/${item.image}`}
                 />
               )}
 

@@ -52,7 +52,7 @@ export default function Footer({
             <div>
               <a href="/">
                 <img
-                  src="/assets/vis2026_logo_white.svg"
+                  src={`${import.meta.env.BASE_URL}/assets/vis2026_logo_white.svg`}
                   alt="VIS 2026"
                   width="150"
                 />
@@ -112,7 +112,7 @@ export default function Footer({
             >
               <img
                 height="35"
-                src="/assets/theme/ieee-logo-white.svg"
+                src={`${import.meta.env.BASE_URL}/assets/theme/ieee-logo-white.svg`}
                 alt="IEEE"
               />
             </a>
@@ -123,14 +123,14 @@ export default function Footer({
             >
               <img
                 height="35"
-                src="/assets/theme/ieee-cs-logo-white.svg"
+                src={`${import.meta.env.BASE_URL}/assets/theme/ieee-cs-logo-white.svg`}
                 alt="IEEE Computer Society"
               />
             </a>
             <a className="footer__logo" href="http://vgtc.org" target="_new">
               <img
                 height="35"
-                src="/assets/theme/ieee-vgtc-logo-white.svg"
+                src={`${import.meta.env.BASE_URL}/assets/theme/ieee-vgtc-logo-white.svg`}
                 alt="IEEE Visualization and Graphics Technical Community"
               />
             </a>
