@@ -20,7 +20,8 @@ function getAllFiles(dir: string, extenson = ".md"): string[] {
       results = results.concat(getAllFiles(fullPath));
     } else if (
       fullPath.endsWith(extenson) &&
-      !fullPath.endsWith("welcome.md")
+      !fullPath.endsWith("welcome.md") &&
+      !fullPath.endsWith("contributing.md")
     ) {
       results.push(fullPath);
     }
