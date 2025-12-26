@@ -8,7 +8,7 @@ Do you want to meet people who share the same interests as you, discuss a topic 
 
 ### What is a meetup?
 
-Meetups are an excellent forum to discuss a wide range of topics related to visualization. For example, if you are an experienced researcher or practitioner, consider submitting a proposal to share your knowledge in an informal setting with conference participants. Meetups welcome cross-disciplinary proposals and proposals that are devoted to particular discipline methods. For example, some recent meetups have included opportunities to discuss topics related to sonification for augmenting visualization, machine learning for big data, inclusion and diversity in visualization research, work-life balance topics, the connection between art and science, and deceptive visualizations. VIS2025 is eager to expand its meetup sessions and will consider proposals given technology resources and time availability. All meetups are public and open to everyone.
+Meetups are an excellent forum to discuss a wide range of topics related to visualization. For example, if you are an experienced researcher or practitioner, consider submitting a proposal to share your knowledge in an informal setting with conference participants. Meetups welcome cross-disciplinary proposals and proposals that are devoted to particular discipline methods. For example, some recent meetups have included opportunities to discuss topics related to sonification for augmenting visualization, machine learning for big data, inclusion and diversity in visualization research, work-life balance topics, the connection between art and science, and deceptive visualizations. VIS2026 is eager to expand its meetup sessions and will consider proposals given technology resources and time availability. All meetups are public and open to everyone.
 
 ### What do you get?
 
@@ -32,12 +32,12 @@ Submissions should be emailed to
 
 Submissions will be considered subject to time and technology resources availability. Early submissions will be given priority.
 
-| Early Submission | **From September 19, 2026** |
+| Early Submission | **September 19, 2026** |
 | Notification | **October 1, 2026** |
 
 Rolling submission: Submissions after the early submission deadline will be considered subject to timeslot availability. Later submissions will be processed and notified within a couple of days.
 
-| Rolling Submission | **From September 20, 2025 to October 25, 2026** |
+| Rolling Submission | **From September 20, 2026 to October 25, 2026** |
 | Notification | **Within a few days** |
 
 ### Chairs

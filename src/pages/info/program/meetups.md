@@ -1,53 +1,76 @@
 ---
-title: IEEE VIS 2025 Meetups
+title: IEEE VIS 2026 Meetups
 layout: /src/layouts/PageLayout.astro
-active_nav: "Events & Community"
 contact: community@ieeevis.org
+sidebar: program
+active_nav: "Program"
 ---
 
-Program for VIS 2025 not finalized yet
+## Accepted Meetups
 
-<!--
-* [VisLies! Meetup](#vis-lies)
-* [Velo Club de VIS Meetup](#vis-velo)
-* [Vis4Good Meetup](#vis4good)
-* [A Reproducibility Stamp Initiative for Visualization?](#reproducibility)
+Here is the list of the accepted meetups.
 
-## <a name="vis-lies"></a>VisLies! Meetup
+- [TopoInVis Steering Committee Meeting](#topo)
+- [Rainbow Meetup](#rainbow)
+- [VIS Brunch](#brunch)
+- [viz4climate Meetup: Visualization Challenges & Opportunities Related to Climate Change](#viz4climate)
+- [VisGap - The Gap between Vis Research and Vis Software: Insight or Outreach?](#visgap)
+- [VISability Meetup: Disabled and Accessibility Researchers at VIS](#visability)
+- [Visualization Authoring as Sensemaking Strategy](#sensemaking)
+- [Q&A with Senior Visualization Researchers on Career Directions and Funding Resources](#seniors)
+- [VIS 2026 OC Kickoff Meeting](#2026ockickoff)
+- [Meetup: Velo Club de Vis](#velo)
+- [Inclusive Future Generation - AI & Visualization Skills](#inclusive)
+- [VIS meets Robust Statistics](#statistics)
 
+<hr/>
 
-Contact the organisers for more info! <br>
-Thursday 17 October 2024<br>
-3:00pm<br>
-Check Discord or contact the orgnanisers for the Zoom meeting link!<br>
-Organizers: Kenneth Moreland and Bernice Rogowitz <br>
-Contact: <br>
-morelandkd@ornl.gov <br>
-bernice.e.rogowitz@gmail.com <br>
+## <a name="topo"></a> TopoInVis Steering Committee Meeting
 
-VisLies! is a yearly event at IEEE VIS. This fun and engaging evening session showcases examples of egregious perceptual, cognitive, and conceptual errors in visualization, presented by members of the Vis community. Examples from our own work, from published papers, and from the internet highlight the many ways the visual representation can misrepresent the underlying phenomena in the data. This is a great opportunity for amusement and for learning, and every year we walk away with a smile on our faces and insights that may one day save the world (!). For more information about VisLies!, or to check out our gallery of annotated examples from past events, please visit our website at [http://vislies.org](http://vislies.org).
+**When: Wednesday (Nov 5), 2:00 pm - 3:00 pm (CET), room 0.31**
 
-## <a name="vis4good"></a>Vis4Good Meetup
+## <a name="rainbow"></a> Rainbow Meetup: LGBTQ+ folks at VIS!
 
-Contact the organisers for more info! <br>
-Thursday 17 October 2024<br>
-3:30pm <br>
-Check Discord or email organisers for Zoom link! <br>
-Organizers: Evan Peck <br>
-Contact:<br>
-evan.peck@colorado.edu <br>
+**When: Wednesday (Nov 5), 10:00 am - 11:00 am (CET), room 0.96+0.97** <br>
+Description: LGBTQ+ folks and allies at VIS, please join us at our inaugural Rainbow Meetup!
 
-For the last 5 years, Vis4Good [(https://vis4good.github.io/](https://vis4good.github.io/) has provided a central venue within the IEEE VIS community for surfacing work that critiques, defines, or explores the impact of data visualization on society in order to build just and equitable futures. Data is an inescapable part of our lives: it guides commerce, government, and technology, and increasingly determines what lives we can (or cannot) live. Data visualization has a special place within this emerging, data-driven, order: as a tool to inform or persuade mass audiences, guide or enlighten the specialist, or give a voice to the unheard. We therefore pose the question: how can visualization, and visualization research, help us build the worlds we want?
+## <a name="viz4climate"></a> viz4climate Meetup: Visualization Challenges & Opportunities Related to Climate Change
 
-## <a name="reproducibility"></a>A Reproducibility Stamp Initiative for Visualization?
+**When: Wednesday (Nov 5), 12:30 pm - 1:30 pm (CET), room 0.96+0.97**
 
-Thursday 17 October 2024 <br>
-3:15pm<br>
-Check Discord for the zoom link or contact the organisers<br>
-Organizers: Tobias Isenberg and Julien Tierny <br>
-Contact: <br>
-tobias.isenberg@inria.fr <br>
+## <a name="brunch"></a> VIS Brunch
 
-The Graphics Replicability Stamp Initiative (GRSI;[https://www.replicabilitystamp.org/](https://www.replicabilitystamp.org/) has been certifying the reproducibility of papers published in certain graphics-related journals since 2017, and some of these journals also include visualization work (in particular, TVCG and, thus, VIS papers). However, while the GRSI is continuing to extend to new venues (recently SIGGRAPH conference papers), they do not seem to be interested in adding pure visualization venues. We would like to  discuss if and how we should react as a visualization community who also wants for their publications to have opportunities to get reproducibility certified.
+**When: Wednesday (Nov 5), 12:30 pm - 12:45 pm (CET), room Business Lounge** <br>
+Note that VIS Brunch will only meet up in the shared Business Lounge and then will be heading out for lunch elsewhere.
 
--->
+## <a name="visgap"></a> VisGap - The Gap between Vis Research and Vis Software: Insight or Outreach?
+
+**When: Wednesday (Nov 5), 1:30 pm - 2:30 pm (CET), room 0.96+0.97**
+
+## <a name="visability"></a> VISability Meetup: Disabled and Accessibility Researchers at VIS
+
+**When: Wednesday (Nov 5), 1:30 pm - 3:15 pm (CET), room 0.49**
+
+## <a name="sensemaking"></a> Visualization Authoring as Sensemaking Strategy
+
+**When: Thursday (Nov 6), 9:15 am - 10:15am (CET), room 0.49**
+
+## <a name="seniors"></a> Q&A with Senior Visualization Researchers on Career Directions and Funding Resources
+
+**When: Thursday (Nov 6), 11:15 am - 12:30 pm (CET), room 0.96+0.97**
+
+## <a name="2026ockickoff"></a> VIS 2026 OC Kickoff Meeting
+
+**When: Thursday (Nov 6), 1:00pm - 2:00pm (CET), room Hall E1**
+
+## <a name="velo"></a> Meetup: Velo Club de Vis
+
+**When: Thursday (Nov 6), 1:00pm - 2:00pm (CET), room 0.96+0.97**
+
+## <a name="inclusive"></a> Inclusive Future Generation - AI & Visualization Skills
+
+**When: Thursday (Nov 6), 3:45pm - 5:00pm (CET), room 0.96+0.97**
+
+## <a name="statistics"></a> VIS meets Robust Statistics
+
+**When: Thursday (Nov 6), 3:45pm - 5:00pm (CET), room 0.49**

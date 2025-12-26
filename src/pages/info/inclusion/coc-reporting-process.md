@@ -5,7 +5,7 @@ active_nav: "Attend"
 ---
 
 <center>
-<img src="/year/2025/assets/coc-reporting-workflow.png" alt="VIS code of conduct reporting workflow"/>
+<img src="/year/2026/assets/coc-reporting-workflow.png" alt="VIS code of conduct reporting workflow"/>
 <strong>Workflow of action when a concern is expressed.</strong>
 </center>
 <br/>
@@ -88,7 +88,7 @@ VEC receives nominations from the current Ombuds team, including a brief nominat
 
 **At least 2 members of the Ombuds team should be attending the conference in person in any given year.** If this is not possible, one or more members of the current Organizing Committee can be temporarily appointed to the Ombuds team to ensure sufficient local representation.
 
-### VIS 2025 Ombuds
+### VIS 2026 Ombuds
 
 - Gautam Chaudhary, _Zenith Solutions_
 - Mennatallah El-Assady, _ETH AI Center_

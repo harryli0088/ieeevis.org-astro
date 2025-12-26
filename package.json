@@ -8,7 +8,6 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "postbuild": "NODE_ENV=production node postbuild.mjs",
     "prepare": "husky"
   },
   "devDependencies": {

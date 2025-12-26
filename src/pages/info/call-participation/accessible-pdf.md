@@ -98,8 +98,7 @@ If you have followed the above steps, your final documents should be accessible.
 
 ### Accessibility Chairs
 
-- Dominik Moritz _Carnegie Mellon University_
-- John Alexis Guerra Gómez _Northeastern University_
-- Ab Mosca _Northeastern University_
+- Laura Koesten _University of Vienna_
+- John Thompson _Autodesk Research_
 
 _Email: [accessibility@ieeevis.org](mailto:accessibility@ieeevis.org)_
