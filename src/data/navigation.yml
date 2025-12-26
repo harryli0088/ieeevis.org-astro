@@ -23,13 +23,13 @@
 registration:
   display: false
   text: "Register"
-  url: "/year/2026/info/registration/conference-registration"
+  url: "/info/registration/conference-registration"
 
 # ---------------------------------------------------------------------------
 blog:
   display: false
   text: "Blog"
-  url: "/year/2026/blog/index"
+  url: "/blog/index"
 
 # ---------------------------------------------------------------------------
 menu:
@@ -43,68 +43,68 @@ menu:
               - heading: "Submit Your Work"
                 links:
                   - text: "Papers"
-                    url: "/year/2026/info/call-participation/call-for-participation"
+                    url: "/info/call-participation/call-for-participation"
                     is_new: true
                   # - text: "Short Papers"
-                  #   url: "/year/2026/info/call-participation/shortpapers"
+                  #   url: "/info/call-participation/shortpapers"
                   #   is_new: false
                   # - text: "Posters"
-                  #   url: "/year/2026/info/call-participation/posters"
+                  #   url: "/info/call-participation/posters"
                   #   is_new: false
                   # - text: "Tutorials"
-                  #   url: "/year/2026/info/call-participation/tutorials"
+                  #   url: "/info/call-participation/tutorials"
                   #   is_new: false
                   - text: "Workshops"
-                    url: "/year/2026/info/call-participation/workshops"
+                    url: "/info/call-participation/workshops"
                     is_new: true
                   # - text: "Panels"
-                  #   url: "/year/2026/info/call-participation/panels"
+                  #   url: "/info/call-participation/panels"
                   #   is_new: false
                   # - text: "Doctoral Colloquium"
-                  #   url: "/year/2026/info/call-participation/doctoral-colloquium"
+                  #   url: "/info/call-participation/doctoral-colloquium"
                   #   is_new: false
               - heading: "Info for Contributors"
                 links:
                   - text: "Area Model for VIS"
-                    url: "/year/2026/info/call-participation/area-model"
+                    url: "/info/call-participation/area-model"
                     is_new: true
                   - text: "Paper Submission Guidelines"
-                    url: "/year/2026/info/call-participation/paper-submission-guidelines"
+                    url: "/info/call-participation/paper-submission-guidelines"
                     is_new: true
                   - text: "Submission Keywords"
-                    url: "/year/2026/info/call-participation/paper-keywords"
+                    url: "/info/call-participation/paper-keywords"
                     is_new: true
                   - text: "Partnerships"
-                    url: "/year/2026/info/call-participation/partnerships"
+                    url: "/info/call-participation/partnerships"
                     is_new: false
                   - text: "Open Practices"
-                    url: "/year/2026/info/open-practices/open-practices"
+                    url: "/info/open-practices/open-practices"
                     is_new: false
                   - text: "Review Instructions"
-                    url: "/year/2026/info/call-participation/review-instructions"
+                    url: "/info/call-participation/review-instructions"
                     is_new: true
           # - heading: "Presenter Information"
           #   columns:
           #   - links:
           #       - text: "Final Information for Paper Authors"
-          #         url: "/year/2026/info/presenter-information/final-information-paper-authors"
+          #         url: "/info/presenter-information/final-information-paper-authors"
           #         is_new: false
           #       - text: "Preparing Your Talk"
-          #         url: "/year/2026/info/presenter-information/talk-guide"
+          #         url: "/info/presenter-information/talk-guide"
           #         is_new: false
           #       - text: "Virtual Presentations"
-          #         url: "/year/2026/info/presenter-information/presenting-virtually"
+          #         url: "/info/presenter-information/presenting-virtually"
           #         is_new: false
           - heading: "Code of Conduct"
             description: "The IEEE VIS Code of Conduct"
-            heading_url: "/year/2026/info/inclusion/code-of-conduct"
+            heading_url: "/info/inclusion/code-of-conduct"
           # - subsections:
           #     - heading: "Get Involved"
           #       columns:
           #         - links:
           #             - text: "Organize a meetup"
           #               description: "Meet people for discussion and shared experiences"
-          #               url: "/year/2026/info/call-participation/meetups"
+          #               url: "/info/call-participation/meetups"
           #               is_new: false
           #             - text: "Student volunteer information"
           #               description: "SVs support the conference and build your research network"
@@ -116,11 +116,11 @@ menu:
           #                    is_external: true
           # - text: "Elections"
           #   description: "Register to vote and nominate/review candidates for the VSC/VEC"
-          #   url: "/year/2026/info/elections"
+          #   url: "/info/elections"
           #   is_new: false
 
           - heading: "Supporters"
-            heading_url: "/year/2026/supporters"
+            heading_url: "/supporters"
             description: "Your support makes this conference possible!"
 
   # ---------------------------------------------------------------------------
@@ -129,39 +129,39 @@ menu:
     sections:
       - subsections:
           - heading: "Attending VIS 2026"
-            heading_url: "/year/2026/info/registration-and-travel/conference-registration"
+            heading_url: "/info/registration-and-travel/conference-registration"
             columns:
               - heading: "Attend"
                 links:
                   - text: "Registration"
                     description: "How to register for VIS"
-                    url: "/year/2026/info/registration-and-travel/conference-registration"
+                    url: "/info/registration-and-travel/conference-registration"
                     is_new: false
                   - text: "Venue"
                     description: "Austria Center Vienna"
-                    url: "/year/2026/info/registration-and-travel/venue"
+                    url: "/info/registration-and-travel/venue"
                     is_new: false
                   - text: "Transportation"
                     description: "Getting around in Vienna"
-                    url: "/year/2026/info/registration-and-travel/transportation"
+                    url: "/info/registration-and-travel/transportation"
                     is_new: false
                   - text: "Green Meeting Certificate"
                     description: "IEEE VIS 2026 is a 'Green Meeting'"
-                    url: "/year/2026/info/registration-and-travel/green-meeting"
+                    url: "/info/registration-and-travel/green-meeting"
                     is_new: false
               - heading: "Travel"
                 links:
                   - text: "Traveling to Vienna"
                     description: "Travel information"
-                    url: "/year/2026/info/registration-and-travel/travel-information"
+                    url: "/info/registration-and-travel/travel-information"
                     is_new: false
                   - text: "Hotel Information"
                     description: "Where to stay"
-                    url: "/year/2026/info/registration-and-travel/hotel-information"
+                    url: "/info/registration-and-travel/hotel-information"
                     is_new: false
                   - text: "Visas"
                     description: "Visa letter information"
-                    url: "/year/2026/info/registration-and-travel/visas"
+                    url: "/info/registration-and-travel/visas"
                     is_new: false
           - heading: "Vienna, Austria"
             heading_url: "https://meeting.vienna.info/en/why-vienna/art-culture-cuisine"
@@ -169,46 +169,46 @@ menu:
               - links:
                   - text: "Sights and famous places"
                     description: "Well-known sights and things to see"
-                    url: "/year/2026/info/registration-and-travel/vienna-places"
+                    url: "/info/registration-and-travel/vienna-places"
                     is_new: false
                   - text: "Recommendations from Locals"
                     description: "Tips by local people what to not miss in Vienna"
-                    url: "/year/2026/info/registration-and-travel/vienna-tips"
+                    url: "/info/registration-and-travel/vienna-tips"
                     is_new: false
 
       - subsections:
           - heading: "Local Events at VIS 2026"
-            heading_url: "/year/2026/info/local-events/summary"
+            heading_url: "/info/local-events/summary"
             columns:
               - links:
                   - text: "ISOTYPE Exhibition"
                     description: "100 Years of ISOTYPES in Vienna"
-                    url: "/year/2026/info/local-events/isotype-exhibition"
+                    url: "/info/local-events/isotype-exhibition"
                     is_new: false
                   - text: "VRVis Lab Visit"
                     description: "Visit the VRVis GmbH"
-                    url: "/year/2026/info/local-events/vrvis-lab-visit"
+                    url: "/info/local-events/vrvis-lab-visit"
                     is_new: false
           - heading: "Code of Conduct"
             description: "The IEEE VIS Code of Conduct"
-            heading_url: "/year/2026/info/inclusion/code-of-conduct"
+            heading_url: "/info/inclusion/code-of-conduct"
 
       - subsections:
           - heading: "Inclusion"
-            heading_url: "/year/2026/info/inclusion/inclusivity"
+            heading_url: "/info/inclusion/inclusivity"
             columns:
               - links:
                   - text: "Inclusivity Scholarship"
                     description: "Need-based scholarships for conference attendance"
-                    url: "/year/2026/info/inclusion/scholarship"
+                    url: "/info/inclusion/scholarship"
                     is_new: false
                   - text: "Accessibility"
                     description: "Supporting access for all attendees"
-                    url: "/year/2026/info/accessibility/attend"
+                    url: "/info/accessibility/attend"
                     is_new: false
                   - text: "VISKids"
                     description: "Childcare and activities open to everyone"
-                    url: "/year/2026/info/inclusion/viskids"
+                    url: "/info/inclusion/viskids"
                     is_new: false
 
   # ---------------------------------------------------------------------------
@@ -217,98 +217,98 @@ menu:
     sections:
       - subsections:
           - heading: "Vis Program"
-            heading_url: "/year/2026/info/program/week-at-a-glance"
+            heading_url: "/info/program/week-at-a-glance"
             columns:
               - links:
                   - text: "Week at a Glance"
                     description: "Preliminary overview of the conference week"
-                    url: "/year/2026/info/program/week-at-a-glance"
+                    url: "/info/program/week-at-a-glance"
                     is_new: false
                   - text: "Papers"
                     description: "Paper sessions"
-                    url: "/year/2026/info/program/papers_list"
+                    url: "/info/program/papers_list"
                     is_new: false
                   - text: "Posters"
                     description: "Nascent and recent work"
-                    url: "/year/2026/info/program/posters"
+                    url: "/info/program/posters"
                     is_new: false
                   - text: "Panels"
                     description: "Discuss important and controversial issues"
-                    url: "/year/2026/info/program/panels"
+                    url: "/info/program/panels"
                     is_new: false
                   - text: "Workshops"
                     description: "Informal setting to discuss emerging topics"
-                    url: "/year/2026/info/program/workshops"
+                    url: "/info/program/workshops"
                     is_new: false
                   - text: "Tutorials"
                     description: "Learn new tools and application domains"
-                    url: "/year/2026/info/program/tutorials"
+                    url: "/info/program/tutorials"
                     is_new: false
                   - text: "Meetups"
                     description: "Meet for discussions and shared experiences"
-                    url: "/year/2026/info/program/meetups"
+                    url: "/info/program/meetups"
                     is_new: false
           - heading: "Plenary Sessions"
-            heading_url: "/year/2026/info/plenary/summary"
+            heading_url: "/info/plenary/summary"
             columns:
               - links:
                   - text: "Vis Townhall"
-                    url: "/year/2026/info/plenary/townhall"
+                    url: "/info/plenary/townhall"
                     description: "Engage with the VIS community, internal and external"
                     is_new: false
       - subsections:
           - heading: "Invited Speakers"
-            heading_url: "/year/2026/info/invited-speakers/summary"
+            heading_url: "/info/invited-speakers/summary"
             columns:
               - links:
                   - text: "Keynote"
                     description: "Hans-Christian Hege"
-                    url: "/year/2026/info/invited-speakers/keynote-speaker"
+                    url: "/info/invited-speakers/keynote-speaker"
                     is_new: false
                   - text: "Capstone"
                     description: "Theo Deutinger"
-                    url: "/year/2026/info/invited-speakers/capstone-speaker"
+                    url: "/info/invited-speakers/capstone-speaker"
                     is_new: false
           - heading: "Awards and Recognitions"
-            heading_url: "/year/2026/info/awards/summary"
+            heading_url: "/info/awards/summary"
             columns:
               - links:
                   - text: "Best Paper/Poster Awards"
                     description: "Recognizing outstanding work"
-                    url: "/year/2026/info/awards/best-paper-awards"
+                    url: "/info/awards/best-paper-awards"
                     is_new: false
                   - text: "VGTC VIS Awards"
                     description: "Awarding members of the VIS community"
-                    url: "/year/2026/info/awards/vgtc-awards"
+                    url: "/info/awards/vgtc-awards"
                     is_new: false
                   - text: "Test of Time Awards"
                     description: "Recognized articles whose contents are still useful"
-                    url: "/year/2026/info/awards/test-of-time-awards"
+                    url: "/info/awards/test-of-time-awards"
                     is_new: false
       - subsections:
           - heading: "Social Events"
-            heading_url: "/year/2026/info/social-events/summary"
+            heading_url: "/info/social-events/summary"
             columns:
               - links:
                   - text: "Welcome Reception"
                     description: "Natural History Museum Vienna"
-                    url: "/year/2026/info/social-events/welcome-reception"
+                    url: "/info/social-events/welcome-reception"
                     is_new: false
                   - text: "Poster Session"
                     description: "Austria Center Vienna"
-                    url: "/year/2026/info/social-events/poster-session"
+                    url: "/info/social-events/poster-session"
                     is_new: false
                   - text: "Conference Dinner"
                     description: "Austria Center Vienna"
-                    url: "/year/2026/info/social-events/conference-dinner"
+                    url: "/info/social-events/conference-dinner"
                     is_new: false
                   - text: "VISAP Exhibition"
                     description: "University of Applied Arts"
-                    url: "/year/2026/info/social-events/visap-exhibition"
+                    url: "/info/social-events/visap-exhibition"
                     is_new: false
                   - text: "OC Dinner"
                     description: "Melker Stiftskeller"
-                    url: "/year/2026/info/social-events/oc-dinner"
+                    url: "/info/social-events/oc-dinner"
                     is_new: false
 
   # ---------------------------------------------------------------------------
@@ -327,7 +327,7 @@ menu:
                     is_external: true
                   - text: "VisInPractice (VIP)"
                     description: "Events of special interest for visualization practitioners"
-                    url: "/year/2026/info/visinpractice"
+                    url: "/info/visinpractice"
                     is_new: false
           - heading: "Competitions"
             description: "Advancing visualization through competition"
@@ -356,7 +356,7 @@ menu:
           - heading: "IEEE VIS Workshops"
             display: true
             is_new: false
-            heading_url: "/year/2026/info/program/workshops"
+            heading_url: "/info/program/workshops"
             description: "Informal settings to discuss emerging topics"
             columns:
               - links:
@@ -402,12 +402,12 @@ menu:
                     is_new: false
                   - text: "InputVis"
                     description: "Envisioning a Research Agenda for Input Visualization"
-                    url: "/year/2026/info/program/workshops#InputVis"
+                    url: "/info/program/workshops#InputVis"
                     is_external: false
                     is_new: false
                   - text: "Immersive Analytics"
                     description: "Human Factors in Immersive Analytics"
-                    url: "/year/2026/info/program/workshops#immersive"
+                    url: "/info/program/workshops#immersive"
                     is_external: false
                     is_new: false
                   - text: "AccessViz"
@@ -437,17 +437,17 @@ menu:
                     is_new: false
       - subsections:
           - heading: "Community"
-            heading_url: "/year/2026/info/community/community"
+            heading_url: "/info/community/community"
             description: "Explore social and topic-based community groups"
             columns:
               - heading: "Connect"
                 links:
                   - text: "Vis Buddies"
                     description: "Connecting new and returning VIS attendees"
-                    url: "/year/2026/info/community/vis-buddies"
+                    url: "/info/community/vis-buddies"
                   - text: "Job Postings"
                     description: "VIS 2026 job board"
-                    url: "/year/2026/info/community/jobs"
+                    url: "/info/community/jobs"
           - heading: "Social Media"
             columns:
               - links:
@@ -546,13 +546,13 @@ menu:
             columns:
               - links:
                   - text: "Test-of-Time Awards"
-                    url: "/year/2026/info/history/test-of-time-awards"
+                    url: "/info/history/test-of-time-awards"
                   - text: "Historical Best Paper and Poster Awards"
-                    url: "/year/2026/info/history/best-paper-awards"
+                    url: "/info/history/best-paper-awards"
                   - text: "Historical Keynotes and Capstones"
-                    url: "/year/2026/info/history/keynote-capstone"
+                    url: "/info/history/keynote-capstone"
                   - text: "List of Tutorials"
-                    url: "/year/2026/info/history/tutorials"
+                    url: "/info/history/tutorials"
 
       - subsections:
           - heading: "Committees"
@@ -560,17 +560,17 @@ menu:
             columns:
               - links:
                   - text: "VIS 2026 Organizing Committee"
-                    url: "/year/2026/info/committees/conference-committee"
+                    url: "/info/committees/conference-committee"
                   - text: "Program Committees"
-                    url: "/year/2026/info/committees/program-committees"
+                    url: "/info/committees/program-committees"
                   - text: "VIS Steering Committee"
-                    url: "/year/2026/info/committees/steering-committees"
+                    url: "/info/committees/steering-committees"
                   - text: "VIS Executive Committee"
-                    url: "/year/2026/info/committees/vis-executive-committee"
+                    url: "/info/committees/vis-executive-committee"
                   - text: "Area Curation Committee"
-                    url: "/year/2026/info/committees/area-committee"
+                    url: "/info/committees/area-committee"
                   - text: "reVISe 1.1"
-                    url: "/year/2026/blog/vis-2026-revise"
+                    url: "/blog/vis-2026-revise"
           - heading: "Governance Documents"
             description: "Information on the IEEE VIS governance structure"
             columns:
@@ -581,7 +581,7 @@ menu:
                     url: "/governance/best-paper-process"
           - heading: "Code of Conduct"
             description: "The IEEE VIS Code of Conduct"
-            heading_url: "/year/2026/info/inclusion/code-of-conduct"
+            heading_url: "/info/inclusion/code-of-conduct"
 
       - subsections:
           - heading: "Upcoming Years"
@@ -599,4 +599,4 @@ menu:
             columns:
               - links:
                   - text: "Updating the website content"
-                    url: "/year/2026/info/contributing"
+                    url: "/info/contributing"

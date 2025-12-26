@@ -58,6 +58,9 @@ function parseFile(content: string, targetContent: string | null) {
         if (row.includes("permalink:")) {
           return null;
         } else if (row.includes("layout:")) {
+          if (row.includes("layout: landing")) {
+            return `layout: /src/layouts/LandingLayout.astro`;
+          }
           return `layout: /src/layouts/PageLayout.astro`;
         }
         return row;

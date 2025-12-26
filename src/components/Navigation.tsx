@@ -11,7 +11,7 @@ export default function Navigation({ nav_data }: { nav_data: NavDataType }) {
       <nav className="ieeevis-nav flex flex-start justify-between md:justify-start items-center">
         {/* vis logo and link to homepage */}
         <div className="logo--nav flex-none text-lg text-red-700 p-4 md:p-2 lg:p-4">
-          <a href="/">
+          <a href={import.meta.env.BASE_URL}>
             <img
               src={`${import.meta.env.BASE_URL}/assets/vis2026_logo_white.svg`}
               alt="VIS 2026"
@@ -36,7 +36,10 @@ export default function Navigation({ nav_data }: { nav_data: NavDataType }) {
         >
           {/* Blog item */}
           {nav_data.blog.display && (
-            <a className="nav-text-link" href={nav_data.blog.url}>
+            <a
+              className="nav-text-link"
+              href={import.meta.env.BASE_URL + nav_data.blog.url}
+            >
               <button
                 className="menu_item {{is_active_class}} font-display text-lg md:text-base lg:text-lg px-8 md:px-2 lg:px-4 mx-0 lg:mx-2 py-4 md:py-6 border-b-2 border-primary-200 md:border-none"
                 tabIndex={0}
@@ -97,7 +100,10 @@ export default function Navigation({ nav_data }: { nav_data: NavDataType }) {
                             {subsection.heading_url ? (
                               <a
                                 className="dropdown__heading link--arrow"
-                                href={subsection.heading_url}
+                                href={
+                                  import.meta.env.BASE_URL +
+                                  subsection.heading_url
+                                }
                               >
                                 {subsection.heading}
                               </a>
@@ -129,7 +135,14 @@ export default function Navigation({ nav_data }: { nav_data: NavDataType }) {
                                     {column.links.map((link, m) => (
                                       <li key={`link-item-${m}`}>
                                         {link.url ? (
-                                          <a href={link.url}>{link.text}</a>
+                                          <a
+                                            href={
+                                              import.meta.env.BASE_URL +
+                                              link.url
+                                            }
+                                          >
+                                            {link.text}
+                                          </a>
                                         ) : (
                                           <a
                                             className="dropdown__disabled"

@@ -33,7 +33,7 @@ export default function Sidebar({
                 <div key={`side-link-${linkIdx}`}>
                   {link.url ? (
                     <a
-                      href={link.url}
+                      href={import.meta.env.BASE_URL + link.url}
                       className={`sidebar__link ${currentpath == link.url && "sidebar__link--active"}`}
                     >
                       {link.text}

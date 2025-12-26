@@ -2,7 +2,7 @@
 title: "Papers - Call For Participation"
 contact: papers@ieeevis.org
 active_nav: "Contribute"
-layout: /src/layouts/PageLayout.astro
+layout: /src/layouts/LandingLayout.astro
 sidebar: call-for-participation
 intro_section:
   callout: "IEEE VIS 2026 solicits novel research contributions and innovative applications in all areas of visualization."
