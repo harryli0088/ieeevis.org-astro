@@ -62,7 +62,7 @@ Here's a video that illustrates the same process described in the text below:
 
 <video width="480" controls>
 <source
-  src="{{ "/assets/contributing/pull-request-tutorial-web.mp4" | relative_url }}"
+  src="/year/2026/assets/contributing/pull-request-tutorial-web.mp4"
   type="video/mp4">
 </video>
 
@@ -72,19 +72,19 @@ If you are an organization member, the _best_ way to suggest a change is to go o
 
 To continue, you will be asked to log in to a GitHub account. After you do so, you will be shown an interface that looks like this:
 
-<img src="{{ "/assets/contributing/instructions-1.png" | relative_url }}" style="width: 100%">
+<img src="/year/2026/assets/contributing/instructions-1.png" style="width: 100%">
 
 After you’re done making the edits, you’ll go to the bottom of the page where there’s this:
 
-<img src="{{ "/assets/contributing/instructions-2.png" | relative_url }}" style="width: 100%">
+<img src="/year/2026/assets/contributing/instructions-2.png" style="width: 100%">
 
 After you click on "Propose file change", you’ll be taken to something that looks like this, where you can click on "Create Pull Request":
 
-<img src="{{ "/assets/contributing/instructions-3.png" | relative_url }}" style="width: 100%">
+<img src="/year/2026/assets/contributing/instructions-3.png" style="width: 100%">
 
 After you click on that, web gets both a bug report and a proposed change:
 
-<img src="{{ "/assets/contributing/instructions-4.png" | relative_url }}" style="width: 100%">
+<img src="/year/2026/assets/contributing/instructions-4.png" style="width: 100%">
 
 If the change is simple, we’ll simply say "OK". If the change requires reviewers, we can ask for people to comment on the thread. After everyone says OK, we merge the change and then we will be able to push it to staging.ieeevis.org. All PRs are automatically built to the staging website; [you can take a look at the history of deploy actions](https://github.com/ieee-vgtc/ieeevis.org/actions).
 
@@ -110,21 +110,19 @@ If you'd like, you can build the website locally and make edits there. Here are 
 
 1. Fork the repository using the button in the GitHub interface (from [ieee-vgtc/ieeevis.org](https://github.com/ieee-vgtc/ieeevis.org)).
 2. Clone your fork: e.g., `git clone git@github.com:yelper/ieeevis.org.git`
-3. Checkout the current year: e.g., `git checkout vis2022`
+3. Checkout the current year: e.g., `git checkout vis2026`
 4. Obtain dependencies: `npm install`
-5. Build and serve the website: `jekyll serve -d ./_site/year/2022/`.
-6. To build the styling for the current year (and get live-reload whenever you edit a content file) run this command in a different console: `npm run-script start`.
-
-You will need to install node, npm, Ruby 2.7, and Jekyll to build the website. If you need to install Ruby, we recommend using "rbenv" and installing a modern version of Ruby (i.e., 2.7; [an article for installing on WSL](https://gorails.com/setup/windows/10)). If you have Ruby installed but not Jekyll, run `gem install bundler jekyll; bundler install` from within your cloned repository.
+5. Run the site locally: `npm run dev`.
+6. Make changes to the site. You may need to shutdown and restart the site to see `yml` changes
 
 If you cloned [ieee-vgtc/ieeevis.org](https://github.com/ieee-vgtc/ieeevis.org) directly, you will not have permissions to push commits to the repository, you'll get an authentication failure message from GitHub. Delete your local repo copy, fork the repository on GitHub, and clone that instead.
 
-Finally, you can request a PR from your fork to the current branch of the upstream [ieee-vgtc/ieeevis.org](https://github.com/ieee-vgtc/ieeevis.org) repository (e.g., "ieee-vgtc/ieeevis.org:vis2020" from "yelper/ieeevis.org:master").
+Finally, you can request a PR from your fork to the current branch of the upstream [ieee-vgtc/ieeevis.org](https://github.com/ieee-vgtc/ieeevis.org) repository (e.g., "ieee-vgtc/ieeevis.org:vis2026" from "yelper/ieeevis.org:master").
 
 ## How to compare staging and production files
 
-Unfortunately, there's not really an automatic link that does this for us. To compare to change for 2022 (for example), take [the latest release tag](https://github.com/ieee-vgtc/ieeevis.org/releases) and compare it to the current branch name.
+Unfortunately, there's not really an automatic link that does this for us. To compare to change for 2026 (for example), take [the latest release tag](https://github.com/ieee-vgtc/ieeevis.org/releases) and compare it to the current branch name.
 
-For example, as of this writing, the active branch is `vis2022` and [the latest release](https://github.com/ieee-vgtc/ieeevis.org/releases) is `v2022.1.7`. To see what isn't yet on production, navigate to <https://github.com/ieee-vgtc/ieeevis.org/compare/v2022.1.7...vis2022>.
+For example, as of this writing, the active branch is `vis2026` and [the latest release](https://github.com/ieee-vgtc/ieeevis.org/releases) is `v2026.1.5`. To see what isn't yet on production, navigate to <https://github.com/ieee-vgtc/ieeevis.org/compare/v2026.1.5...vis2026>.
 
 Web will attempt to make this link when sending pending approval requests to the core committee to make it easier to see what has changed in the last week.
