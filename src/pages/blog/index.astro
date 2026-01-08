@@ -36,7 +36,13 @@ const posts: Record<string, any> = import.meta.glob("./*.md", { eager: true });
                         <p class="byline">{post.frontmatter.authors}</p>
                     )}
 
-                    <p class="post-date">{ post.frontmatter.date.split("T")[0] }</p>
+                    <p class="post-date">
+                        {
+                            new Date(post.frontmatter.date).toLocaleDateString('en-US', {
+                                year: 'numeric',month: 'long',day: 'numeric'
+                            })
+                        }
+                    </p>
                 </div>
 
                 {/* Access the compiled markdown content */}
@@ -49,4 +55,3 @@ const posts: Record<string, any> = import.meta.glob("./*.md", { eager: true });
 
     <BlogSidebar  slot="sidebar"/>
 </PageLayout>
-

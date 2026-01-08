@@ -28,7 +28,13 @@ const { frontmatter } = Astro.props;
           )
         }
 
-        <p class="post-date">{frontmatter.date.split('T')[0]}</p>
+        <p class="post-date">
+          {
+            new Date(frontmatter.date).toLocaleDateString('en-US', {
+              year: 'numeric',month: 'long',day: 'numeric'
+            })
+          }
+        </p>
       </div>
       <slot />
     </article>
