@@ -17,7 +17,7 @@ export default function Card({
   return (
     <div className="card">
       <h3 className="heading--base">{title}</h3>
-      <p>{description}</p>
+      <p className="text-black">{description}</p>
       <div className="mt-auto">
         <a href={url} className="button button-inverse mt-4">
           {button_text}

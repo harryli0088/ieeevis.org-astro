@@ -161,7 +161,7 @@ export default function Navigation({ nav_data }: { nav_data: NavDataType }) {
                                         )}
 
                                         {link.is_new && (
-                                          <span className="bg-accent text-primary-500 text-sm mx-1 px-2 rounded-full">
+                                          <span className="bg-accent-blue text-white text-sm mx-1 px-2 rounded-full">
                                             New
                                           </span>
                                         )}
