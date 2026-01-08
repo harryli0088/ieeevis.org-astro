@@ -61,7 +61,6 @@
 
 .menu {
   /* Full height and scroll on small screens */
-  display: none;
   position: fixed;
   top: var(--navigation-height);
   height: calc(100vh - var(--navigation-height));

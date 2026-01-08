@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 export default function Navigation({ nav_data }: { nav_data: NavDataType }) {
-  const [isExpanded, setIsExpanded] = useState<boolean>(true);
+  const [isExpanded, setIsExpanded] = useState<boolean>(false);
   const [selectedDropDownIndex, setSelectedDropDownIndex] = useState<
     number | null
   >(null);
@@ -32,7 +32,7 @@ export default function Navigation({ nav_data }: { nav_data: NavDataType }) {
         </button>
 
         <div
-          className={`menu md:flex md:justify-end ${isExpanded ? "menu--expanded" : ""}`}
+          className={`menu hidden md:flex md:justify-end ${isExpanded ? "menu--expanded" : ""}`}
         >
           {/* Blog item */}
           {nav_data.blog.display && (
@@ -41,7 +41,7 @@ export default function Navigation({ nav_data }: { nav_data: NavDataType }) {
               href={import.meta.env.BASE_URL + nav_data.blog.url}
             >
               <button
-                className="menu_item {{is_active_class}} font-display text-lg md:text-base lg:text-lg px-8 md:px-2 lg:px-4 mx-0 lg:mx-2 py-4 md:py-6 border-b-2 border-primary-200 md:border-none"
+                className="menu_item font-display text-lg md:text-base lg:text-lg px-8 md:px-2 lg:px-4 mx-0 lg:mx-2 py-4 md:py-6 border-b-2 border-primary-200 md:border-none"
                 tabIndex={0}
                 role="menuitem"
               >
@@ -56,7 +56,7 @@ export default function Navigation({ nav_data }: { nav_data: NavDataType }) {
               nav.display && (
                 <div key={`nav-div-${i}`}>
                   <button
-                    className={`menu_item {{is_active_class}} font-display text-lg md:text-base lg:text-lg px-8 md:px-2 lg:px-4 mx-0 lg:mx-2 py-4 md:py-6 border-b-2 border-primary-200 md:border-none ${selectedDropDownIndex === i ? "menu_item--focused" : ""}`}
+                    className={`menu_item font-display text-lg md:text-base lg:text-lg px-8 md:px-2 lg:px-4 mx-0 lg:mx-2 py-4 md:py-6 border-b-2 border-primary-200 md:border-none ${selectedDropDownIndex === i ? "menu_item--focused" : ""}`}
                     tabIndex={0}
                     role="menuitem"
                     key={`nav-item-${i}`}
