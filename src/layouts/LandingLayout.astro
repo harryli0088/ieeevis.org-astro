@@ -20,7 +20,7 @@ const { frontmatter } = Astro.props;
     {
         frontmatter.intro_section && (
             <div class="section section--wrapper bg-accent-blue">
-                <div class="section bg-accent-blue">
+                <div class="section bg-accent-secondaryBackground">
                     <div class="container">
                         <div class={`section__content-wrapper ${frontmatter.intro_section.callout && "section__content-wrapper--decorative"}`}>
                             {frontmatter.intro_section.callout && (
@@ -43,7 +43,7 @@ const { frontmatter } = Astro.props;
                             </div>
 
                             {frontmatter.intro_section.content && (
-                                <div class="section__content text-measure text-secondary ieee-pub-notice">
+                                <div class="section__content text-measure text-black ieee-pub-notice">
                                     <MarkdownText content={frontmatter.intro_section.content} />
                                 </div>
                             )}
