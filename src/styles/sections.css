@@ -1,7 +1,7 @@
 /* Sections */
 
 .section {
-  @apply bg-accent-minor;
+  @apply bg-accent-secondaryBackground;
   @apply relative;
   margin-bottom: 15px;
 }
@@ -11,7 +11,8 @@
   display: block;
   position: absolute;
   right: 0;
-  bottom: -29px; /* Fixes a 1px gap in Chrome */
+  bottom: -29px;
+  /* Fixes a 1px gap in Chrome */
   height: 30px;
   width: 30%;
   clip-path: polygon(100% 0, 100% 100%, 30px 100%, 0 0);
@@ -25,7 +26,8 @@
 
   .section::after {
     height: 50px;
-    bottom: -49px; /* Fixes a 1px gap in Chrome */
+    bottom: -49px;
+    /* Fixes a 1px gap in Chrome */
     clip-path: polygon(100% 0, 100% 100%, 50px 100%, 0 0);
   }
 }
@@ -39,7 +41,8 @@
   .section--wrapper::after {
     width: 30%;
     height: 65px;
-    bottom: -64px; /* Fixes a 1px gap in Chrome */
+    bottom: -64px;
+    /* Fixes a 1px gap in Chrome */
     clip-path: polygon(100% 0, 100% 100%, 65px 100%, 0 0);
     background-image: url("/year/2026/assets/theme/decorative_line_left.svg");
     background-repeat: no-repeat;

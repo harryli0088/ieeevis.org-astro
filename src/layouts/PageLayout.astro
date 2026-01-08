@@ -5,29 +5,21 @@ const { frontmatter } = Astro.props;
 ---
 
 <DefaultLayout page_info={frontmatter}>
-    <div class="section"
-    style={{backgroundColor: "var(--color-gray-200)"}}
-    >
-        <div class="header">
-            <div class="container">
-                <h1 class="mb-0">{frontmatter.title}</h1>
-            </div>
-        </div>
+  <div class="section">
+    <div class="header">
+      <div class="container">
+        <h1 class="mb-0">{frontmatter.title}</h1>
+      </div>
     </div>
+  </div>
 
-    <div class="container md:py-16 flex md:flex-row flex-col justify-between">
-        <article
-            class="content md:w-3/5 w-full md:mt-0 mt-8 md:order-none order-2"
-        >
-            <slot />
-        </article>
+  <div class="container md:py-16 flex md:flex-row flex-col justify-between">
+    <article class="content md:w-3/5 w-full md:mt-0 mt-8 md:order-none order-2">
+      <slot />
+    </article>
 
-        {
-            frontmatter.sidebar && <Sidebar sidebar_data_path={frontmatter.sidebar} />
-        }
+    {frontmatter.sidebar && <Sidebar sidebar_data_path={frontmatter.sidebar} />}
 
-        {
-            frontmatter.sidetoc && <p>TODO SIDETOC</p>
-        }
-    </div>
+    {frontmatter.sidetoc && <p>TODO SIDETOC</p>}
+  </div>
 </DefaultLayout>
