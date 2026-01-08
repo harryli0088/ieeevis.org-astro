@@ -1,4 +1,5 @@
 ---
+import BlogSidebar from "../../components/BlogSidebar.astro";
 import PageLayout from "../../layouts/PageLayout.astro";
 
 // src/pages/blog/index.astro
@@ -7,19 +8,19 @@ const posts: Record<string, any> = import.meta.glob("./*.md", { eager: true });
 
 <PageLayout
     frontmatter={{
-        title: "Blogs",
+        title: "Blog",
         sidebar: false,
         sidetoc: false,
     }}
 >
     {
-        Object.entries(posts).map(([path, post]) => (
+        Object.entries(posts).toReversed().map(([path, post]) => (
             <>
-                <h4 class="blog-title">
-                    <a href={ `/blog/${path.replace("./", "").replace(".md", "")}` }>
+                <h1 class="blog-title">
+                    <a href={ `${import.meta.env.BASE_URL}/blog/${path.replace("./", "").replace(".md", "")}` }>
                         {post.frontmatter.title}
                     </a>
-                </h4>
+                </h1>
                 <p>{ post.frontmatter.description }</p>
 
                 <div class="byline-container">
@@ -35,12 +36,17 @@ const posts: Record<string, any> = import.meta.glob("./*.md", { eager: true });
                         <p class="byline">{post.frontmatter.authors}</p>
                     )}
 
-                    <p class="post-date">{ post.frontmatter.date }</p>
+                    <p class="post-date">{ post.frontmatter.date.split("T")[0] }</p>
                 </div>
+
+                {/* Access the compiled markdown content */}
+                <div class="post-content" set:html={post.compiledContent()} />
 
                 <hr />
             </>
         ))
     }
+
+    <BlogSidebar  slot="sidebar"/>
 </PageLayout>
 

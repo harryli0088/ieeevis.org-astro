@@ -21,5 +21,7 @@ const { frontmatter } = Astro.props;
     {frontmatter.sidebar && <Sidebar sidebar_data_path={frontmatter.sidebar} />}
 
     {frontmatter.sidetoc && <p>TODO SIDETOC</p>}
+
+    <slot name="sidebar" />
   </div>
 </DefaultLayout>

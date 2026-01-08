@@ -1,13 +1,7 @@
 ---
+import BlogSidebar from "../components/BlogSidebar.astro";
 import DefaultLayout from "./DefaultLayout.astro";
 const { frontmatter } = Astro.props;
-
-const posts: Record<string, any> = import.meta.glob("/src/pages/blog/*.md", {
-  eager: true,
-});
-const currentPath = Astro.url.pathname;
-
-console.log(currentPath);
 ---
 
 <DefaultLayout page_info={frontmatter}>
@@ -34,31 +28,12 @@ console.log(currentPath);
           )
         }
 
-        <p class="post-date">{frontmatter.date}</p>
+        <p class="post-date">{frontmatter.date.split('T')[0]}</p>
       </div>
       <slot />
     </article>
 
-    <aside class="sidebar">
-      <div class="my-4">
-        <p class="heading-alt text-gray-500">
-          <a href="/blog">All posts</a>
-        </p>
-        <div class="overflow-hidden md:ml-0 -ml-3">
-          <div class="md:ml-0 -ml-px">
-            {
-              Object.entries(posts).map(([path, post]) => (
-                <a
-                  href={`/blog/${path.split("/").pop()?.replace(".md", "")}`}
-                  class={`sidebar__link ${currentPath === `/blog/${path.split("/").pop()?.replace(".md", "")}` && "sidebar__link--active"}`}
-                >
-                  {post.frontmatter.title}
-                </a>
-              ))
-            }
-          </div>
-        </div>
-      </div>
+    <BlogSidebar />
     </aside>
   </div>
 </DefaultLayout>
