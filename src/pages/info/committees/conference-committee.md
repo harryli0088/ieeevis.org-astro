@@ -5,142 +5,134 @@ active_nav: "Organization & History"
 ---
 
 | **General Chairs** | |
-| Arvind Satyanarayan | _Massachusetts Institute of Technology_ |
-| Lace Padilla | _Northeastern University_ |
-| Hendrik Strobelt | _IBM Research_ |
-| Lane Harrison | _Worcester Polytechnic Institute_ |
-|---
+| --- | --- |
+| Arvind Satyanarayan | *Massachusetts Institute of Technology* |
+| Lace Padilla | *Northeastern University* |
+| Hendrik Strobelt | *IBM Research* |
+| Lane Harrison | *Worcester Polytechnic Institute* |
+| | |
 | **Program Chairs** | |
-|---
+| Alfie Abdul-Rahman | *King's College London* |
+| Tushar Athawale | *Oak Ridge National Laboratory* |
+| John Thompson | *Autodesk Research* |
+| | |
 | **Overall Paper Chairs** | |
-| Melanie Tory | _Northeastern University_ |
-| Tobias Isenberg | _Inria_ |
-| Alex Endert | _Georgia Institute of Technology_ |
-| Shani Spivak | |
-|---
+| Melanie Tory | *Northeastern University* |
+| Tobias Isenberg | *Inria* |
+| Alex Endert | *Georgia Institute of Technology* |
+| Shani Spivak | *Northeastern University* |
+| | |
 | **Area Paper Chairs** | |
 | **Area 1: Theoretical & Empirical** | |
-| Timo Ropinski | _Ulm University_ |
-| Jessica Hullman | |
+| Timo Ropinski | *Ulm University* |
+| Jessica Hullman | *Northwestern University* |
 | **Area 2: Applications** | |
-| Wesley Willett | _University of Calgary_ |
-| Elisabeta Marai | |
-| Renata Raidou | |
+| Wesley Willett | *University of Calgary* |
+| Elisabeta Marai | *University of Illinois Chicago* |
+| Renata Raidou | *TU Wien* |
 | **Area 3: Systems & Rendering** | |
-| Markus Hadwiger | _King Abdullah University of Science and Technology (KAUST)_ |
-| Takayuki Itoh | |
+| Markus Hadwiger | *King Abdullah University of Science and Technology (KAUST)* |
+| Takayuki Itoh | *Ochanomizu University* |
 | **Area 4: Representations & Interaction** | |
-| Marc Streit | _Johannes Kepler University Linz_ |
-| Charles Perin | |
+| Marc Streit | *Johannes Kepler University Linz* |
+| Charles Perin | *University of Victoria* |
 | **Area 5: Data Transformations** | |
-| Hongfeng Yu | _University of Nebraska-Lincoln_ |
-| Stefan Bruckner | |
+| Hongfeng Yu | *University of Nebraska-Lincoln* |
+| Stefan Bruckner | *University of Rostock* |
 | **Area 6: Analysis & Decisions** | |
-| Alvitta Ottley | _Washington University in St. Louis_ |
-| Jörn Kohlhammer | |
-|---
+| Alvitta Ottley | *Washington University in St. Louis* |
+| Jörn Kohlhammer | *TU Darmstadt* |
+| | |
 | **Short Paper Chairs** | |
-| Emily Wall | _Emory University_ |
-| Julian Tierny | |
-| Cagatay Turkay | _University of Warwick_ |
-| Jiazhi Xia | _Central South University_ |
-|---
+| Emily Wall | *Emory University* |
+| Cagatay Turkay | *University of Warwick* |
+| Jiazhi Xia | *Central South University* |
+| Vijay Natarajan | *Indian Institute of Science (IISc)* |
+| | |
 | **Poster Chairs** | |
-| Benjamin Bach | _University of Edinburgh_ |
-| Narges Mahyar | |
-| Thomas Hoellt | |
-| Lingyun Yu | _Xi'an Jiaotong-Liverpool University_ |
-|---
+| Benjamin Bach | *University of Edinburgh* |
+| Narges Mahyar | *City St George’s, University of London* |
+| Thomas Hoellt | *TU Delft* |
+| Lingyun Yu | *Xi'an Jiaotong-Liverpool University* |
+| | |
 | **Panels & Tutorials Chairs** | |
-| Soumya Dutta | |
-| Qianwen Wang | _University of Minnesota_ |
-|---
+| Soumya Dutta | *TU Delft* |
+| Qianwen Wang | *University of Minnesota* |
+| | |
 | **Open Practices Chairs** | |
-| Laura Garrison | _University of Bergen_ |
-| Devin Lange | _Harvard Medical School_ |
-| Lace Padilla | _Northeastern University_ |
-|---
+| | |
 | **Workshop Chairs** | |
-| Ana Crisan | _University of Waterloo_ |
-| Tim Gerrits | _RWTH Aachen University_ |
-| Leilani Battle | _University of Washington_ |
-|---
+| Ana Crisan | *University of Waterloo* |
+| Tim Gerrits | *RWTH Aachen University* |
+| Leilani Battle | *University of Washington* |
+| | |
 | **Arts Program Chairs** | |
-| Damla Cay | _Moholy-Nagy University of Art and Design Budapest_ |
-| Dario Rodighiero | _University of Groningen_ |
-| Weidi Zhang | _Arizona State University_ |
-|---
+| | |
 | **Vis in Practice Chairs** | |
-| Chris Bryan | _Arizona State University_ |
-| Arjun Srinivasan | _Databricks_ |
-|---
+| | |
 | **Doctoral Colloquium Chairs** | |
-| Michael Correll | |
-| Michael Behrisch | _Utrecht University_ |
-| Cindy Xiong | _Georgia Institute of Technology_ |
-|---
+| Michael Correll | *Northeastern University* |
+| Michael Behrisch | *Utrecht University* |
+| Cindy Xiong | *Georgia Institute of Technology* |
+| | |
 | **Publication Chairs** | |
-| Minsuk Kahng | _Yonsei University_ |
-| Devin Lange | |
-| Sungahn Ko | |
-|---
+| Minsuk Kahng | *Yonsei University* |
+| Devin Lange | *University of Utah* |
+| Sungahn Ko | *POSTECH* |
+| | |
 | **Community, Meetups, & Election Chairs** | |
-| Kyle Wm. Hall | _Temple University_ |
-| Lijie Yao | |
-|---
+| Kyle Wm. Hall | *Temple University* |
+| Lijie Yao | *Xi'an Jiaotong-Liverpool University* |
+| | |
 | **Student Volunteer Chairs** | |
-|---
+| | |
 | **Publicity Chairs** | |
-| Alex Kale | _University of Chicago_ |
-| Keke Wu | |
-|---
+| Khairi Reda | *University of Illinois Chicago* |
+| Keke Wu | *Emory University* |
+| | |
 | **Inclusivity & Accessibility Chairs** | |
-| Laura Koesten | _University of Vienna_ |
-| Sandra Bae | |
-|---
+| Laura Koesten | *University of Vienna* |
+| Sandra Bae | *University of Arizona* |
+| | |
 | **Supporters Chairs** | |
-| Michael Krone | _University of Tübingen_ |
-| Victor Mateevitsi | _Argonne National Laboratory_ |
-| Dominik Moritz | _Carnegie Mellon University_ |
-| Chris Traxler | _VRVis GmbH_ |
-|---
+| Fred Hohman | *Apple* |
+| Kanit Wongsuphasawat | *Databricks* |
+| Lisa Avila | *Kitware* |
+| | |
 | **Finance Chairs** | |
-| Loretta Auvil | _National Center for Supercomputing Applications_ |
-| Bhavana Doppalapudi | _University of South Florida_ |
-| Maria C. Velez | _Marvel Analytics_ |
-|---
+| | |
 | **Incoming General Chairs (VIS27)** | |
-|---
+| Khairi Reda | *University of Illinois Chicago* |
+| Victor Mateevitsi | *University of Illinois Chicago* |
+| Fabio Miranda | *University of Illinois Chicago* |
+| Michael Papka | *University of Illinois Chicago* |
+| | |
 | **Archive Chairs** | |
-| Changjian Chen | _Hunan University_ |
-| Fabio Miranda | University of Illinois Chicago |
-| Mukund Raj | _Broad Institute_ |
-| Ashley Suh | _MIT Lincoln Laboratory_ |
-| Nicole Sultanum | _Tableau_ |
-|---
+| Changjian Chen | *Hunan University* |
+| Arpit Narechania | *The Hong Kong University of Science and Technology* |
+| | |
 | **Web Chairs** | |
-| Kaustav Bhattacharjee | _Pacific Northwest National Laboratory_ |
-| Harry Li | _MIT Lincoln Laboratory_ |
-| Andrew McNutt | _University of Utah_ |
-| Shayan Monadjemi | _Oak Ridge National Laboratory_ |
-| Yalong Yang | _Georgia Institute of Technology_ |
-|---
+| Kaustav Bhattacharjee | *Pacific Northwest National Laboratory* |
+| Harry Li | *MIT Lincoln Laboratory* |
+| Andrew McNutt | *University of Utah* |
+| Shayan Monadjemi | *Oak Ridge National Laboratory* |
+| Yalong Yang | *Georgia Institute of Technology* |
+| | |
 | **Technology Chairs** | |
-| Alexander Rind | _St. Pölten University of Applied Sciences_ |
-| Dominik Moritz | _Carnegie Mellon University_ |
-| Johannes Knittel | |
-| Alex Bock | |
-| Hilson Shrestha | |
-| Adam Coscia | |
-| Patrick Paetzold | |
-|---
+| Alexander Rind | *St. Pölten University of Applied Sciences* |
+| Dominik Moritz | *Carnegie Mellon University* |
+| Johannes Knittel | *Harvard University* |
+| Alex Bock | *Linköping University* |
+| Hilson Shrestha | *Worcester Polytechnic Institute* |
+| Adam Coscia | *Georgia Institute of Technology* |
+| Patrick Paetzold | *University of Konstanz* |
+| | |
 | **VAST Challenge Chairs** | |
-| R. Jordan Crouser | _Smith College_ |
-| Steve Gomez | _MIT Lincoln Laboratory_ |
-| Jereme Haack | _Pacific Northwest National Laboratory_ |
-|---
+| | |
 | **SciVis Contest Chairs** | |
-| Christoph Heinzl | _University of Passau_ |
-|---
-| **IEEE** |
-| Kathy Park | |
+| Valerio Pascucci | *University of Utah* |
+| Giorgio Scorzelli | *University of Utah* |
+| Aashish Panta | *University of Utah* |
+| | |
+| **IEEE** | 
+| Kathy Park | *IEEE Computer Society* |
