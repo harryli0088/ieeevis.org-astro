@@ -1,7 +1,7 @@
 {
   "name": "ieeevis.org",
   "version": "1.0.0",
-  "year": "2025",
+  "year": "2026",
   "description": "This is the updated Astro version of the [IEEE VIS website](http://ieeevis.org).",
   "scripts": {
     "dev": "astro dev",
