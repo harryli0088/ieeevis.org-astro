@@ -1,12 +1,13 @@
-name: Deploy Astro to S3
+name: Deploy Production Site
 
 on:
-  push:
-    branches: [main]
-  workflow_dispatch:
+  release:
+    # deploy production whenever someone publishes a release on the current year's branch.
+    types:
+      - published
 
 env:
-  CLOUDFRONT_DISTRIBUTION_ID: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }}
+  CLOUDFRONT_DISTRIBUTION_ID: ${{ secrets.AWS_DISTRIBUTION_ID_PRODUCTION }}
   BASE_PATH: "/year/2026" # we are ONLY deploying to this base path, do not add a trailing slash
 
 jobs:
@@ -31,13 +32,13 @@ jobs:
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4
         with:
-          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-access-key-id: ${{ secrets.AWS_DEPLOY_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          aws-region: ${{ secrets.AWS_REGION }}
+          aws-region: ${{ secrets.AWS_REGION_PRODUCTION }}
 
       - name: Sync S3 bucket
         run: |
-          aws s3 sync ./dist s3://${{ secrets.AWS_S3_BUCKET }}${{ env.BASE_PATH }}/ --delete
+          aws s3 sync ./dist s3://${{ secrets.AWS_S3_BUCKET_PRODUCTION }}${{ env.BASE_PATH }}/ --delete
 
       - name: Invalidate CloudFront
         if: env.CLOUDFRONT_DISTRIBUTION_ID != ''
