@@ -13,7 +13,7 @@ There are two updates related to open practices this year:
 - The deadline for supplemental material is April 7, one week after the full paper deadline of March 31.
 - Reviewers and authors have the option of publishing anonymized reviews.
 
-See [the announcement for more details](/year/2026/blog/vis-2026-OPC-blog-Changes).
+See [the announcement for more details](/year/2026/blog/2024-12-10-vis-2025-OPC-blog).
 
 ---
 

@@ -6,7 +6,7 @@ active_nav: "Contribute"
 contact: program@ieeevis.org
 ---
 
-## Virtual Presentations
+<!-- ## Virtual Presentations
 
 Virtual presentations at VIS 2026 are planned as **videos that will be played at a specific time** in a conference room.
 A session chair will be available on site to introduce and play the videos.
@@ -38,4 +38,4 @@ Upload your talk video until **October 22nd, 2026** to the TU Wien Nextcloud ser
 ## Q&A
 
 Make sure you logged in to **Discord** to take questions after your video has been played.
-Check Discord regularly throughout the conference.
+Check Discord regularly throughout the conference. -->
