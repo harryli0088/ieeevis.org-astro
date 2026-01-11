@@ -15,7 +15,7 @@ We highly encourage creating accessible final submissions so that your contribut
 - [Authoring an Accessible Document](#authoring-an-accessible-document)
   - [For Word Users](#for-word-users)
   - [For LaTeX Users](#for-latex-users)
-- [Adding Accessibility Metadata to a PDF](#adding-accessibility-metadata-to-a-PDF)
+- [Adding Accessibility Metadata to a PDF](#adding-accessibility-metadata-to-a-pdf)
 - [Checking Accessibility of PDF Documents](#checking-accessibility-of-pdf-documents)
 
 ## Authoring an Accessible Document
@@ -46,7 +46,7 @@ Microsoft Word can produce accessible documents.
 1. Download the latest [template for full papers](https://tc.computer.org/vgtc/publications/journal/) or the [template for all other submissions](https://tc.computer.org/vgtc/publications/conference/).
 2. **Use appropriate commands to create sections**, ordered/unordered lists, figures, tables, equations, etc.
 3. Add alt texts to the LaTeX sources (see [below](#adding-alt-texts-to-figures)) so that you can easily copy and paste them into the PDF in the next step. In future versions of LaTeX, alt texts will be automatically added to the PDF.
-4. Tag the document, add alt text to all figures and equations, and correctly annotate tables with Adobe Acrobat. Details are [below](#adding-accessibility-metadata-to-a-PDF).
+4. Tag the document, add alt text to all figures and equations, and correctly annotate tables with Adobe Acrobat. Details are [below](#adding-accessibility-metadata-to-a-pdf).
 5. Test the document complete with a screen reader to make sure that there are tags for all content.
 
 #### Adding Alt Texts to Figures

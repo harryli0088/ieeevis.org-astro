@@ -47,7 +47,7 @@ USE OF GENERATIVE AI: We remind you that, according to IEEE policy, the use of c
 
 Please ensure that you have made your paper open access if your funding agency requires it (e.g., Plan S). We also highly recommend that all authors (1) upload their preprints to a free and open repository and (2) upload their supplemental material to a free, open, and long-term archive. Please see our [Open Practices page](/year/2026/info/open-practices/open-practices) for guidance on our requirements and recommendations.
 
-Please see our [VIS Accessibility Guide](/year/2026/info/call-participation/make-pdf-accessible) for recommendations for VIS 2026 authors on how to make your contribution accessible for broader audiences.
+Please see our [VIS Accessibility Guide](/year/2026/info/call-participation/accessible-pdf) for recommendations for VIS 2026 authors on how to make your contribution accessible for broader audiences.
 
 ## Other Required Submission Items
 

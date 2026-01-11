@@ -67,7 +67,7 @@ For authors who do not wish to travel with their posters, several printing shops
 
 ### ACCESSIBILITY
 
-All poster PDFs should adhere to the [IEEE VIS Accessibility Guidelines](/year/2026/info/call-participation/make-pdf-accessible) and should be designed and formatted to ensure they can be easily accessed by a wide audience, particularly members of the community who rely on screen readers.
+All poster PDFs should adhere to the [IEEE VIS Accessibility Guidelines](/year/2026/info/call-participation/accessible-pdf) and should be designed and formatted to ensure they can be easily accessed by a wide audience, particularly members of the community who rely on screen readers.
 
 Given the highly visual nature of VIS Posters, all authors should take care to:
 
