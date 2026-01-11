@@ -4,7 +4,7 @@ layout: /src/layouts/PageLayout.astro
 contact: elections@ieeevis.org
 ---
 
-As part of IEEE VIS’s [ongoing unification effort](http://ieeevis.org/year/2020/blog/things-are-changing-2021), some positions on both the VIS Executive Committee (VEC) and VIS Steering Committee (VSC) are now directly elected by the VIS community. These elections give the community a voice in governance, allow community members to grow into positions of authority, and will hopefully ensure a diverse representation across all of VIS. For more details about the elections process, see the [IEEE VIS Charter](/governance/IEEE-governance-structure).
+As part of IEEE VIS’s [ongoing unification effort](http://ieeevis.org/year/2020/blog/things-are-changing-2021), some positions on both the VIS Executive Committee (VEC) and VIS Steering Committee (VSC) are now directly elected by the VIS community. These elections give the community a voice in governance, allow community members to grow into positions of authority, and will hopefully ensure a diverse representation across all of VIS. For more details about the elections process, see the [IEEE VIS Charter](/year/2026/governance/IEEE-governance-structure).
 
 # Register to Vote
 

@@ -8,7 +8,7 @@ active_nav: "Program"
 
 ## Accepted Workshops
 
-The following workshops went through our [submission/review process](https://ieeevis.org/year/2026/info/call-participation/workshops).
+The following workshops went through our [submission/review process](/year/2026/info/call-participation/workshops).
 
 - [ECWIDNA: Engaging Critical Workforce In co-Design aNd Assessment](#ECWIDNA)
 - [alt.VIS 2026](#alt.VIS)

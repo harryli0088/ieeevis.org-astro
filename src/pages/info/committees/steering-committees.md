@@ -9,6 +9,7 @@ The task of the IEEE VIS Steering Committee (VSC) is to provide long-term scient
 Current members of the VSC are:
 
 | **Name** | **Affiliation** |
+| --- | --- |
 | Niklas Elmqvist | _Aarhus University_ |
 | Jeffrey Heer | _University of Washington_ |
 | Kwan-Liu Ma | _University of California at Davis_ |

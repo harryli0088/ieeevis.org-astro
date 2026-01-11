@@ -9,17 +9,18 @@ The role of the VEC is to oversee the planning and success of IEEE VIS. The VEC 
 
 The current VEC members are:
 
-| **Name** | **Affiliation** |<br>
-| Leilani Battle | _University of Washington_ |<br>
-| Anastasia Bezerianos | _LRI-Université Paris-Saclay_ | <br>
-| Matthew Brehmer | _University of Waterloo_ |<br>
-| Rita Borgo (co-chair) | _King's College London_ | <br>
-| Gautam Chaudhary (co-chair) | |<br>
-| Narges Mahyar | _University of Massachusetts Amherst_ |<br>
-| Brian Summa | _Tulane University_ |<br>
-| Tatiana von Landesberger | _University of Cologne_ |<br>
-| Hendrik Strobelt | *IBM Research* |<br>
-| Daniel Keim | *University of Konstanz* |<br>
+| **Name** | **Affiliation** |
+| --- | --- |
+| Leilani Battle | _University of Washington_ |
+| Anastasia Bezerianos | _LRI-Université Paris-Saclay_ | 
+| Matthew Brehmer | _University of Waterloo_ |
+| Rita Borgo (co-chair) | _King's College London_ | 
+| Gautam Chaudhary (co-chair) | |
+| Narges Mahyar | _University of Massachusetts Amherst_ |
+| Brian Summa | _Tulane University_ |
+| Tatiana von Landesberger | _University of Cologne_ |
+| Hendrik Strobelt | *IBM Research* |
+| Daniel Keim | *University of Konstanz* |
 
 ## VIS Executive and Steering Committee Elections
 
@@ -28,4 +29,4 @@ See the [VIS Elections](/year/2026/info/elections) page for more details.
 
 ## Public Meeting Notes
 
-[All public meeting notes are available here.](https://drive.google.com/drive/folders/1H1i_gN-EyWPwEtnoprzo4d2fUO2gQfpi?usp=sharing)<br>
+[All public meeting notes are available here.](https://drive.google.com/drive/folders/1H1i_gN-EyWPwEtnoprzo4d2fUO2gQfpi?usp=sharing)

@@ -49,7 +49,7 @@ Primary reviewers who invite junior reviewers commit to mentoring them throughou
 
 **Important**: Primary reviewers should do their best not to influence the junior reviewer's decision or try to align their opinion with their own.
 
-Junior reviewers will be directed to the standard [IEEE VIS reviewing guidelines](https://www.ieeevis.org/year/2026/info/call-participation/review-instructions) and receive clear instructions about their role in the process. Their reviews should maintain the same professional standards as other reviews, though they are considered advisory in nature.
+Junior reviewers will be directed to the standard [IEEE VIS reviewing guidelines](/year/2026/info/call-participation/review-instructions) and receive clear instructions about their role in the process. Their reviews should maintain the same professional standards as other reviews, though they are considered advisory in nature.
 
 ## Writing a Junior Review
 
