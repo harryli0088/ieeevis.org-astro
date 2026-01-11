@@ -17,7 +17,7 @@ To edit files in other years, check out the other `vis*` branches. Click the bel
 
 ## Contributing
 
-If you're contributing content, but not administrating the website itself, you will want to follow the [contributor's guide](http://ieeevis.org/year/2026/info/contributing).
+If you're contributing content, but not administrating the website itself, you will want to follow the [contributor's guide](src/pages/info/contributing.md).
 
 ## Building Locally
 
