@@ -9,11 +9,11 @@ layout: /src/layouts/PageLayout.astro
 
 The VIS Restructuring Committee was tasked in 2016 by the VEC (VIS Executive Committee) with considering alternative structures, such as a more unified conference, that may better enhance vibrancy and growth. It has generated the following documents:
 
-* [VIS Restructuring Recommendations, Fall 2018](http://ieeevis.org/governance/1810-Restructuring-Recommendations.pdf)
-* [VIS Restructuring Workshop Executive Summary, Fall 2018](http://ieeevis.org/governance/1809-Restructuring-Workshops-Executive-Summary.pdf)
-* [VIS Restructuring Workshops Summary, Fall 2018](http://ieeevis.org/governance/1810-Restructuring-Workshops-Summary.pdf)
-* [VIS Restructuring Feedback, January 2018](http://ieeevis.org/governance/1801-Restructuring-Feedback.pdf)
-* [VIS Restructuring Report ("Phoenix Report"), Fall 2017](http://ieeevis.org/governance/170925-Restructuring-Slides.pdf)
+* [VIS Restructuring Recommendations, Fall 2018](/year/2026/governance/1810-Restructuring-Recommendations.pdf)
+* [VIS Restructuring Workshop Executive Summary, Fall 2018](/year/2026/governance/1809-Restructuring-Workshops-Executive-Summary.pdf)
+* [VIS Restructuring Workshops Summary, Fall 2018](/year/2026/governance/1810-Restructuring-Workshops-Summary.pdf)
+* [VIS Restructuring Feedback, January 2018](/year/2026/governance/1801-Restructuring-Feedback.pdf)
+* [VIS Restructuring Report ("Phoenix Report"), Fall 2017](/year/2026/governance/170925-Restructuring-Slides.pdf)
 
 **Committee Members**: Hanspeter Pfister (chair), Hans Hagen, Daniel Keim, Tamara Munzner, Stephen
 North 
@@ -29,7 +29,7 @@ We made a [google drive](https://drive.google.com/drive/u/0/folders/1W8Cj0OdjOYx
 - [Meeting Minutes](https://drive.google.com/drive/u/0/folders/1RgMh9o_OUsGRQHWMLm4CCSGBU3539WIM)
 - [Working Documents](https://drive.google.com/drive/u/0/folders/1dqssldHbXLmAD9zeOqHCbfNTb8gjeHKS)
 
-Also, we have prepared a document describing the [area model that will be implemented starting in 2021](/governance/area-model).
+Also, we have prepared a document describing the [area model that will be implemented starting in 2021](/info/call-participation/area-model).
 
 **Committee Members 2018-2019**: Tamara Munzner (chair), Min Chen, Alex Endert, Christoph Garth, Petra Isenberg, Alexander Lex, Shixia Liu, Torsten Möller, Anders Ynnerman.  
 **Committee Members 2019-2020**: Christoph Garth (chair), Min Chen, Alex Endert, Petra Isenberg, Alexander Lex, Shixia Liu,  Anders Ynnerman.
