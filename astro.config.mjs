@@ -4,10 +4,13 @@ import { defineConfig } from "astro/config";
 import react from "@astrojs/react";
 import tailwindcss from "@tailwindcss/vite";
 
+import sitemap from "@astrojs/sitemap";
+
 // https://astro.build/config
 export default defineConfig({
-  base: "/year/2026",
-  integrations: [react()],
+  base: process.env.BASE_PATH || "/year/2026", //this can be accessed in tsx and astro as import.meta.env.BASE_URL
+  integrations: [react(), sitemap()],
+  site: process.env.SITE,
   vite: {
     plugins: [tailwindcss()],
   },

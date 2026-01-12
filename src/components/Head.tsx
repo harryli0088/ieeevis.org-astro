@@ -7,7 +7,7 @@ export default function Head() {
       <title>Welcome to IEEE VIS 2026</title>
 
       {/* <!-- favicon --> */}
-      <link rel="icon" type="image/svg+xml" href="/assets/vis2026_icon.svg" />
+      <link rel="icon" type="image/svg+xml" href="/year/2026/assets/vis2026_icon.svg" />
 
       {/* <!-- Include Material Icons --> */}
       <link
@@ -20,6 +20,8 @@ export default function Head() {
         href="https://fonts.googleapis.com/css?family=Fira+Sans:400,700|Zilla+Slab:400,500,700&display=swap"
         rel="stylesheet"
       />
+
+      <link rel="sitemap" href="/year/2026/sitemap-index.xml" />
     </head>
   );
 }
