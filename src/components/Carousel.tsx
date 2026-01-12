@@ -54,7 +54,7 @@ export default function Carousel({ items }: { items: CarouselItem[] }) {
                   <div className="carousel-caption carousel-darken">
                     <span className="block carousel-title">{item.title}</span>
                     <p className="carousel-p">{item.description}</p>
-                    <a href={item.buttonUrl} className="button">
+                    <a href={`${import.meta.env.BASE_URL}${item.buttonUrl}`} className="button">
                       {item.buttonText}
                     </a>
                   </div>
@@ -62,7 +62,7 @@ export default function Carousel({ items }: { items: CarouselItem[] }) {
                   <div className="carousel-caption d-none d-md-block bg-dark my-4 p-2 pb-5">
                     <span className="block carousel-title">{item.title}</span>
                     <p className="carousel-p">{item.description}</p>
-                    <a href={item.buttonUrl} className="button bg-primary">
+                    <a href={`${import.meta.env.BASE_URL}${item.buttonUrl}`} className="button bg-primary">
                       {item.buttonText}
                     </a>
                   </div>

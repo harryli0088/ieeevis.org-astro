@@ -65,7 +65,7 @@ Ultimately, being a GC is about working for the community to shape a great confe
 
 #### Think About it!
 
-If you are inspired to think about hosting VIS, then please connect with the IEEE VIS Executive Committee ([VEC](mailto:vec@ieeevis.org)) with your ideas, and check the two-stage [IEEE VIS General Chair Applications & Bid Process](https://ieeevis.org/governance/bids).
+If you are inspired to think about hosting VIS, then please connect with the IEEE VIS Executive Committee ([VEC](mailto:vec@ieeevis.org)) with your ideas, and check the two-stage [IEEE VIS General Chair Applications & Bid Process](/year/2026/governance/bids).
 
 Remember, that
  * **Stage 1 commits you to nothing**, it simply initiates some discussion.<br/>**It does not involve any consideration of venues or negotiations with conference centres or hotels** This all comes later (Stage 2!) and with support from the IEEE events team.
