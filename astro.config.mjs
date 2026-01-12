@@ -4,6 +4,7 @@ import { defineConfig } from "astro/config";
 import react from "@astrojs/react";
 import tailwindcss from "@tailwindcss/vite";
 
+//https://docs.astro.build/en/guides/integrations-guide/sitemap/
 import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
