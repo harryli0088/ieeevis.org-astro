@@ -10,7 +10,7 @@ export default function Footer({
   footer_data: { columns: FooterSectionType[] };
   pathname: string;
 }) {
-  const source_file = `${pathname}.md`;
+  const source_file = `src/pages${pathname}.md`;
 
   return (
     <footer className="footer text-white">
@@ -24,7 +24,7 @@ export default function Footer({
           {", "}
           {/* <!-- <a href="mailto:{{ page.contact | default: site.email }}" className="link">{% if page.author_contact %}{{ page.author_contact }}{% else %}{{ page.contact | default: site.email }}{% endif %}</a>, --> */}
           <a
-            href={`${pkg.repository.url}/issues/new/?title="Fix content problem on year/${pkg.year}/${source_file}"`}
+            href={`${pkg.repository.url}/issues/new/?title="Fix content problem on /${source_file}"`}
             target="_blank"
             className="link"
           >
@@ -32,7 +32,7 @@ export default function Footer({
           </a>
           , or{" "}
           <a
-            href={`${pkg.repository.url}/edit/vis${pkg.year}/src/pages${source_file}`}
+            href={`${pkg.repository.url}/edit/vis${pkg.year}/${source_file}`}
             target="_blank"
             className="link"
           >
