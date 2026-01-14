@@ -4,12 +4,12 @@ import pkg from "../../package.json";
 export default function Footer({
   footer_data,
   contact,
+  pathname,
 }: {
   contact: string;
   footer_data: { columns: FooterSectionType[] };
+  pathname: string;
 }) {
-  const pathname =
-    typeof window !== "undefined" ? window.location.pathname : "";
   const source_file = `${pathname}.md`;
 
   return (
@@ -32,7 +32,7 @@ export default function Footer({
           </a>
           , or{" "}
           <a
-            href={`${pkg.repository.url}/edit/vis${pkg.year}/${source_file}`}
+            href={`${pkg.repository.url}/edit/vis${pkg.year}/src/pages${source_file}`}
             target="_blank"
             className="link"
           >

@@ -11,6 +11,7 @@ import Navigation from '../components/Navigation';
 import Footer from '../components/Footer'
 
 const { page_info } = Astro.props;
+const { pathname } = Astro.url;
 ---
 
 <!doctype html>
@@ -26,7 +27,7 @@ const { page_info } = Astro.props;
             <slot />
         </main>
 
-        <Footer footer_data={footer_data} contact={page_info.contact}/>
+        <Footer pathname={pathname} footer_data={footer_data} contact={page_info.contact}/>
 	</body>
 </html>
 
