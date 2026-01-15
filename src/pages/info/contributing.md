@@ -7,7 +7,7 @@ contact: web@ieeevis.org
 
 Thank you for helping with the ieeevis.org website. The easiest way for you to contribute to the website is to edit the file you want to change, directly in your browser ([described below](#how-to-change-an-existing-page)).
 
-What will happen behind the scenes after you're done with an edit is that GitHub will automatically create a "pull request" from your edit, which will let us know that you would like to update some of the content. [Here is a simple guide](https://help.github.com/articles/editing-files-in-another-user-s-repository/) to editing files in another user's repository.
+What will happen behind the scenes after you're done with an edit is that GitHub will automatically create a pull request from your edit, which will let us know that you would like to update some of the content. [Here is a simple guide](https://help.github.com/articles/editing-files-in-another-user-s-repository/) to editing files in another user's repository.
 
 ### Table of contents
 
@@ -20,15 +20,17 @@ What will happen behind the scenes after you're done with an edit is that GitHub
 
 ## Policies
 
-### By default, web chairs are not responsible for content
+### Scope of responsibility for web chairs
 
-Please do not contact web chairs with requests that include decisions over content. For example, "improve the text on page XYZ" is not a reasonable request to be made to web@; it's a request to be made to whoever is the responsible party.
+By default, web chairs focus on the technical operation of the website and supporting infrastructure. Decisions about content should be handled by the appropriate content owners. Requests that involve content decisions — such as “please improve the text on page XYZ” — should directed to the person or group responsible for that content.
 
-Please do not contact web chairs with requests such as "please add this content to the web site. You can decide where it goes". The web chairs are responsible for making sure the website is running smoothly, together with the rest of the web infrastructure. They are not responsible for content. You should contact them with, at least:
+Similarly, when requesting that new content be added to the website, please include enough detail to allow the web chairs to implement the request efficiently. In particular, you should provide:
 
-- the URL where you want the page to go,
-- the specific content it should be there,
-- and the person who will be in charge of maintaining that content in the future.
+- the URL or section where the content should appear,
+- the exact content to be added, and
+- the name of the person responsible for maintaining that content going forward.
+
+Providing this information helps ensure requests are handled smoothly and efficiently.
 
 ### Web chairs will generally update the website once a week
 
@@ -52,10 +54,6 @@ fixed. However, if the fix involves anything more than trivial typos,
 we will wait for an OK from the point-of-contact before committing the
 changes.
 
-### What's with the content files all over the place?
-
-This is the result of five years of legacy pages written atop of each other. We're slowly improving the situation, but the legacy content is currently quite messy. Pull requests are welcome.
-
 ## How to change an existing page
 
 Here's a video that illustrates the same process described in the text below:
@@ -68,32 +66,35 @@ Here's a video that illustrates the same process described in the text below:
 
 The _easiest_ way to suggest a change is to go on the bottom of the page you want to change and click on “file a bug”. You will be taken to the GitHub website where you can describe the problem, and web@ will get a notification when the bug is filed.
 
-If you are an organization member, the _best_ way to suggest a change is to go on the bottom of the page you want to change and click on "suggest a fix". You can even go to a webpage that hasn't been created yet (like [http://ieeevis.org/year/2022/hellothere](http://ieeevis.org/year/2022/hellothere)) and click on the link for making a new page. You will be taken to GitHub to make your edits.
+If you are an organization member, the _best_ way to suggest a change is to go on the bottom of the page you want to change and click on "suggest a fix". You can even go to a webpage that hasn't been created yet (like [http://ieeevis.org/year/2026/hellothere](http://ieeevis.org/year/2026/hellothere)) and click on the link for making a new page. You will be taken to GitHub to make your edits.
 
 To continue, you will be asked to log in to a GitHub account. After you do so, you will be shown an interface that looks like this:
 
-<img src="/year/2026/assets/contributing/instructions-1.png" style="width: 100%">
+<img src="/year/2026/assets/contributing/instructions-1.png" style="width: 100%;border:1px solid gray;">
+<br/>
 
 After you’re done making the edits, you’ll go to the bottom of the page where there’s this:
 
-<img src="/year/2026/assets/contributing/instructions-2.png" style="width: 100%">
+<img src="/year/2026/assets/contributing/instructions-2.png" style="width: 100%;border:1px solid gray;">
+<br/>
 
 After you click on "Propose file change", you’ll be taken to something that looks like this, where you can click on "Create Pull Request":
 
-<img src="/year/2026/assets/contributing/instructions-3.png" style="width: 100%">
+<img src="/year/2026/assets/contributing/instructions-3.png" style="width: 100%;border:1px solid gray;">
+<br/>
 
 After you click on that, web gets both a bug report and a proposed change:
 
-<img src="/year/2026/assets/contributing/instructions-4.png" style="width: 100%">
+<img src="/year/2026/assets/contributing/instructions-4.png" style="width: 100%;border:1px solid gray;">
+<br/>
 
 If the change is simple, we’ll simply say "OK". If the change requires reviewers, we can ask for people to comment on the thread. After everyone says OK, we merge the change and then we will be able to push it to staging.ieeevis.org. All PRs are automatically built to the staging website; [you can take a look at the history of deploy actions](https://github.com/ieee-vgtc/ieeevis.org/actions).
 
 ## Staging vs Production
 
-In case you’re wondering how we go from staging.ieeevis.org to ieeevis.org, there is effectively no difference between staging and production. We hold changes in staging for approval by the core committee. During non-conference times, web will ask core to approve changes to go to production ([http://ieeevis.org](http://ieeevis.org)) on a weekly cadence, usually Wednesday morning US time (GMT -6). If you have a need for content to "go-live" faster, please e-mail web@ at the conference website domain.
+We have a staging website that has essentially the same setup as production. The staging site automatically builds when a pull request is merged in. We hold changes in staging for approval by the core committee, and push to production by making a new release.
 
-In other words, all of the discussion we've had here applies to production as well.
-(From our side, the difference between pushing to staging and pushing to production is to make a release; [see the release GitHub action](https://github.com/ieee-vgtc/ieeevis.org/actions?query=workflow%3A%22deploy+production+on+release%22)).
+During non-conference times, web will ask core to approve changes to go to production ([http://ieeevis.org](http://ieeevis.org)) on a weekly cadence, usually Wednesday morning US time. If you have a need for content to "go-live" faster, please e-mail web@ at the conference website domain.
 
 ## Where are the current files?
 
