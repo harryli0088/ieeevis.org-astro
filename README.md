@@ -35,6 +35,11 @@ Now you can run the site locally by running
 npm run dev
 ```
 
+Make changes to the site:
+
+- To edit content on a particular page, go to `src/pages` and find the corresponding markdown file for the page you want to edit.
+- To edit navigation or sidebars, find the respective `yml` file in `src/data`. You may need to shutdown and restart the site to see your `yml` changes.
+
 When you have made changes and would like to submit them, open a new pull request for the web chairs to review.
 
 ## Automatic building

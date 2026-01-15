@@ -58,11 +58,12 @@ changes.
 
 Here's a video that illustrates the same process described in the text below:
 
-<video width="480" controls>
+<video width="480" controls style="width:100%;">
 <source
   src="/year/2026/assets/contributing/pull-request-tutorial-web.mp4"
   type="video/mp4">
 </video>
+<br/>
 
 The _easiest_ way to suggest a change is to go on the bottom of the page you want to change and click on “file a bug”. You will be taken to the GitHub website where you can describe the problem, and web@ will get a notification when the bug is filed.
 
@@ -114,7 +115,10 @@ If you'd like, you can build the website locally and make edits there. Here are 
 3. Checkout the current year: e.g., `git checkout vis2026`
 4. Obtain dependencies: `npm install`
 5. Run the site locally: `npm run dev`.
-6. Make changes to the site. You may need to shutdown and restart the site to see `yml` changes
+6. Make changes to the site
+
+- To edit content on a particular page, go to `src/pages` and find the corresponding markdown file for the page you want to edit.
+- To edit navigation or sidebars, find the respective `yml` file in `src/data`. You may need to shutdown and restart the site to see your `yml` changes.
 
 If you cloned [ieee-vgtc/ieeevis.org](https://github.com/ieee-vgtc/ieeevis.org) directly, you will not have permissions to push commits to the repository, you'll get an authentication failure message from GitHub. Delete your local repo copy, fork the repository on GitHub, and clone that instead.
 
